@@ -1,0 +1,28 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           cliente
+    theme:                 laigu
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          cliente
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        Transversalinicial: {label: "Transversal Inicial"}
+        Transversalfinal: {label: "Transversal Final"}
+        Datanascimento: {label: "Data Nascimento"}
+        Rg: {label: "Número do RG"}
+        Pessoafisica: {label: "Pessoa Fisica"}
+      list:
+        display:   [Codigo, =Nome, Telefone, Transversalinicial, Transversalfinal]
+        sort:      [Nome]
+      filter:  ~
+      form:    ~
+      edit:    ~
+      new:     ~

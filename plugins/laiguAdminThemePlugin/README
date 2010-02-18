@@ -1,0 +1,101 @@
+# laiguAdminTheme plugin #
+
+## Overview ##
+The laiguAdminThemePlugin packages a new admin generator theme based on AJAX requests via ExtJs. You can use laiguAdminThemePlugin to create yours master-detail relations.
+
+This plugin allows to change the default admin generator theme to one based on the ExtJs framework.
+This admin generator theme is only targeting the actual element of the admin generator (table, forms...), it does not modify your overall layout.
+
+Here are some screenshots: [Table list and themes](http://www.laigu.net)
+
+
+## Installation ##
+
+* Download and install the plugin
+
+        ./symfony plugin:install laiguAdminThemePlugin --stability=beta
+
+* Clear the cache
+
+        ./symfony cc
+
+* Publish the plugin's assets:
+
+        ./symfony plugin:publish-assets
+
+
+## Configuration ##
+
+* Enable the plugin `laiguAdminThemePlugin` on a project, via /config/ProjectConfiguration.class.php:
+
+          class ProjectConfiguration extends sfProjectConfiguration
+          {
+            public function setup()
+            {
+              $this->enablePlugins('sfDoctrinePlugin', 'laiguAdminThemePlugin');
+            }
+          }
+
+* Download and install Ext JS
+
+    1. Download <a href="http://www.extjs.com/products/extjs/download.php?dl=extjs310" target="_blank">Ext JS</a>
+    2. Uncompress on js directory (ex: &lt;my_project&gt;/web/js/extjs/)
+
+* ExtJs related configuration (optional)
+
+    You should change your ExtJs web dir inside your *app.yml*:
+
+            all:
+              laigu_admin_theme_plugin:
+                web_dir_extjs:   /js/extjs # specify your folder where to pick ExtJs.
+
+
+## How to use it ##
+
+* Generate an admin generator:
+
+        ./symfony --theme=laigu doctrine:generate-admin
+
+* Don't forget:
+
+        ./symfony cc
+
+That's it!.
+
+## Extra features configuration ##
+
+This plugin add as well some new features that you can configure in your **generator.yml**. Currently available:
+
+* Master-detail: a parameter to link 1-n relations.
+* Filter collapsed: view filters collapsed in the list view
+
+
+### Master-detail parameter ###
+
+        edit:
+          detail:
+            town: # detail name
+              module: town # module name to link (you must created module previously using laiguAdminTheme, is not necessary to configure anymore)
+              params: { state_id: getId } # parameters pass to detail module (first, detail parameter name; after, parent object method) (NOTE: MAY BE CHANGE IN THE FUTURE)
+
+
+### Filter collapsed parameter ###
+
+      filter:
+        params: { collapsed: true }
+
+
+## Contact ##
+
+* Jordi Llonch ( jordi [at] laigu [dot] net ), [http://www.laigu.net]
+* Magí Carbonell ( mcarbonell [at] laigu [dot] net ), [http://www.laigu.net]
+
+
+## Changelog ##
+
+* version 0.1.0: initial release
+
+
+## TODO ##
+
+* add new features integrating ExtJs widgets

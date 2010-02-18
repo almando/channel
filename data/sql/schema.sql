@@ -1,0 +1,3 @@
+CREATE TABLE state (id INT AUTO_INCREMENT, state VARCHAR(150), PRIMARY KEY(id)) ENGINE = INNODB;
+CREATE TABLE town (id INT AUTO_INCREMENT, zip VARCHAR(5), town VARCHAR(150), state_id INT, country VARCHAR(150), INDEX state_id_idx (state_id), PRIMARY KEY(id)) ENGINE = INNODB;
+ALTER TABLE town ADD CONSTRAINT town_state_id_state_id FOREIGN KEY (state_id) REFERENCES state(id) ON DELETE CASCADE;

@@ -1,0 +1,7551 @@
+Town:
+  Town_1:
+    zip: '08000'
+    town: BARCELONA-PLATAFORMA
+    State: State_1
+    country: SPAIN
+  Town_2:
+    zip: '08001'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_3:
+    zip: '08002'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_4:
+    zip: '08003'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_5:
+    zip: '08004'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_6:
+    zip: '08005'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_7:
+    zip: '08006'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_8:
+    zip: '08007'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_9:
+    zip: '08008'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_10:
+    zip: '08009'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_11:
+    zip: '08010'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_12:
+    zip: '08011'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_13:
+    zip: '08012'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_14:
+    zip: '08013'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_15:
+    zip: '08014'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_16:
+    zip: '08015'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_17:
+    zip: '08016'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_18:
+    zip: '08017'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_19:
+    zip: '08018'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_20:
+    zip: '08019'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_21:
+    zip: '08020'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_22:
+    zip: '08021'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_23:
+    zip: '08022'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_24:
+    zip: '08023'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_25:
+    zip: '08024'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_26:
+    zip: '08025'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_27:
+    zip: '08026'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_28:
+    zip: '08027'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_29:
+    zip: '08028'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_30:
+    zip: '08029'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_31:
+    zip: '08030'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_32:
+    zip: '08031'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_33:
+    zip: '08032'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_34:
+    zip: '08033'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_35:
+    zip: '08034'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_36:
+    zip: '08035'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_37:
+    zip: '08036'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_38:
+    zip: '08037'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_39:
+    zip: '08038'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_40:
+    zip: '08039'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_41:
+    zip: '08040'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_42:
+    zip: '08041'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_43:
+    zip: '08042'
+    town: BARCELONA
+    State: State_1
+    country: SPAIN
+  Town_44:
+    zip: '08100'
+    town: 'MOLLET DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_45:
+    zip: '08104'
+    town: GALLECS
+    State: State_1
+    country: SPAIN
+  Town_46:
+    zip: '08105'
+    town: 'CONRERIA, LA (SANT FOST CAMPCENTELLES)'
+    State: State_1
+    country: SPAIN
+  Town_47:
+    zip: '08105'
+    town: 'SANT FOST DE CAMPSENTELLES'
+    State: State_1
+    country: SPAIN
+  Town_48:
+    zip: '08106'
+    town: 'SANTA MARIA DE MARTORELLES'
+    State: State_1
+    country: SPAIN
+  Town_49:
+    zip: '08107'
+    town: MARTORELLES
+    State: State_1
+    country: SPAIN
+  Town_50:
+    zip: '08110'
+    town: 'MONTCADA I REIXAC'
+    State: State_1
+    country: SPAIN
+  Town_51:
+    zip: '08110'
+    town: 'VALLENÇANA, LA'
+    State: State_1
+    country: SPAIN
+  Town_52:
+    zip: '08120'
+    town: 'LLAGOSTA, LA'
+    State: State_1
+    country: SPAIN
+  Town_53:
+    zip: '08130'
+    town: 'FLORIDA, LA'
+    State: State_1
+    country: SPAIN
+  Town_54:
+    zip: '08130'
+    town: MOGODA
+    State: State_1
+    country: SPAIN
+  Town_55:
+    zip: '08130'
+    town: 'SANTA PERPETUA DE MOGODA'
+    State: State_1
+    country: SPAIN
+  Town_56:
+    zip: '08130'
+    town: 'SANTIGA (SANTA PERPETUA DE MOGODA)'
+    State: State_1
+    country: SPAIN
+  Town_57:
+    zip: '08140'
+    town: 'CALDES DE MONTBUI'
+    State: State_1
+    country: SPAIN
+  Town_58:
+    zip: '08140'
+    town: 'CAN VALLS-TO'
+    State: State_1
+    country: SPAIN
+  Town_59:
+    zip: '08146'
+    town: GALLIFA
+    State: State_1
+    country: SPAIN
+  Town_60:
+    zip: '08148'
+    town: 'ESTANY, L'''
+    State: State_1
+    country: SPAIN
+  Town_61:
+    zip: '08150'
+    town: 'EIXAMPLE, L'''
+    State: State_1
+    country: SPAIN
+  Town_62:
+    zip: '08150'
+    town: 'PARETS DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_63:
+    zip: '08160'
+    town: MONTMELO
+    State: State_1
+    country: SPAIN
+  Town_64:
+    zip: '08170'
+    town: 'MONTORNES DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_65:
+    zip: '08172'
+    town: 'SANT CUGAT DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_66:
+    zip: '08173'
+    town: 'SANT CUGAT DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_67:
+    zip: '08174'
+    town: 'SANT CUGAT DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_68:
+    zip: '08178'
+    town: COLLSUSPINA
+    State: State_1
+    country: SPAIN
+  Town_69:
+    zip: '08180'
+    town: MOIA
+    State: State_1
+    country: SPAIN
+  Town_70:
+    zip: '08181'
+    town: SENTMENAT
+    State: State_1
+    country: SPAIN
+  Town_71:
+    zip: '08182'
+    town: 'SANT FELIU DE CODINES'
+    State: State_1
+    country: SPAIN
+  Town_72:
+    zip: '08183'
+    town: CASTELLCIR
+    State: State_1
+    country: SPAIN
+  Town_73:
+    zip: '08183'
+    town: CASTELLTERÇOL
+    State: State_1
+    country: SPAIN
+  Town_74:
+    zip: '08183'
+    town: GRANERA
+    State: State_1
+    country: SPAIN
+  Town_75:
+    zip: '08184'
+    town: 'PALAU-SOLITA I PLEGAMANS'
+    State: State_1
+    country: SPAIN
+  Town_76:
+    zip: '08185'
+    town: 'LLIÇA DE VALL'
+    State: State_1
+    country: SPAIN
+  Town_77:
+    zip: '08185'
+    town: 'PLA, EL (LLIÇA DE VALL)'
+    State: State_1
+    country: SPAIN
+  Town_78:
+    zip: '08186'
+    town: 'LLIÇA D''AMUNT'
+    State: State_1
+    country: SPAIN
+  Town_79:
+    zip: '08187'
+    town: 'RIERAL, EL (STª EULALIA DE RONÇANA)'
+    State: State_1
+    country: SPAIN
+  Town_80:
+    zip: '08187'
+    town: 'SANTA EULALIA DE RONÇANA'
+    State: State_1
+    country: SPAIN
+  Town_81:
+    zip: '08188'
+    town: VALLROMANES
+    State: State_1
+    country: SPAIN
+  Town_82:
+    zip: '08189'
+    town: 'SANT QUIRZE SAFAJA'
+    State: State_1
+    country: SPAIN
+  Town_83:
+    zip: '08190'
+    town: 'SANT CUGAT DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_84:
+    zip: '08191'
+    town: RUBI
+    State: State_1
+    country: SPAIN
+  Town_85:
+    zip: '08192'
+    town: 'SANT QUIRZE DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_86:
+    zip: '08193'
+    town: BELLATERRA
+    State: State_1
+    country: SPAIN
+  Town_87:
+    zip: '08193'
+    town: 'UNIVERSITAT AUTONOMA DE BARCELONA'
+    State: State_1
+    country: SPAIN
+  Town_88:
+    zip: '08194'
+    town: 'FONTS, LES (SANT QUIRZE DEL VALLES)'
+    State: State_1
+    country: SPAIN
+  Town_89:
+    zip: '08195'
+    town: MIRA-SOL
+    State: State_1
+    country: SPAIN
+  Town_90:
+    zip: '08195'
+    town: 'SANT CUGAT DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_91:
+    zip: '08196'
+    town: 'PLANES, LES'
+    State: State_1
+    country: SPAIN
+  Town_92:
+    zip: '08196'
+    town: 'SANT CUGAT DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_93:
+    zip: '08197'
+    town: 'SANT CUGAT DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_94:
+    zip: '08197'
+    town: VALLDOREIX
+    State: State_1
+    country: SPAIN
+  Town_95:
+    zip: '08198'
+    town: 'SANT CUGAT DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_96:
+    zip: '08199'
+    town: 'COLONIA PUIG, LA (MARGANELL)'
+    State: State_1
+    country: SPAIN
+  Town_97:
+    zip: '08199'
+    town: 'MONTSERRAT (MONESTIR)'
+    State: State_1
+    country: SPAIN
+  Town_98:
+    zip: '08199'
+    town: 'SANTA CECILIA (MARGANELL)'
+    State: State_1
+    country: SPAIN
+  Town_99:
+    zip: '08201'
+    town: SABADELL
+    State: State_1
+    country: SPAIN
+  Town_100:
+    zip: '08202'
+    town: SABADELL
+    State: State_1
+    country: SPAIN
+  Town_101:
+    zip: '08203'
+    town: SABADELL
+    State: State_1
+    country: SPAIN
+  Town_102:
+    zip: '08204'
+    town: SABADELL
+    State: State_1
+    country: SPAIN
+  Town_103:
+    zip: '08205'
+    town: SABADELL
+    State: State_1
+    country: SPAIN
+  Town_104:
+    zip: '08206'
+    town: SABADELL
+    State: State_1
+    country: SPAIN
+  Town_105:
+    zip: '08207'
+    town: SABADELL
+    State: State_1
+    country: SPAIN
+  Town_106:
+    zip: '08208'
+    town: SABADELL
+    State: State_1
+    country: SPAIN
+  Town_107:
+    zip: '08210'
+    town: 'BARBERA DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_108:
+    zip: '08210'
+    town: 'SANTIGA (BARBERA DEL VALLES)'
+    State: State_1
+    country: SPAIN
+  Town_109:
+    zip: '08211'
+    town: 'CAN CARNER'
+    State: State_1
+    country: SPAIN
+  Town_110:
+    zip: '08211'
+    town: 'CASTELLAR DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_111:
+    zip: '08211'
+    town: 'PLA DE LA BRUGUERA'
+    State: State_1
+    country: SPAIN
+  Town_112:
+    zip: '08211'
+    town: 'SANT FELIU DEL RACO'
+    State: State_1
+    country: SPAIN
+  Town_113:
+    zip: '08212'
+    town: 'SANT LLORENÇ SAVALL'
+    State: State_1
+    country: SPAIN
+  Town_114:
+    zip: '08213'
+    town: POLINYA
+    State: State_1
+    country: SPAIN
+  Town_115:
+    zip: '08214'
+    town: 'BADIA DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_116:
+    zip: '08221'
+    town: TERRASSA
+    State: State_1
+    country: SPAIN
+  Town_117:
+    zip: '08222'
+    town: TERRASSA
+    State: State_1
+    country: SPAIN
+  Town_118:
+    zip: '08223'
+    town: TERRASSA
+    State: State_1
+    country: SPAIN
+  Town_119:
+    zip: '08224'
+    town: TERRASSA
+    State: State_1
+    country: SPAIN
+  Town_120:
+    zip: '08225'
+    town: TERRASSA
+    State: State_1
+    country: SPAIN
+  Town_121:
+    zip: '08226'
+    town: TERRASSA
+    State: State_1
+    country: SPAIN
+  Town_122:
+    zip: '08227'
+    town: TERRASSA
+    State: State_1
+    country: SPAIN
+  Town_123:
+    zip: '08227'
+    town: TORREBONICA
+    State: State_1
+    country: SPAIN
+  Town_124:
+    zip: '08228'
+    town: 'FONTS, LES (TERRASSA)'
+    State: State_1
+    country: SPAIN
+  Town_125:
+    zip: '08228'
+    town: TERRASSA
+    State: State_1
+    country: SPAIN
+  Town_126:
+    zip: '08230'
+    town: MATADEPERA
+    State: State_1
+    country: SPAIN
+  Town_127:
+    zip: '08230'
+    town: 'PEDRITXES, LES'
+    State: State_1
+    country: SPAIN
+  Town_128:
+    zip: '08230'
+    town: 'SANT LLORENÇ (MATADEPERA)'
+    State: State_1
+    country: SPAIN
+  Town_129:
+    zip: '08231'
+    town: ULLASTRELL
+    State: State_1
+    country: SPAIN
+  Town_130:
+    zip: '08232'
+    town: VILADECAVALLS
+    State: State_1
+    country: SPAIN
+  Town_131:
+    zip: '08233'
+    town: VACARISSES
+    State: State_1
+    country: SPAIN
+  Town_132:
+    zip: '08240'
+    town: MANRESA
+    State: State_1
+    country: SPAIN
+  Town_133:
+    zip: '08240'
+    town: VILADORDIS
+    State: State_1
+    country: SPAIN
+  Town_134:
+    zip: '08241'
+    town: MANRESA
+    State: State_1
+    country: SPAIN
+  Town_135:
+    zip: '08242'
+    town: MANRESA
+    State: State_1
+    country: SPAIN
+  Town_136:
+    zip: '08243'
+    town: MANRESA
+    State: State_1
+    country: SPAIN
+  Town_137:
+    zip: '08250'
+    town: 'SANT JOAN DE VILATORRADA'
+    State: State_1
+    country: SPAIN
+  Town_138:
+    zip: '08250'
+    town: 'SANT MARTI DE TORROELLA'
+    State: State_1
+    country: SPAIN
+  Town_139:
+    zip: '08251'
+    town: 'CASTELLNOU DE BAGES'
+    State: State_1
+    country: SPAIN
+  Town_140:
+    zip: '08251'
+    town: SANTPEDOR
+    State: State_1
+    country: SPAIN
+  Town_141:
+    zip: '08253'
+    town: 'SANT SALVADOR DE GUARDIOLA'
+    State: State_1
+    country: SPAIN
+  Town_142:
+    zip: '08254'
+    town: 'PONT DE VILOMARA I ROCAFORT, EL'
+    State: State_1
+    country: SPAIN
+  Town_143:
+    zip: '08254'
+    town: 'PONT DE VILUMARA (MANRESA)'
+    State: State_1
+    country: SPAIN
+  Town_144:
+    zip: '08255'
+    town: 'CASTELLFOLLIT DEL BOIX'
+    State: State_1
+    country: SPAIN
+  Town_145:
+    zip: '08255'
+    town: MAIANS
+    State: State_1
+    country: SPAIN
+  Town_146:
+    zip: '08256'
+    town: 'AGUILAR DE SEGARRA'
+    State: State_1
+    country: SPAIN
+  Town_147:
+    zip: '08256'
+    town: CASTELLAR
+    State: State_1
+    country: SPAIN
+  Town_148:
+    zip: '08256'
+    town: RAJADELL
+    State: State_1
+    country: SPAIN
+  Town_149:
+    zip: '08259'
+    town: FALS
+    State: State_1
+    country: SPAIN
+  Town_150:
+    zip: '08259'
+    town: FONOLLOSA
+    State: State_1
+    country: SPAIN
+  Town_151:
+    zip: '08260'
+    town: 'ARGENSOLA (CASTELLNOU DE BAGES)'
+    State: State_1
+    country: SPAIN
+  Town_152:
+    zip: '08260'
+    town: SURIA
+    State: State_1
+    country: SPAIN
+  Town_153:
+    zip: '08261'
+    town: CARDONA
+    State: State_1
+    country: SPAIN
+  Town_154:
+    zip: '08261'
+    town: 'COROMINA, LA'
+    State: State_1
+    country: SPAIN
+  Town_155:
+    zip: '08262'
+    town: CALLUS
+    State: State_1
+    country: SPAIN
+  Town_156:
+    zip: '08263'
+    town: CASTELLTALLAT
+    State: State_1
+    country: SPAIN
+  Town_157:
+    zip: '08263'
+    town: 'SANT MATEU DE BAGES'
+    State: State_1
+    country: SPAIN
+  Town_158:
+    zip: '08269'
+    town: 'BARRI LA RATA(NAVAS)'
+    State: State_1
+    country: SPAIN
+  Town_159:
+    zip: '08269'
+    town: COANER
+    State: State_1
+    country: SPAIN
+  Town_160:
+    zip: '08269'
+    town: 'PALA DE TORROELLA, EL'
+    State: State_1
+    country: SPAIN
+  Town_161:
+    zip: '08269'
+    town: SALO
+    State: State_1
+    country: SPAIN
+  Town_162:
+    zip: '08269'
+    town: 'SANT SALVADOR DE TORROELLA'
+    State: State_1
+    country: SPAIN
+  Town_163:
+    zip: '08269'
+    town: 'VALLS DE TORRUELA'
+    State: State_1
+    country: SPAIN
+  Town_164:
+    zip: '08270'
+    town: NAVARCLES
+    State: State_1
+    country: SPAIN
+  Town_165:
+    zip: '08271'
+    town: ARTES
+    State: State_1
+    country: SPAIN
+  Town_166:
+    zip: '08272'
+    town: 'PONT DE CABRIANES, EL'
+    State: State_1
+    country: SPAIN
+  Town_167:
+    zip: '08272'
+    town: 'SANT FRUITOS DE BAGES'
+    State: State_1
+    country: SPAIN
+  Town_168:
+    zip: '08273'
+    town: 'SANTA MARIA D''OLO'
+    State: State_1
+    country: SPAIN
+  Town_169:
+    zip: '08274'
+    town: 'SANT FELIU SASSERRA'
+    State: State_1
+    country: SPAIN
+  Town_170:
+    zip: '08275'
+    town: CALDERS
+    State: State_1
+    country: SPAIN
+  Town_171:
+    zip: '08275'
+    town: 'MONISTROL DE CALDERS'
+    State: State_1
+    country: SPAIN
+  Town_172:
+    zip: '08275'
+    town: 'VILADECAVALLS (CALDERS)'
+    State: State_1
+    country: SPAIN
+  Town_173:
+    zip: '08278'
+    town: MURA
+    State: State_1
+    country: SPAIN
+  Town_174:
+    zip: '08278'
+    town: TALAMANCA
+    State: State_1
+    country: SPAIN
+  Town_175:
+    zip: '08279'
+    town: AVINYO
+    State: State_1
+    country: SPAIN
+  Town_176:
+    zip: '08279'
+    town: 'SANTA EUGENIA DE RELAT'
+    State: State_1
+    country: SPAIN
+  Town_177:
+    zip: '08280'
+    town: CALAF
+    State: State_1
+    country: SPAIN
+  Town_178:
+    zip: '08281'
+    town: 'CALONGE DE SEGARRA'
+    State: State_1
+    country: SPAIN
+  Town_179:
+    zip: '08281'
+    town: 'COROMINES, LES (AGUILAR DE SEGARRA)'
+    State: State_1
+    country: SPAIN
+  Town_180:
+    zip: '08281'
+    town: 'PRATS DE REI, ELS'
+    State: State_1
+    country: SPAIN
+  Town_181:
+    zip: '08281'
+    town: 'SANT PERE DE L''ARS'
+    State: State_1
+    country: SPAIN
+  Town_182:
+    zip: '08281'
+    town: 'SANT PERE SALLAVINERA'
+    State: State_1
+    country: SPAIN
+  Town_183:
+    zip: '08282'
+    town: PUJALT
+    State: State_1
+    country: SPAIN
+  Town_184:
+    zip: '08282'
+    town: 'SANT MARTI SESGUEIOLES'
+    State: State_1
+    country: SPAIN
+  Town_185:
+    zip: '08283'
+    town: 'CASTELLFOLLIT DE RIUBREGOS (CALAF)'
+    State: State_1
+    country: SPAIN
+  Town_186:
+    zip: '08289'
+    town: COPONS
+    State: State_1
+    country: SPAIN
+  Town_187:
+    zip: '08290'
+    town: 'CERDANYOLA DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_188:
+    zip: '08291'
+    town: RIPOLLET
+    State: State_1
+    country: SPAIN
+  Town_189:
+    zip: '08292'
+    town: 'CAN FOSALBA (HOSTALETS DE PIEROLA)'
+    State: State_1
+    country: SPAIN
+  Town_190:
+    zip: '08292'
+    town: 'COLONIA SEDO, LA'
+    State: State_1
+    country: SPAIN
+  Town_191:
+    zip: '08292'
+    town: ESPARREGUERA
+    State: State_1
+    country: SPAIN
+  Town_192:
+    zip: '08292'
+    town: 'SERRA ALTA (HOSTALETS DE PIEROLA)'
+    State: State_1
+    country: SPAIN
+  Town_193:
+    zip: '08293'
+    town: COLLBATO
+    State: State_1
+    country: SPAIN
+  Town_194:
+    zip: '08294'
+    town: 'BRUC, EL'
+    State: State_1
+    country: SPAIN
+  Town_195:
+    zip: '08294'
+    town: 'SANT PAU DE LA GUARDIA'
+    State: State_1
+    country: SPAIN
+  Town_196:
+    zip: '08295'
+    town: 'SANT VICENÇ DE CASTELLET'
+    State: State_1
+    country: SPAIN
+  Town_197:
+    zip: '08296'
+    town: 'CASTELLBELL I EL VILAR'
+    State: State_1
+    country: SPAIN
+  Town_198:
+    zip: '08297'
+    town: CASTELLGALI
+    State: State_1
+    country: SPAIN
+  Town_199:
+    zip: '08298'
+    town: MARGANELL
+    State: State_1
+    country: SPAIN
+  Town_200:
+    zip: '08299'
+    town: RELLINARS
+    State: State_1
+    country: SPAIN
+  Town_201:
+    zip: '08301'
+    town: MATARO
+    State: State_1
+    country: SPAIN
+  Town_202:
+    zip: '08302'
+    town: MATARO
+    State: State_1
+    country: SPAIN
+  Town_203:
+    zip: '08303'
+    town: MATARO
+    State: State_1
+    country: SPAIN
+  Town_204:
+    zip: '08304'
+    town: MATARO
+    State: State_1
+    country: SPAIN
+  Town_205:
+    zip: '08310'
+    town: ARGENTONA
+    State: State_1
+    country: SPAIN
+  Town_206:
+    zip: '08317'
+    town: ORRIUS
+    State: State_1
+    country: SPAIN
+  Town_207:
+    zip: '08318'
+    town: 'CANYAMARS (DOSRIUS)'
+    State: State_1
+    country: SPAIN
+  Town_208:
+    zip: '08319'
+    town: DOSRIUS
+    State: State_1
+    country: SPAIN
+  Town_209:
+    zip: '08320'
+    town: 'MASNOU, EL'
+    State: State_1
+    country: SPAIN
+  Town_210:
+    zip: '08328'
+    town: ALELLA
+    State: State_1
+    country: SPAIN
+  Town_211:
+    zip: '08329'
+    town: TEIA
+    State: State_1
+    country: SPAIN
+  Town_212:
+    zip: '08330'
+    town: 'PREMIA DE MAR'
+    State: State_1
+    country: SPAIN
+  Town_213:
+    zip: '08338'
+    town: 'PREMIA DE DALT'
+    State: State_1
+    country: SPAIN
+  Town_214:
+    zip: '08339'
+    town: 'VILASSAR DE DALT'
+    State: State_1
+    country: SPAIN
+  Town_215:
+    zip: '08340'
+    town: 'VILASSAR DE MAR'
+    State: State_1
+    country: SPAIN
+  Town_216:
+    zip: '08348'
+    town: CABRILS
+    State: State_1
+    country: SPAIN
+  Town_217:
+    zip: '08349'
+    town: 'CABRERA DE MAR'
+    State: State_1
+    country: SPAIN
+  Town_218:
+    zip: '08350'
+    town: 'ARENYS DE MAR'
+    State: State_1
+    country: SPAIN
+  Town_219:
+    zip: '08358'
+    town: 'ARENYS DE MUNT'
+    State: State_1
+    country: SPAIN
+  Town_220:
+    zip: '08359'
+    town: 'SANT ISCLE DE VALLALTA'
+    State: State_1
+    country: SPAIN
+  Town_221:
+    zip: '08360'
+    town: 'CANET DE MAR'
+    State: State_1
+    country: SPAIN
+  Town_222:
+    zip: '08370'
+    town: CALELLA
+    State: State_1
+    country: SPAIN
+  Town_223:
+    zip: '08380'
+    town: 'MALGRAT DE MAR'
+    State: State_1
+    country: SPAIN
+  Town_224:
+    zip: '08389'
+    town: PALAFOLLS
+    State: State_1
+    country: SPAIN
+  Town_225:
+    zip: '08389'
+    town: 'SANT GENIS DE PALAFOLLS'
+    State: State_1
+    country: SPAIN
+  Town_226:
+    zip: '08390'
+    town: MONTGAT
+    State: State_1
+    country: SPAIN
+  Town_227:
+    zip: '08390'
+    town: 'VIRREINA, LA (TIANA)'
+    State: State_1
+    country: SPAIN
+  Town_228:
+    zip: '08391'
+    town: TIANA
+    State: State_1
+    country: SPAIN
+  Town_229:
+    zip: '08392'
+    town: 'SANT ANDREU DE LLAVANERES'
+    State: State_1
+    country: SPAIN
+  Town_230:
+    zip: '08393'
+    town: 'CALDES D''ESTRAC'
+    State: State_1
+    country: SPAIN
+  Town_231:
+    zip: '08394'
+    town: 'SANT VICENÇ DE MONTALT'
+    State: State_1
+    country: SPAIN
+  Town_232:
+    zip: '08395'
+    town: 'SANT POL DE MAR'
+    State: State_1
+    country: SPAIN
+  Town_233:
+    zip: '08396'
+    town: 'CAN DOMENEC (TORDERA)'
+    State: State_1
+    country: SPAIN
+  Town_234:
+    zip: '08396'
+    town: 'SANT CEBRIA DE VALLALTA'
+    State: State_1
+    country: SPAIN
+  Town_235:
+    zip: '08397'
+    town: 'PINEDA DE MAR'
+    State: State_1
+    country: SPAIN
+  Town_236:
+    zip: '08398'
+    town: 'SANTA SUSANNA'
+    State: State_1
+    country: SPAIN
+  Town_237:
+    zip: '08400'
+    town: GRANOLLERS
+    State: State_1
+    country: SPAIN
+  Town_238:
+    zip: '08401'
+    town: GRANOLLERS
+    State: State_1
+    country: SPAIN
+  Town_239:
+    zip: '08402'
+    town: GRANOLLERS
+    State: State_1
+    country: SPAIN
+  Town_240:
+    zip: '08403'
+    town: GRANOLLERS
+    State: State_1
+    country: SPAIN
+  Town_241:
+    zip: '08404'
+    town: GRANOLLERS
+    State: State_1
+    country: SPAIN
+  Town_242:
+    zip: '08410'
+    town: 'VALLDORIOLF (VILANOVA DEL VALL+S)'
+    State: State_1
+    country: SPAIN
+  Town_243:
+    zip: '08410'
+    town: 'VILANOVA DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_244:
+    zip: '08415'
+    town: BIGUES
+    State: State_1
+    country: SPAIN
+  Town_245:
+    zip: '08416'
+    town: 'RIELLS DEL FAI (BIGUES I RIELLS)'
+    State: State_1
+    country: SPAIN
+  Town_246:
+    zip: '08420'
+    town: 'BARRIADA NOVA'
+    State: State_1
+    country: SPAIN
+  Town_247:
+    zip: '08420'
+    town: 'CAN DIVIU'
+    State: State_1
+    country: SPAIN
+  Town_248:
+    zip: '08420'
+    town: 'CAN DURAN'
+    State: State_1
+    country: SPAIN
+  Town_249:
+    zip: '08420'
+    town: CANOVELLES
+    State: State_1
+    country: SPAIN
+  Town_250:
+    zip: '08430'
+    town: 'ROCA DEL VALLES, LA'
+    State: State_1
+    country: SPAIN
+  Town_251:
+    zip: '08430'
+    town: 'SANTA AGNES DE MALANYANES (LA ROCA)'
+    State: State_1
+    country: SPAIN
+  Town_252:
+    zip: '08430'
+    town: 'VALLDORIOLF (LA ROCA DEL VALLES)'
+    State: State_1
+    country: SPAIN
+  Town_253:
+    zip: '08440'
+    town: CARDEDEU
+    State: State_1
+    country: SPAIN
+  Town_254:
+    zip: '08445'
+    town: CANOVES
+    State: State_1
+    country: SPAIN
+  Town_255:
+    zip: '08445'
+    town: SAMALUS
+    State: State_1
+    country: SPAIN
+  Town_256:
+    zip: '08450'
+    town: COLLSABADELL
+    State: State_1
+    country: SPAIN
+  Town_257:
+    zip: '08450'
+    town: 'LLINARS DEL VALLES'
+    State: State_1
+    country: SPAIN
+  Town_258:
+    zip: '08450'
+    town: 'SANATA (LLINARS DEL VALLES)'
+    State: State_1
+    country: SPAIN
+  Town_259:
+    zip: '08455'
+    town: 'VILALBA SASSERRA'
+    State: State_1
+    country: SPAIN
+  Town_260:
+    zip: '08458'
+    town: 'SANT PERE DE VILAMAJOR'
+    State: State_1
+    country: SPAIN
+  Town_261:
+    zip: '08459'
+    town: 'SANT ANTONI DE VILAMAJOR'
+    State: State_1
+    country: SPAIN
+  Town_262:
+    zip: '08460'
+    town: 'COSTA DEL MONTSENY, LA'
+    State: State_1
+    country: SPAIN
+  Town_263:
+    zip: '08460'
+    town: MONTSENY
+    State: State_1
+    country: SPAIN
+  Town_264:
+    zip: '08460'
+    town: 'RIERAL, EL (FOGARS DE MONTCLUS)'
+    State: State_1
+    country: SPAIN
+  Town_265:
+    zip: '08460'
+    town: 'SANTA MARIA DE PALAUTORDERA'
+    State: State_1
+    country: SPAIN
+  Town_266:
+    zip: '08461'
+    town: 'SANT ESTEVE DE PALAUTORDERA'
+    State: State_1
+    country: SPAIN
+  Town_267:
+    zip: '08470'
+    town: CAMPINS
+    State: State_1
+    country: SPAIN
+  Town_268:
+    zip: '08470'
+    town: 'FOGARS DE MONTCLUS'
+    State: State_1
+    country: SPAIN
+  Town_269:
+    zip: '08470'
+    town: 'MOIXERIGUES (SANTA MARIA DE PALAUTORDERA)'
+    State: State_1
+    country: SPAIN
+  Town_270:
+    zip: '08470'
+    town: MOSQUEROLES
+    State: State_1
+    country: SPAIN
+  Town_271:
+    zip: '08470'
+    town: OLZINELLES
+    State: State_1
+    country: SPAIN
+  Town_272:
+    zip: '08470'
+    town: PERTEGAS
+    State: State_1
+    country: SPAIN
+  Town_273:
+    zip: '08470'
+    town: 'PONT TRENCAT (SANTA MARIA DE PALAUTORDERA)'
+    State: State_1
+    country: SPAIN
+  Town_274:
+    zip: '08470'
+    town: 'SANT CELONI'
+    State: State_1
+    country: SPAIN
+  Town_275:
+    zip: '08470'
+    town: 'TEMPLE, EL (SANTA MARIA DE PALAUTORDERA)'
+    State: State_1
+    country: SPAIN
+  Town_276:
+    zip: '08470'
+    town: 'VIRGILI, EL (SANTA MARIA DE PALAUTORDERA)'
+    State: State_1
+    country: SPAIN
+  Town_277:
+    zip: '08471'
+    town: VALLGORGUINA
+    State: State_1
+    country: SPAIN
+  Town_278:
+    zip: '08474'
+    town: GUALBA
+    State: State_1
+    country: SPAIN
+  Town_279:
+    zip: '08476'
+    town: 'BATLLORIA, LA (SANT CELONI)'
+    State: State_1
+    country: SPAIN
+  Town_280:
+    zip: '08480'
+    town: 'AMETLLA DEL VALLES, L'''
+    State: State_1
+    country: SPAIN
+  Town_281:
+    zip: '08480'
+    town: 'PINAR I EL PORTUS, EL'
+    State: State_1
+    country: SPAIN
+  Town_282:
+    zip: '08490'
+    town: TORDERA
+    State: State_1
+    country: SPAIN
+  Town_283:
+    zip: '08495'
+    town: 'FOGARS DE LA SELVA'
+    State: State_1
+    country: SPAIN
+  Town_284:
+    zip: '08500'
+    town: VIC
+    State: State_1
+    country: SPAIN
+  Town_285:
+    zip: '08503'
+    town: GURB
+    State: State_1
+    country: SPAIN
+  Town_286:
+    zip: '08504'
+    town: 'FONT DE''N TITUS (CALLDETENES)'
+    State: State_1
+    country: SPAIN
+  Town_287:
+    zip: '08504'
+    town: 'SANT JULIA DE VILATORTA'
+    State: State_1
+    country: SPAIN
+  Town_288:
+    zip: '08504'
+    town: 'SANT SADURNI D''OSORMORT'
+    State: State_1
+    country: SPAIN
+  Town_289:
+    zip: '08505'
+    town: MUNTANYOLA
+    State: State_1
+    country: SPAIN
+  Town_290:
+    zip: '08505'
+    town: 'SANTA EULALIA DE RIUPRIMER'
+    State: State_1
+    country: SPAIN
+  Town_291:
+    zip: '08505'
+    town: SENTFORES
+    State: State_1
+    country: SPAIN
+  Town_292:
+    zip: '08506'
+    town: CALLDETENES
+    State: State_1
+    country: SPAIN
+  Town_293:
+    zip: '08507'
+    town: 'SANTA EUGENIA DE BERGA'
+    State: State_1
+    country: SPAIN
+  Town_294:
+    zip: '08508'
+    town: 'GLEVA, LA (MASIES DE VOLTREGA)'
+    State: State_1
+    country: SPAIN
+  Town_295:
+    zip: '08508'
+    town: 'MASIES DE VOLTREGA, LES (GLEVA, LA)'
+    State: State_1
+    country: SPAIN
+  Town_296:
+    zip: '08508'
+    town: 'SANTA CECILIA DE VOLTREGA'
+    State: State_1
+    country: SPAIN
+  Town_297:
+    zip: '08509'
+    town: 'MASIES DE VOLTREGA, LES (VINYOLES D''ORIS)'
+    State: State_1
+    country: SPAIN
+  Town_298:
+    zip: '08509'
+    town: 'VINYOLES D''ORIS (MASIES DE VOLTREGA)'
+    State: State_1
+    country: SPAIN
+  Town_299:
+    zip: '08510'
+    town: 'MASIES DE RODA, LES'
+    State: State_1
+    country: SPAIN
+  Town_300:
+    zip: '08510'
+    town: 'RODA DE TER'
+    State: State_1
+    country: SPAIN
+  Town_301:
+    zip: '08511'
+    town: 'SANTA MARIA DE CORCO'
+    State: State_1
+    country: SPAIN
+  Town_302:
+    zip: '08511'
+    town: TAVERTET
+    State: State_1
+    country: SPAIN
+  Town_303:
+    zip: '08512'
+    town: 'SANT HIPOLIT DE VOLTREGA'
+    State: State_1
+    country: SPAIN
+  Town_304:
+    zip: '08513'
+    town: 'PRATS DE LLUÇANES'
+    State: State_1
+    country: SPAIN
+  Town_305:
+    zip: '08514'
+    town: LLUÇA
+    State: State_1
+    country: SPAIN
+  Town_306:
+    zip: '08515'
+    town: 'SANT MARTI D''ALBARS'
+    State: State_1
+    country: SPAIN
+  Town_307:
+    zip: '08515'
+    town: 'SANTA CREU DE JOTGLAR'
+    State: State_1
+    country: SPAIN
+  Town_308:
+    zip: '08516'
+    town: OLOST
+    State: State_1
+    country: SPAIN
+  Town_309:
+    zip: '08517'
+    town: SAGAS
+    State: State_1
+    country: SPAIN
+  Town_310:
+    zip: '08517'
+    town: 'SANTA MARIA DE MERLES'
+    State: State_1
+    country: SPAIN
+  Town_311:
+    zip: '08518'
+    town: ORISTA
+    State: State_1
+    country: SPAIN
+  Town_312:
+    zip: '08519'
+    town: FOLGUEROLES
+    State: State_1
+    country: SPAIN
+  Town_313:
+    zip: '08519'
+    town: MALLA
+    State: State_1
+    country: SPAIN
+  Town_314:
+    zip: '08519'
+    town: 'SANT BARTOMEU DEL GRAU'
+    State: State_1
+    country: SPAIN
+  Town_315:
+    zip: '08519'
+    town: TAVERNOLES
+    State: State_1
+    country: SPAIN
+  Town_316:
+    zip: '08519'
+    town: 'VILANOVA DE SAU'
+    State: State_1
+    country: SPAIN
+  Town_317:
+    zip: '08520'
+    town: 'CORRO D''AMUNT'
+    State: State_1
+    country: SPAIN
+  Town_318:
+    zip: '08520'
+    town: 'CORRO D''AVALL'
+    State: State_1
+    country: SPAIN
+  Town_319:
+    zip: '08520'
+    town: 'FRANQUESES DEL VALLES, LES'
+    State: State_1
+    country: SPAIN
+  Town_320:
+    zip: '08520'
+    town: LLERONA
+    State: State_1
+    country: SPAIN
+  Town_321:
+    zip: '08520'
+    town: MARATA
+    State: State_1
+    country: SPAIN
+  Town_322:
+    zip: '08521'
+    town: BELLAVISTA
+    State: State_1
+    country: SPAIN
+  Town_323:
+    zip: '08530'
+    town: 'GARRIGA, LA'
+    State: State_1
+    country: SPAIN
+  Town_324:
+    zip: '08540'
+    town: CENTELLES
+    State: State_1
+    country: SPAIN
+  Town_325:
+    zip: '08550'
+    town: 'HOSTALETS DE BALENYA, ELS (BALENYA)'
+    State: State_1
+    country: SPAIN
+  Town_326:
+    zip: '08551'
+    town: TONA
+    State: State_1
+    country: SPAIN
+  Town_327:
+    zip: '08552'
+    town: TARADELL
+    State: State_1
+    country: SPAIN
+  Town_328:
+    zip: '08553'
+    town: 'BRULL, EL'
+    State: State_1
+    country: SPAIN
+  Town_329:
+    zip: '08553'
+    town: SEVA
+    State: State_1
+    country: SPAIN
+  Town_330:
+    zip: '08554'
+    town: 'SANT MIQUEL DE BALENYA-SEVA'
+    State: State_1
+    country: SPAIN
+  Town_331:
+    zip: '08560'
+    town: MANLLEU
+    State: State_1
+    country: SPAIN
+  Town_332:
+    zip: '08569'
+    town: CANTONIGROS
+    State: State_1
+    country: SPAIN
+  Town_333:
+    zip: '08569'
+    town: PRUIT
+    State: State_1
+    country: SPAIN
+  Town_334:
+    zip: '08569'
+    town: RUPIT
+    State: State_1
+    country: SPAIN
+  Town_335:
+    zip: '08569'
+    town: 'SANT MARTI SESCORTS'
+    State: State_1
+    country: SPAIN
+  Town_336:
+    zip: '08570'
+    town: TORELLO
+    State: State_1
+    country: SPAIN
+  Town_337:
+    zip: '08571'
+    town: 'SANT VICENÇ DE TORELLO'
+    State: State_1
+    country: SPAIN
+  Town_338:
+    zip: '08572'
+    town: 'SANT PERE DE TORELLO'
+    State: State_1
+    country: SPAIN
+  Town_339:
+    zip: '08573'
+    town: ORIS
+    State: State_1
+    country: SPAIN
+  Town_340:
+    zip: '08580'
+    town: 'SANT QUIRZE DE BESORA'
+    State: State_1
+    country: SPAIN
+  Town_341:
+    zip: '08584'
+    town: 'SANTA MARIA DE BESORA'
+    State: State_1
+    country: SPAIN
+  Town_342:
+    zip: '08585'
+    town: MONTESQUIU
+    State: State_1
+    country: SPAIN
+  Town_343:
+    zip: '08586'
+    town: 'SANT AGUSTI DE LLUÇANES'
+    State: State_1
+    country: SPAIN
+  Town_344:
+    zip: '08587'
+    town: ALPENS
+    State: State_1
+    country: SPAIN
+  Town_345:
+    zip: '08588'
+    town: SORA
+    State: State_1
+    country: SPAIN
+  Town_346:
+    zip: '08589'
+    town: PERAFITA
+    State: State_1
+    country: SPAIN
+  Town_347:
+    zip: '08589'
+    town: 'SANT BOI DE LLUÇANES'
+    State: State_1
+    country: SPAIN
+  Town_348:
+    zip: '08589'
+    town: SOBREMUNT
+    State: State_1
+    country: SPAIN
+  Town_349:
+    zip: '08590'
+    town: 'FIGARO (MONTMANY)'
+    State: State_1
+    country: SPAIN
+  Town_350:
+    zip: '08590'
+    town: 'MONTMANY- FIGARO'
+    State: State_1
+    country: SPAIN
+  Town_351:
+    zip: '08591'
+    town: AIGUAFREDA
+    State: State_1
+    country: SPAIN
+  Town_352:
+    zip: '08592'
+    town: 'SANT MARTI DE CENTELLES'
+    State: State_1
+    country: SPAIN
+  Town_353:
+    zip: '08593'
+    town: TAGAMANENT
+    State: State_1
+    country: SPAIN
+  Town_354:
+    zip: '08600'
+    town: BERGA
+    State: State_1
+    country: SPAIN
+  Town_355:
+    zip: '08600'
+    town: 'POLIGON DE LA VALLDAN, EL'
+    State: State_1
+    country: SPAIN
+  Town_356:
+    zip: '08610'
+    town: AVIA
+    State: State_1
+    country: SPAIN
+  Town_357:
+    zip: '08610'
+    town: 'CAL ROSAL (AVIA)'
+    State: State_1
+    country: SPAIN
+  Town_358:
+    zip: '08611'
+    town: 'CAL ROSAL (OLVAN)'
+    State: State_1
+    country: SPAIN
+  Town_359:
+    zip: '08611'
+    town: 'COLONIA ROSAL, LA (BERGA)'
+    State: State_1
+    country: SPAIN
+  Town_360:
+    zip: '08611'
+    town: OLVAN
+    State: State_1
+    country: SPAIN
+  Town_361:
+    zip: '08611'
+    town: 'QUAR, LA'
+    State: State_1
+    country: SPAIN
+  Town_362:
+    zip: '08612'
+    town: MONTMAJOR
+    State: State_1
+    country: SPAIN
+  Town_363:
+    zip: '08613'
+    town: VILADA
+    State: State_1
+    country: SPAIN
+  Town_364:
+    zip: '08614'
+    town: 'ESPUNYOLA, L'''
+    State: State_1
+    country: SPAIN
+  Town_365:
+    zip: '08614'
+    town: MONTCLAR
+    State: State_1
+    country: SPAIN
+  Town_366:
+    zip: '08617'
+    town: CAPOLAT
+    State: State_1
+    country: SPAIN
+  Town_367:
+    zip: '08618'
+    town: 'CASTELLAR DEL RIU'
+    State: State_1
+    country: SPAIN
+  Town_368:
+    zip: '08619'
+    town: BORREDA
+    State: State_1
+    country: SPAIN
+  Town_369:
+    zip: '08619'
+    town: 'CASTELL DE L''ARENY'
+    State: State_1
+    country: SPAIN
+  Town_370:
+    zip: '08619'
+    town: 'LLINARS (CASTELLAR DEL RIU)'
+    State: State_1
+    country: SPAIN
+  Town_371:
+    zip: '08619'
+    town: 'SANT JAUME DE FRONTANYA'
+    State: State_1
+    country: SPAIN
+  Town_372:
+    zip: '08620'
+    town: 'SANT VICENÇ DELS HORTS'
+    State: State_1
+    country: SPAIN
+  Town_373:
+    zip: '08629'
+    town: 'TORRELLES DE LLOBREGAT'
+    State: State_1
+    country: SPAIN
+  Town_374:
+    zip: '08630'
+    town: ABRERA
+    State: State_1
+    country: SPAIN
+  Town_375:
+    zip: '08630'
+    town: 'SANTA MARIA DE VILALBA'
+    State: State_1
+    country: SPAIN
+  Town_376:
+    zip: '08635'
+    town: 'SANT ESTEVE SESROVIRES'
+    State: State_1
+    country: SPAIN
+  Town_377:
+    zip: '08640'
+    town: 'OLESA DE MONTSERRAT'
+    State: State_1
+    country: SPAIN
+  Town_378:
+    zip: '08650'
+    town: 'BOTJOSA, LA'
+    State: State_1
+    country: SPAIN
+  Town_379:
+    zip: '08650'
+    town: CABRIANES
+    State: State_1
+    country: SPAIN
+  Town_380:
+    zip: '08650'
+    town: CORNET
+    State: State_1
+    country: SPAIN
+  Town_381:
+    zip: '08650'
+    town: SALLENT
+    State: State_1
+    country: SPAIN
+  Town_382:
+    zip: '08660'
+    town: BALSARENY
+    State: State_1
+    country: SPAIN
+  Town_383:
+    zip: '08670'
+    town: NAVAS
+    State: State_1
+    country: SPAIN
+  Town_384:
+    zip: '08671'
+    town: CASTELLADRAL
+    State: State_1
+    country: SPAIN
+  Town_385:
+    zip: '08672'
+    town: 'AMETLLA DE MEROLA, L'''
+    State: State_1
+    country: SPAIN
+  Town_386:
+    zip: '08672'
+    town: GAIA
+    State: State_1
+    country: SPAIN
+  Town_387:
+    zip: '08673'
+    town: 'VIVER I SERRATEIX'
+    State: State_1
+    country: SPAIN
+  Town_388:
+    zip: '08679'
+    town: 'SANT JOAN DE MONTDARN'
+    State: State_1
+    country: SPAIN
+  Town_389:
+    zip: '08680'
+    town: GIRONELLA
+    State: State_1
+    country: SPAIN
+  Town_390:
+    zip: '08680'
+    town: 'GUIXARO, EL'
+    State: State_1
+    country: SPAIN
+  Town_391:
+    zip: '08690'
+    town: 'SANTA COLOMA DE CERVELLO'
+    State: State_1
+    country: SPAIN
+  Town_392:
+    zip: '08691'
+    town: 'MONISTROL DE MONTSERRAT'
+    State: State_1
+    country: SPAIN
+  Town_393:
+    zip: '08692'
+    town: PUIG-REIG
+    State: State_1
+    country: SPAIN
+  Town_394:
+    zip: '08693'
+    town: CASSERRES
+    State: State_1
+    country: SPAIN
+  Town_395:
+    zip: '08694'
+    town: 'GUARDIOLA DE BERGUEDA'
+    State: State_1
+    country: SPAIN
+  Town_396:
+    zip: '08694'
+    town: 'SANT JULIA DE CERDANYOLA'
+    State: State_1
+    country: SPAIN
+  Town_397:
+    zip: '08695'
+    town: BAGA
+    State: State_1
+    country: SPAIN
+  Town_398:
+    zip: '08695'
+    town: GISCLARENY
+    State: State_1
+    country: SPAIN
+  Town_399:
+    zip: '08696'
+    town: 'CASTELLAR DE N''HUG'
+    State: State_1
+    country: SPAIN
+  Town_400:
+    zip: '08696'
+    town: 'POBLA DE LILLET, LA'
+    State: State_1
+    country: SPAIN
+  Town_401:
+    zip: '08697'
+    town: SALDES
+    State: State_1
+    country: SPAIN
+  Town_402:
+    zip: '08698'
+    town: CERCS
+    State: State_1
+    country: SPAIN
+  Town_403:
+    zip: '08698'
+    town: FIGOLS
+    State: State_1
+    country: SPAIN
+  Town_404:
+    zip: '08698'
+    town: 'NOU DE BERGUEDA, LA'
+    State: State_1
+    country: SPAIN
+  Town_405:
+    zip: '08698'
+    town: 'SANT CORNELI'
+    State: State_1
+    country: SPAIN
+  Town_406:
+    zip: '08698'
+    town: 'SANT JORDI DE CERCS'
+    State: State_1
+    country: SPAIN
+  Town_407:
+    zip: '08699'
+    town: VALLCEBRE
+    State: State_1
+    country: SPAIN
+  Town_408:
+    zip: '08700'
+    town: IGUALADA
+    State: State_1
+    country: SPAIN
+  Town_409:
+    zip: '08710'
+    town: 'SANTA MARGARIDA DE MONTBUI'
+    State: State_1
+    country: SPAIN
+  Town_410:
+    zip: '08710'
+    town: 'SANTA MARGARIDA DE MONTBUI A-ANTIGUO'
+    State: State_1
+    country: SPAIN
+  Town_411:
+    zip: '08711'
+    town: ODENA
+    State: State_1
+    country: SPAIN
+  Town_412:
+    zip: '08712'
+    town: 'SANT JAUME SESOLIVERES URB. (IGUALADA)'
+    State: State_1
+    country: SPAIN
+  Town_413:
+    zip: '08712'
+    town: 'SANT MARTI DE TOUS'
+    State: State_1
+    country: SPAIN
+  Town_414:
+    zip: '08717'
+    town: ARGENÇOLA
+    State: State_1
+    country: SPAIN
+  Town_415:
+    zip: '08717'
+    town: MONTMANEU
+    State: State_1
+    country: SPAIN
+  Town_416:
+    zip: '08718'
+    town: 'CABRERA D''IGUALADA'
+    State: State_1
+    country: SPAIN
+  Town_417:
+    zip: '08719'
+    town: CASTELLOLI
+    State: State_1
+    country: SPAIN
+  Town_418:
+    zip: '08719'
+    town: JORBA
+    State: State_1
+    country: SPAIN
+  Town_419:
+    zip: '08719'
+    town: RUBIO
+    State: State_1
+    country: SPAIN
+  Town_420:
+    zip: '08719'
+    town: 'SANT GENIS (JORBA)'
+    State: State_1
+    country: SPAIN
+  Town_421:
+    zip: '08719'
+    town: 'SANTA MARIA CAMI (VECIANA)'
+    State: State_1
+    country: SPAIN
+  Town_422:
+    zip: '08720'
+    town: 'MOLI D''EN ROVIRA, EL'
+    State: State_1
+    country: SPAIN
+  Town_423:
+    zip: '08720'
+    town: PEREPAU
+    State: State_1
+    country: SPAIN
+  Town_424:
+    zip: '08720'
+    town: 'SALINES, LES'
+    State: State_1
+    country: SPAIN
+  Town_425:
+    zip: '08720'
+    town: 'VILAFRANCA DEL PENEDES'
+    State: State_1
+    country: SPAIN
+  Town_426:
+    zip: '08729'
+    town: 'CASETES, LES (CASTELLET I LA GORNAL)'
+    State: State_1
+    country: SPAIN
+  Town_427:
+    zip: '08729'
+    town: 'CASTELLET I LA GORNAL'
+    State: State_1
+    country: SPAIN
+  Town_428:
+    zip: '08729'
+    town: 'CLARIANA (CASTELLET I LA GORNAL)'
+    State: State_1
+    country: SPAIN
+  Town_429:
+    zip: '08730'
+    town: 'SANTA MARGARIDA I ELS MONJOS'
+    State: State_1
+    country: SPAIN
+  Town_430:
+    zip: '08731'
+    town: 'SANT MARTI SARROCA'
+    State: State_1
+    country: SPAIN
+  Town_431:
+    zip: '08732'
+    town: 'CASES NOVES DE CAL MARQUES, LES'
+    State: State_1
+    country: SPAIN
+  Town_432:
+    zip: '08732'
+    town: 'CASTELLVI DE LA MARCA'
+    State: State_1
+    country: SPAIN
+  Town_433:
+    zip: '08732'
+    town: 'GORNAL, LA (CASTELLET I LA GORNAL)'
+    State: State_1
+    country: SPAIN
+  Town_434:
+    zip: '08732'
+    town: 'MUNIA, LA (CASTELLVI DE LA MARCA)'
+    State: State_1
+    country: SPAIN
+  Town_435:
+    zip: '08732'
+    town: 'SANT MARÇAL (CASTELLET I LA GORNAL)'
+    State: State_1
+    country: SPAIN
+  Town_436:
+    zip: '08733'
+    town: 'CA L''AVI (SUBIRATS)'
+    State: State_1
+    country: SPAIN
+  Town_437:
+    zip: '08733'
+    town: 'PLA DEL PENEDES, EL'
+    State: State_1
+    country: SPAIN
+  Town_438:
+    zip: '08734'
+    town: 'ARBOÇAR, L'' (AVINYONET DEL PENEDES)'
+    State: State_1
+    country: SPAIN
+  Town_439:
+    zip: '08734'
+    town: 'MOJA (OLERDOLA)'
+    State: State_1
+    country: SPAIN
+  Town_440:
+    zip: '08734'
+    town: OLERDOLA
+    State: State_1
+    country: SPAIN
+  Town_441:
+    zip: '08735'
+    town: 'VILOBI DEL PENEDES'
+    State: State_1
+    country: SPAIN
+  Town_442:
+    zip: '08736'
+    town: 'CASES NOVES, LES'
+    State: State_1
+    country: SPAIN
+  Town_443:
+    zip: '08736'
+    town: 'FANGA, LA'
+    State: State_1
+    country: SPAIN
+  Town_444:
+    zip: '08736'
+    town: 'FONT-RUBI (GUARDIOLA FONT-RUBI)'
+    State: State_1
+    country: SPAIN
+  Town_445:
+    zip: '08736'
+    town: 'GUARDIOLA DE FONT-RUBI'
+    State: State_1
+    country: SPAIN
+  Town_446:
+    zip: '08737'
+    town: 'TORRELLES DE FOIX'
+    State: State_1
+    country: SPAIN
+  Town_447:
+    zip: '08738'
+    town: PONTONS
+    State: State_1
+    country: SPAIN
+  Town_448:
+    zip: '08739'
+    town: SUBIRATS
+    State: State_1
+    country: SPAIN
+  Town_449:
+    zip: '08740'
+    town: 'SANT ANDREU DE LA BARCA'
+    State: State_1
+    country: SPAIN
+  Town_450:
+    zip: '08750'
+    town: 'MOLINS DE REI'
+    State: State_1
+    country: SPAIN
+  Town_451:
+    zip: '08750'
+    town: 'SANT BARTOMEU DE LA QUADRA'
+    State: State_1
+    country: SPAIN
+  Town_452:
+    zip: '08750'
+    town: 'SANTA CREU D''OLORDA'
+    State: State_1
+    country: SPAIN
+  Town_453:
+    zip: '08750'
+    town: VALLPINEDA
+    State: State_1
+    country: SPAIN
+  Town_454:
+    zip: '08753'
+    town: 'FONTPINEDA URBANIZACION (PALLEJA)'
+    State: State_1
+    country: SPAIN
+  Town_455:
+    zip: '08754'
+    town: 'PAPIOL, EL'
+    State: State_1
+    country: SPAIN
+  Town_456:
+    zip: '08755'
+    town: CASTELLBISBAL
+    State: State_1
+    country: SPAIN
+  Town_457:
+    zip: '08756'
+    town: 'PALMA, LA'
+    State: State_1
+    country: SPAIN
+  Town_458:
+    zip: '08757'
+    town: 'CAN ROIG'
+    State: State_1
+    country: SPAIN
+  Town_459:
+    zip: '08757'
+    town: 'CORBERA DE BAIX'
+    State: State_1
+    country: SPAIN
+  Town_460:
+    zip: '08757'
+    town: 'CORBERA DE LLOBREGAT'
+    State: State_1
+    country: SPAIN
+  Town_461:
+    zip: '08757'
+    town: 'COSTA DE LA PERDIU (CERVELLO)'
+    State: State_1
+    country: SPAIN
+  Town_462:
+    zip: '08757'
+    town: PUIGMONTMANY
+    State: State_1
+    country: SPAIN
+  Town_463:
+    zip: '08757'
+    town: SAFARI
+    State: State_1
+    country: SPAIN
+  Town_464:
+    zip: '08758'
+    town: CERVELLO
+    State: State_1
+    country: SPAIN
+  Town_465:
+    zip: '08758'
+    town: 'INTER-CLUB (VALLIRANA)'
+    State: State_1
+    country: SPAIN
+  Town_466:
+    zip: '08759'
+    town: VALLIRANA
+    State: State_1
+    country: SPAIN
+  Town_467:
+    zip: '08760'
+    town: MARTORELL
+    State: State_1
+    country: SPAIN
+  Town_468:
+    zip: '08761'
+    town: 'COSTABLANCA (CASTELLBISBAL)'
+    State: State_1
+    country: SPAIN
+  Town_469:
+    zip: '08769'
+    town: 'CASTELLVI DE ROSANES'
+    State: State_1
+    country: SPAIN
+  Town_470:
+    zip: '08770'
+    town: 'CAN BENET DE LA PRUA'
+    State: State_1
+    country: SPAIN
+  Town_471:
+    zip: '08770'
+    town: 'CAN CATASSUS'
+    State: State_1
+    country: SPAIN
+  Town_472:
+    zip: '08770'
+    town: ESPIELLS
+    State: State_1
+    country: SPAIN
+  Town_473:
+    zip: '08770'
+    town: 'MONISTROL D''ANOIA'
+    State: State_1
+    country: SPAIN
+  Town_474:
+    zip: '08770'
+    town: 'SANT SADURNI D''ANOIA'
+    State: State_1
+    country: SPAIN
+  Town_475:
+    zip: '08773'
+    town: 'CASES NOVES DE CAL PARDO, LES'
+    State: State_1
+    country: SPAIN
+  Town_476:
+    zip: '08773'
+    town: MEDIONA
+    State: State_1
+    country: SPAIN
+  Town_477:
+    zip: '08773'
+    town: 'SANT PERE SACARRERA'
+    State: State_1
+    country: SPAIN
+  Town_478:
+    zip: '08775'
+    town: 'PINEDA, LA (TORRELAVIT)'
+    State: State_1
+    country: SPAIN
+  Town_479:
+    zip: '08775'
+    town: TORRELAVIT
+    State: State_1
+    country: SPAIN
+  Town_480:
+    zip: '08776'
+    town: 'SANT PERE DE RIUDEBITLLES'
+    State: State_1
+    country: SPAIN
+  Town_481:
+    zip: '08777'
+    town: 'SANT QUINTI DE MEDIONA'
+    State: State_1
+    country: SPAIN
+  Town_482:
+    zip: '08779'
+    town: 'LLACUNA, LA'
+    State: State_1
+    country: SPAIN
+  Town_483:
+    zip: '08780'
+    town: PALLEJA
+    State: State_1
+    country: SPAIN
+  Town_484:
+    zip: '08781'
+    town: 'HOSTALETS DE PIEROLA, ELS'
+    State: State_1
+    country: SPAIN
+  Town_485:
+    zip: '08781'
+    town: PIEROLA
+    State: State_1
+    country: SPAIN
+  Town_486:
+    zip: '08782'
+    town: 'BEGUDA ALTA, LA (MASQUEFA)'
+    State: State_1
+    country: SPAIN
+  Town_487:
+    zip: '08782'
+    town: 'BEGUDA ALTA, LA (S. ESTEVE SESROVIRES)'
+    State: State_1
+    country: SPAIN
+  Town_488:
+    zip: '08782'
+    town: 'BEGUDA ALTA, LA (S. LLORENÇ D''HORTONS)'
+    State: State_1
+    country: SPAIN
+  Town_489:
+    zip: '08782'
+    town: 'BEGUDA BAIXA, LA (S.LLORENÇ D''HORTONS)'
+    State: State_1
+    country: SPAIN
+  Town_490:
+    zip: '08782'
+    town: 'SANT JOAN SAMORA (S.LLORENÇ D''HORTONS)'
+    State: State_1
+    country: SPAIN
+  Town_491:
+    zip: '08783'
+    town: MASQUEFA
+    State: State_1
+    country: SPAIN
+  Town_492:
+    zip: '08784'
+    town: 'BADORC, EL'
+    State: State_1
+    country: SPAIN
+  Town_493:
+    zip: '08784'
+    town: 'FORTESA, LA'
+    State: State_1
+    country: SPAIN
+  Town_494:
+    zip: '08784'
+    town: PIERA
+    State: State_1
+    country: SPAIN
+  Town_495:
+    zip: '08784'
+    town: 'SANT JAUME SESOLIVERES'
+    State: State_1
+    country: SPAIN
+  Town_496:
+    zip: '08785'
+    town: 'VALLBONA D''ANOIA'
+    State: State_1
+    country: SPAIN
+  Town_497:
+    zip: '08786'
+    town: CAPELLADES
+    State: State_1
+    country: SPAIN
+  Town_498:
+    zip: '08787'
+    town: 'CAN BOU (ORPI)'
+    State: State_1
+    country: SPAIN
+  Town_499:
+    zip: '08787'
+    town: CARME
+    State: State_1
+    country: SPAIN
+  Town_500:
+    zip: '08787'
+    town: ORPI
+    State: State_1
+    country: SPAIN
+  Town_501:
+    zip: '08787'
+    town: 'POBLA DE CLARAMUNT, LA'
+    State: State_1
+    country: SPAIN
+  Town_502:
+    zip: '08787'
+    town: 'SANTA MARIA DE MIRALLES'
+    State: State_1
+    country: SPAIN
+  Town_503:
+    zip: '08788'
+    town: 'VILANOVA DEL CAMI'
+    State: State_1
+    country: SPAIN
+  Town_504:
+    zip: '08789'
+    town: 'TORRE DE CLARAMUNT, LA'
+    State: State_1
+    country: SPAIN
+  Town_505:
+    zip: '08790'
+    town: GELIDA
+    State: State_1
+    country: SPAIN
+  Town_506:
+    zip: '08790'
+    town: 'SANT SALVADOR'
+    State: State_1
+    country: SPAIN
+  Town_507:
+    zip: '08791'
+    town: 'SANT LLORENÇ D''HORTONS'
+    State: State_1
+    country: SPAIN
+  Town_508:
+    zip: '08792'
+    town: 'GARROFA, LA (AVINYONET DEL PENEDES)'
+    State: State_1
+    country: SPAIN
+  Town_509:
+    zip: '08792'
+    town: 'GRANADA, LA'
+    State: State_1
+    country: SPAIN
+  Town_510:
+    zip: '08792'
+    town: 'SANTA FE DEL PENEDES'
+    State: State_1
+    country: SPAIN
+  Town_511:
+    zip: '08793'
+    town: 'AVINYONET DEL PENEDES'
+    State: State_1
+    country: SPAIN
+  Town_512:
+    zip: '08793'
+    town: 'CANTALLOPS (AVINYONET DEL PENEDES)'
+    State: State_1
+    country: SPAIN
+  Town_513:
+    zip: '08793'
+    town: 'CLARIANA (AVINYONET DEL PENEDES)'
+    State: State_1
+    country: SPAIN
+  Town_514:
+    zip: '08793'
+    town: 'GUNYOLES, LES'
+    State: State_1
+    country: SPAIN
+  Town_515:
+    zip: '08794'
+    town: 'CABANYES, LES'
+    State: State_1
+    country: SPAIN
+  Town_516:
+    zip: '08795'
+    town: 'OLESA DE BONESVALLS'
+    State: State_1
+    country: SPAIN
+  Town_517:
+    zip: '08796'
+    town: 'PACS DEL PENEDES'
+    State: State_1
+    country: SPAIN
+  Town_518:
+    zip: '08797'
+    town: 'MAS MORE (EL PLA DEL PENEDES)'
+    State: State_1
+    country: SPAIN
+  Town_519:
+    zip: '08797'
+    town: PUIGDALBER
+    State: State_1
+    country: SPAIN
+  Town_520:
+    zip: '08798'
+    town: 'SANT CUGAT SESGARRIGUES'
+    State: State_1
+    country: SPAIN
+  Town_521:
+    zip: '08798'
+    town: 'SANT SEBASTIA DELS GORGS (AVINYONET DEL PENEDES)'
+    State: State_1
+    country: SPAIN
+  Town_522:
+    zip: '08799'
+    town: 'SANT PERE MOLANTA (OLERDOLA)'
+    State: State_1
+    country: SPAIN
+  Town_523:
+    zip: '08800'
+    town: 'VILANOVA I LA GELTRU'
+    State: State_1
+    country: SPAIN
+  Town_524:
+    zip: '08802'
+    town: SABADELL
+    State: State_1
+    country: SPAIN
+  Town_525:
+    zip: '08805'
+    town: SABADELL
+    State: State_1
+    country: SPAIN
+  Town_526:
+    zip: '08810'
+    town: PUIGMOLTO
+    State: State_1
+    country: SPAIN
+  Town_527:
+    zip: '08810'
+    town: 'SANT PERE DE RIBES'
+    State: State_1
+    country: SPAIN
+  Town_528:
+    zip: '08811'
+    town: CANYELLES
+    State: State_1
+    country: SPAIN
+  Town_529:
+    zip: '08812'
+    town: 'MAS D''EN SERRA, EL'
+    State: State_1
+    country: SPAIN
+  Town_530:
+    zip: '08812'
+    town: 'ROQUETES, LES'
+    State: State_1
+    country: SPAIN
+  Town_531:
+    zip: '08812'
+    town: VILANOVETA
+    State: State_1
+    country: SPAIN
+  Town_532:
+    zip: '08818'
+    town: OLIVELLA
+    State: State_1
+    country: SPAIN
+  Town_533:
+    zip: '08820'
+    town: 'AEROPORT DEL PRAT, EL'
+    State: State_1
+    country: SPAIN
+  Town_534:
+    zip: '08820'
+    town: 'PRAT DE LLOBREGAT, EL'
+    State: State_1
+    country: SPAIN
+  Town_535:
+    zip: '08830'
+    town: 'SANT BOI DE LLOBREGAT'
+    State: State_1
+    country: SPAIN
+  Town_536:
+    zip: '08840'
+    town: VILADECANS
+    State: State_1
+    country: SPAIN
+  Town_537:
+    zip: '08849'
+    town: 'SANT CLIMENT DE LLOBREGAT'
+    State: State_1
+    country: SPAIN
+  Town_538:
+    zip: '08850'
+    town: GAVA
+    State: State_1
+    country: SPAIN
+  Town_539:
+    zip: '08859'
+    town: BEGUES
+    State: State_1
+    country: SPAIN
+  Town_540:
+    zip: '08860'
+    town: 'BOTIGUES DE SITGES, LES (SITGES)'
+    State: State_1
+    country: SPAIN
+  Town_541:
+    zip: '08860'
+    town: CASTELLDEFELS
+    State: State_1
+    country: SPAIN
+  Town_542:
+    zip: '08860'
+    town: 'GARRAF II (SITGES)'
+    State: State_1
+    country: SPAIN
+  Town_543:
+    zip: '08860'
+    town: 'RAT PENAT (SITGES)'
+    State: State_1
+    country: SPAIN
+  Town_544:
+    zip: '08870'
+    town: 'ROCAMAR (SANT PERE DE RIBES)'
+    State: State_1
+    country: SPAIN
+  Town_545:
+    zip: '08870'
+    town: SITGES
+    State: State_1
+    country: SPAIN
+  Town_546:
+    zip: '08871'
+    town: GARRAF
+    State: State_1
+    country: SPAIN
+  Town_547:
+    zip: '08872'
+    town: VALLCARCA
+    State: State_1
+    country: SPAIN
+  Town_548:
+    zip: '08880'
+    town: CUBELLES
+    State: State_1
+    country: SPAIN
+  Town_549:
+    zip: '08901'
+    town: 'HOSPITALET DE LLOBREGAT, L'''
+    State: State_1
+    country: SPAIN
+  Town_550:
+    zip: '08902'
+    town: 'HOSPITALET DE LLOBREGAT, L'''
+    State: State_1
+    country: SPAIN
+  Town_551:
+    zip: '08903'
+    town: 'HOSPITALET DE LLOBREGAT, L'''
+    State: State_1
+    country: SPAIN
+  Town_552:
+    zip: '08904'
+    town: 'HOSPITALET DE LLOBREGAT, L'''
+    State: State_1
+    country: SPAIN
+  Town_553:
+    zip: '08905'
+    town: 'HOSPITALET DE LLOBREGAT, L'''
+    State: State_1
+    country: SPAIN
+  Town_554:
+    zip: '08906'
+    town: 'HOSPITALET DE LLOBREGAT, L'''
+    State: State_1
+    country: SPAIN
+  Town_555:
+    zip: '08907'
+    town: 'HOSPITALET DE LLOBREGAT, L'''
+    State: State_1
+    country: SPAIN
+  Town_556:
+    zip: '08908'
+    town: 'HOSPITALET DE LLOBREGAT, L'''
+    State: State_1
+    country: SPAIN
+  Town_557:
+    zip: '08910'
+    town: BADALONA
+    State: State_1
+    country: SPAIN
+  Town_558:
+    zip: '08911'
+    town: BADALONA
+    State: State_1
+    country: SPAIN
+  Town_559:
+    zip: '08912'
+    town: BADALONA
+    State: State_1
+    country: SPAIN
+  Town_560:
+    zip: '08913'
+    town: BADALONA
+    State: State_1
+    country: SPAIN
+  Town_561:
+    zip: '08914'
+    town: BADALONA
+    State: State_1
+    country: SPAIN
+  Town_562:
+    zip: '08915'
+    town: BADALONA
+    State: State_1
+    country: SPAIN
+  Town_563:
+    zip: '08916'
+    town: BADALONA
+    State: State_1
+    country: SPAIN
+  Town_564:
+    zip: '08916'
+    town: 'MAS RAM URB. (TIANA)'
+    State: State_1
+    country: SPAIN
+  Town_565:
+    zip: '08917'
+    town: BADALONA
+    State: State_1
+    country: SPAIN
+  Town_566:
+    zip: '08918'
+    town: BADALONA
+    State: State_1
+    country: SPAIN
+  Town_567:
+    zip: '08921'
+    town: 'SANTA COLOMA DE GRAMENET'
+    State: State_1
+    country: SPAIN
+  Town_568:
+    zip: '08922'
+    town: 'SANTA COLOMA DE GRAMENET'
+    State: State_1
+    country: SPAIN
+  Town_569:
+    zip: '08923'
+    town: 'SANTA COLOMA DE GRAMENET'
+    State: State_1
+    country: SPAIN
+  Town_570:
+    zip: '08924'
+    town: 'SANTA COLOMA DE GRAMENET'
+    State: State_1
+    country: SPAIN
+  Town_571:
+    zip: '08930'
+    town: 'SANT ADRIA DE BESOS'
+    State: State_1
+    country: SPAIN
+  Town_572:
+    zip: '08940'
+    town: 'CORNELLA DE LLOBREGAT'
+    State: State_1
+    country: SPAIN
+  Town_573:
+    zip: '08950'
+    town: 'ESPLUGUES DE LLOBREGAT'
+    State: State_1
+    country: SPAIN
+  Town_574:
+    zip: '08960'
+    town: 'SANT JUST DESVERN'
+    State: State_1
+    country: SPAIN
+  Town_575:
+    zip: '08970'
+    town: 'SANT JOAN DESPI'
+    State: State_1
+    country: SPAIN
+  Town_576:
+    zip: '08980'
+    town: 'SANT FELIU DE LLOBREGAT'
+    State: State_1
+    country: SPAIN
+  Town_577:
+    zip: '43421'
+    town: BELLPRAT
+    State: State_1
+    country: SPAIN
+  Town_578:
+    zip: '17137'
+    town: VILADAMAT
+    State: State_2
+    country: SPAIN
+  Town_579:
+    zip: '17185'
+    town: 'AEROPORT DE GIRONA - COSTA BRAVA'
+    State: State_2
+    country: SPAIN
+  Town_580:
+    zip: '17256'
+    town: 'SANT JULIA DE BOADA'
+    State: State_2
+    country: SPAIN
+  Town_581:
+    zip: '17458'
+    town: 'FORNELLS DE LA SELVA'
+    State: State_2
+    country: SPAIN
+  Town_582:
+    zip: '17481'
+    town: 'PLA DE SANT JULIA'
+    State: State_2
+    country: SPAIN
+  Town_583:
+    zip: '17534'
+    town: FUSTANYA
+    State: State_2
+    country: SPAIN
+  Town_584:
+    zip: '17734'
+    town: BASSEGODA
+    State: State_2
+    country: SPAIN
+  Town_585:
+    zip: '17832'
+    town: 'PEDRINYA (AJUNTAMENT CRESPIA)'
+    State: State_2
+    country: SPAIN
+  Town_586:
+    zip: '17857'
+    town: 'POCA FARINA (AJUNTAMENT DE SANT JOAN LES FONTS)'
+    State: State_2
+    country: SPAIN
+  Town_587:
+    zip: '17001'
+    town: GIRONA
+    State: State_2
+    country: SPAIN
+  Town_588:
+    zip: '17002'
+    town: GIRONA
+    State: State_2
+    country: SPAIN
+  Town_589:
+    zip: '17003'
+    town: GIRONA
+    State: State_2
+    country: SPAIN
+  Town_590:
+    zip: '17004'
+    town: GIRONA
+    State: State_2
+    country: SPAIN
+  Town_591:
+    zip: '17005'
+    town: GIRONA
+    State: State_2
+    country: SPAIN
+  Town_592:
+    zip: '17006'
+    town: GIRONA
+    State: State_2
+    country: SPAIN
+  Town_593:
+    zip: '17007'
+    town: GIRONA
+    State: State_2
+    country: SPAIN
+  Town_594:
+    zip: '17100'
+    town: 'BISBAL D''EMPORDA, LA'
+    State: State_2
+    country: SPAIN
+  Town_595:
+    zip: '17100'
+    town: 'SANT POL (AJUNTAMENT LA BISBAL)'
+    State: State_2
+    country: SPAIN
+  Town_596:
+    zip: '17110'
+    town: FONTETA
+    State: State_2
+    country: SPAIN
+  Town_597:
+    zip: '17110'
+    town: 'SANT CLIMENT DE PERALTA'
+    State: State_2
+    country: SPAIN
+  Town_598:
+    zip: '17110'
+    town: 'SANTA SUSANA DE PERALTA'
+    State: State_2
+    country: SPAIN
+  Town_599:
+    zip: '17111'
+    town: 'BORDETA, LA'
+    State: State_2
+    country: SPAIN
+  Town_600:
+    zip: '17111'
+    town: FORALLAC
+    State: State_2
+    country: SPAIN
+  Town_601:
+    zip: '17111'
+    town: VULLPELLAC
+    State: State_2
+    country: SPAIN
+  Town_602:
+    zip: '17113'
+    town: CANAPOST
+    State: State_2
+    country: SPAIN
+  Town_603:
+    zip: '17113'
+    town: PERATALLADA
+    State: State_2
+    country: SPAIN
+  Town_604:
+    zip: '17114'
+    town: ULLASTRET
+    State: State_2
+    country: SPAIN
+  Town_605:
+    zip: '17115'
+    town: 'CASTELL D''EMPORDA'
+    State: State_2
+    country: SPAIN
+  Town_606:
+    zip: '17116'
+    town: CRUILLES
+    State: State_2
+    country: SPAIN
+  Town_607:
+    zip: '17117'
+    town: 'SANT MIQUEL DE CRUILLES'
+    State: State_2
+    country: SPAIN
+  Town_608:
+    zip: '17118'
+    town: 'SANT SADURNI DE L''HEURA'
+    State: State_2
+    country: SPAIN
+  Town_609:
+    zip: '17120'
+    town: 'CAÃ‡A DE PELRAS'
+    State: State_2
+    country: SPAIN
+  Town_610:
+    zip: '17120'
+    town: 'PEDRINYA (AJUNTAMENT LA PERA)'
+    State: State_2
+    country: SPAIN
+  Town_611:
+    zip: '17120'
+    town: 'PERA, LA'
+    State: State_2
+    country: SPAIN
+  Town_612:
+    zip: '17120'
+    town: PUBOL
+    State: State_2
+    country: SPAIN
+  Town_613:
+    zip: '17120'
+    town: RIURAS
+    State: State_2
+    country: SPAIN
+  Town_614:
+    zip: '17121'
+    town: CASAVELLS
+    State: State_2
+    country: SPAIN
+  Town_615:
+    zip: '17121'
+    town: CORÃ‡A
+    State: State_2
+    country: SPAIN
+  Town_616:
+    zip: '17121'
+    town: MATAJUDAICA
+    State: State_2
+    country: SPAIN
+  Town_617:
+    zip: '17121'
+    town: MONELLS
+    State: State_2
+    country: SPAIN
+  Town_618:
+    zip: '17121'
+    town: 'VEINAT D''ANYELLS'
+    State: State_2
+    country: SPAIN
+  Town_619:
+    zip: '17121'
+    town: 'VEINAT DE PLANILS'
+    State: State_2
+    country: SPAIN
+  Town_620:
+    zip: '17121'
+    town: 'VEINAT DE SANTA CRISTINA'
+    State: State_2
+    country: SPAIN
+  Town_621:
+    zip: '17121'
+    town: 'VEINAT DE SIES'
+    State: State_2
+    country: SPAIN
+  Town_622:
+    zip: '17121'
+    town: 'VEINAT DE TORRE GUINARDA'
+    State: State_2
+    country: SPAIN
+  Town_623:
+    zip: '17121'
+    town: 'VEINAT RISSEC (AYTO DE CORSA)'
+    State: State_2
+    country: SPAIN
+  Town_624:
+    zip: '17123'
+    town: 'TORRENT D''EMPORDA'
+    State: State_2
+    country: SPAIN
+  Town_625:
+    zip: '17123'
+    town: TORRENTI
+    State: State_2
+    country: SPAIN
+  Town_626:
+    zip: '17124'
+    town: LLOFRIU
+    State: State_2
+    country: SPAIN
+  Town_627:
+    zip: '17130'
+    town: CINCLAUS
+    State: State_2
+    country: SPAIN
+  Town_628:
+    zip: '17130'
+    town: 'CORTS, LES (L''ESCALA)'
+    State: State_2
+    country: SPAIN
+  Town_629:
+    zip: '17130'
+    town: EMPURIES
+    State: State_2
+    country: SPAIN
+  Town_630:
+    zip: '17130'
+    town: 'ESCALA, L'''
+    State: State_2
+    country: SPAIN
+  Town_631:
+    zip: '17130'
+    town: MONTGO
+    State: State_2
+    country: SPAIN
+  Town_632:
+    zip: '17130'
+    town: 'RIELLS (AYTO L''ESCALA)'
+    State: State_2
+    country: SPAIN
+  Town_633:
+    zip: '17131'
+    town: RUPIA
+    State: State_2
+    country: SPAIN
+  Town_634:
+    zip: '17132'
+    town: FOIXA
+    State: State_2
+    country: SPAIN
+  Town_635:
+    zip: '17133'
+    town: FONOLLERES
+    State: State_2
+    country: SPAIN
+  Town_636:
+    zip: '17133'
+    town: PARLAVA
+    State: State_2
+    country: SPAIN
+  Town_637:
+    zip: '17133'
+    town: 'SALA, LA'
+    State: State_2
+    country: SPAIN
+  Town_638:
+    zip: '17133'
+    town: 'SANT ISCLE D''EMPORDA'
+    State: State_2
+    country: SPAIN
+  Town_639:
+    zip: '17133'
+    town: 'SERRA DE DARO'
+    State: State_2
+    country: SPAIN
+  Town_640:
+    zip: '17133'
+    town: ULTRAMORT
+    State: State_2
+    country: SPAIN
+  Town_641:
+    zip: '17134'
+    town: 'CANET DE VERGES'
+    State: State_2
+    country: SPAIN
+  Town_642:
+    zip: '17134'
+    town: MARANYA
+    State: State_2
+    country: SPAIN
+  Town_643:
+    zip: '17134'
+    town: 'TALLADA D''EMPORDA, LA'
+    State: State_2
+    country: SPAIN
+  Town_644:
+    zip: '17134'
+    town: TOR
+    State: State_2
+    country: SPAIN
+  Town_645:
+    zip: '17136'
+    town: ALBONS
+    State: State_2
+    country: SPAIN
+  Town_646:
+    zip: '17137'
+    town: PALABORRELL
+    State: State_2
+    country: SPAIN
+  Town_647:
+    zip: '17137'
+    town: PELACALÃ‡
+    State: State_2
+    country: SPAIN
+  Town_648:
+    zip: '17140'
+    town: ULLA
+    State: State_2
+    country: SPAIN
+  Town_649:
+    zip: '17141'
+    town: 'BELLCAIRE D''EMPORDA'
+    State: State_2
+    country: SPAIN
+  Town_650:
+    zip: '17141'
+    town: SOBRESTANY
+    State: State_2
+    country: SPAIN
+  Town_651:
+    zip: '17142'
+    town: VERGES
+    State: State_2
+    country: SPAIN
+  Town_652:
+    zip: '17143'
+    town: JAFRE
+    State: State_2
+    country: SPAIN
+  Town_653:
+    zip: '17144'
+    town: COLOMERS
+    State: State_2
+    country: SPAIN
+  Town_654:
+    zip: '17150'
+    town: 'SANT GREGORI (town)'
+    State: State_2
+    country: SPAIN
+  Town_655:
+    zip: '17151'
+    town: GINESTAR
+    State: State_2
+    country: SPAIN
+  Town_656:
+    zip: '17151'
+    town: 'SANTA AFRA'
+    State: State_2
+    country: SPAIN
+  Town_657:
+    zip: '17152'
+    town: LLORA
+    State: State_2
+    country: SPAIN
+  Town_658:
+    zip: '17153'
+    town: 'GRANOLLERS DE ROCACORBA'
+    State: State_2
+    country: SPAIN
+  Town_659:
+    zip: '17153'
+    town: 'SANT MARTI DE LLEMENA'
+    State: State_2
+    country: SPAIN
+  Town_660:
+    zip: '17154'
+    town: 'SANT ANIOL DE FINESTRES'
+    State: State_2
+    country: SPAIN
+  Town_661:
+    zip: '17154'
+    town: 'SANT ESTEVE DE LLEMANA'
+    State: State_2
+    country: SPAIN
+  Town_662:
+    zip: '17154'
+    town: 'SANTA MARIA DE FINESTRES'
+    State: State_2
+    country: SPAIN
+  Town_663:
+    zip: '17160'
+    town: ANGLES
+    State: State_2
+    country: SPAIN
+  Town_664:
+    zip: '17160'
+    town: 'CUC, EL'
+    State: State_2
+    country: SPAIN
+  Town_665:
+    zip: '17160'
+    town: 'FARGA, LA (AYTO ANGLES)'
+    State: State_2
+    country: SPAIN
+  Town_666:
+    zip: '17160'
+    town: 'MINES DEL SANT PARE, LES'
+    State: State_2
+    country: SPAIN
+  Town_667:
+    zip: '17160'
+    town: 'PLA D''AMONT, EL'
+    State: State_2
+    country: SPAIN
+  Town_668:
+    zip: '17160'
+    town: 'PLA D''AVALL (AJUNTAMENT ANGLES)'
+    State: State_2
+    country: SPAIN
+  Town_669:
+    zip: '17160'
+    town: 'SANT AMANC'
+    State: State_2
+    country: SPAIN
+  Town_670:
+    zip: '17160'
+    town: 'SANT GREGORI (AYTO OSOR)'
+    State: State_2
+    country: SPAIN
+  Town_671:
+    zip: '17160'
+    town: 'SANTA BARBARA (AYUNTAMIENTO ANGLES)'
+    State: State_2
+    country: SPAIN
+  Town_672:
+    zip: '17161'
+    town: 'COLL, EL (AYTO SUSQUEDA)'
+    State: State_2
+    country: SPAIN
+  Town_673:
+    zip: '17161'
+    town: 'COLONIA DE LES MINES'
+    State: State_2
+    country: SPAIN
+  Town_674:
+    zip: '17161'
+    town: OSOR
+    State: State_2
+    country: SPAIN
+  Town_675:
+    zip: '17161'
+    town: 'SANT MIQUEL DE TER'
+    State: State_2
+    country: SPAIN
+  Town_676:
+    zip: '17161'
+    town: 'SANTA MARIA DEL COLL'
+    State: State_2
+    country: SPAIN
+  Town_677:
+    zip: '17162'
+    town: BESCANO
+    State: State_2
+    country: SPAIN
+  Town_678:
+    zip: '17162'
+    town: MONTFULLA
+    State: State_2
+    country: SPAIN
+  Town_679:
+    zip: '17162'
+    town: VILANNA
+    State: State_2
+    country: SPAIN
+  Town_680:
+    zip: '17164'
+    town: BONMATI
+    State: State_2
+    country: SPAIN
+  Town_681:
+    zip: '17164'
+    town: CONSTANTINS
+    State: State_2
+    country: SPAIN
+  Town_682:
+    zip: '17164'
+    town: 'SANT JULIA DEL LLOR I BONMATI'
+    State: State_2
+    country: SPAIN
+  Town_683:
+    zip: '17164'
+    town: 'SERRES, LES'
+    State: State_2
+    country: SPAIN
+  Town_684:
+    zip: '17165'
+    town: 'CELLERA DE TER, LA'
+    State: State_2
+    country: SPAIN
+  Town_685:
+    zip: '17165'
+    town: PLADAMONT
+    State: State_2
+    country: SPAIN
+  Town_686:
+    zip: '17165'
+    town: PLADAVALL
+    State: State_2
+    country: SPAIN
+  Town_687:
+    zip: '17165'
+    town: PLANTADIS
+    State: State_2
+    country: SPAIN
+  Town_688:
+    zip: '17166'
+    town: 'PASTERAL, EL'
+    State: State_2
+    country: SPAIN
+  Town_689:
+    zip: '17166'
+    town: SUSQUEDA
+    State: State_2
+    country: SPAIN
+  Town_690:
+    zip: '17170'
+    town: AMER
+    State: State_2
+    country: SPAIN
+  Town_691:
+    zip: '17170'
+    town: 'COSTA DE SANTA BRIGIDA'
+    State: State_2
+    country: SPAIN
+  Town_692:
+    zip: '17170'
+    town: 'LLORET SALVATGE'
+    State: State_2
+    country: SPAIN
+  Town_693:
+    zip: '17170'
+    town: PALOU
+    State: State_2
+    country: SPAIN
+  Town_694:
+    zip: '17170'
+    town: 'SANT CLIMENT D''AMER'
+    State: State_2
+    country: SPAIN
+  Town_695:
+    zip: '17170'
+    town: 'SANT GENIS'
+    State: State_2
+    country: SPAIN
+  Town_696:
+    zip: '17170'
+    town: 'VEINAT DE LA JUNQUERA'
+    State: State_2
+    country: SPAIN
+  Town_697:
+    zip: '17170'
+    town: 'VEINAT DEL COLOMER'
+    State: State_2
+    country: SPAIN
+  Town_698:
+    zip: '17170'
+    town: 'VEINAT DEL MONT'
+    State: State_2
+    country: SPAIN
+  Town_699:
+    zip: '17171'
+    town: 'BARROCA, LA'
+    State: State_2
+    country: SPAIN
+  Town_700:
+    zip: '17171'
+    town: 'SANT MARTI SACALM'
+    State: State_2
+    country: SPAIN
+  Town_701:
+    zip: '17172'
+    town: 'COLONIA DUSOL'
+    State: State_2
+    country: SPAIN
+  Town_702:
+    zip: '17172'
+    town: 'COLONIA PAULI'
+    State: State_2
+    country: SPAIN
+  Town_703:
+    zip: '17172'
+    town: 'ENCIES, LES'
+    State: State_2
+    country: SPAIN
+  Town_704:
+    zip: '17172'
+    town: 'PLANES D''HOSTOLES, LES'
+    State: State_2
+    country: SPAIN
+  Town_705:
+    zip: '17172'
+    town: 'ROCAFARINA (PRESES, LES)'
+    State: State_2
+    country: SPAIN
+  Town_706:
+    zip: '17173'
+    town: COGOLLS
+    State: State_2
+    country: SPAIN
+  Town_707:
+    zip: '17174'
+    town: BASTONS
+    State: State_2
+    country: SPAIN
+  Town_708:
+    zip: '17174'
+    town: 'FAR, EL (AJUNTAMENT DE SANT FELIU DE PALLEROLS)'
+    State: State_2
+    country: SPAIN
+  Town_709:
+    zip: '17174'
+    town: PALLEROLS
+    State: State_2
+    country: SPAIN
+  Town_710:
+    zip: '17174'
+    town: 'SALUT, LA'
+    State: State_2
+    country: SPAIN
+  Town_711:
+    zip: '17174'
+    town: 'SANT FELIU DE PALLEROLS'
+    State: State_2
+    country: SPAIN
+  Town_712:
+    zip: '17174'
+    town: 'SANT ISCLE DE COLLTORT'
+    State: State_2
+    country: SPAIN
+  Town_713:
+    zip: '17175'
+    town: 'SANT MIQUEL DE PINEDA'
+    State: State_2
+    country: SPAIN
+  Town_714:
+    zip: '17176'
+    town: 'DRETA DEL FLUVIA, LA'
+    State: State_2
+    country: SPAIN
+  Town_715:
+    zip: '17176'
+    town: 'ESQUERRA DEL FLUVIA, L'''
+    State: State_2
+    country: SPAIN
+  Town_716:
+    zip: '17176'
+    town: JOANETES
+    State: State_2
+    country: SPAIN
+  Town_717:
+    zip: '17176'
+    town: 'SANT ESTEVE D''EN BAS'
+    State: State_2
+    country: SPAIN
+  Town_718:
+    zip: '17176'
+    town: 'SERRA, LA (AYTO VALL BAS)'
+    State: State_2
+    country: SPAIN
+  Town_719:
+    zip: '17176'
+    town: 'VEINAT DE CAN TRONA'
+    State: State_2
+    country: SPAIN
+  Town_720:
+    zip: '17177'
+    town: 'FALGARS D''EN BAS'
+    State: State_2
+    country: SPAIN
+  Town_721:
+    zip: '17177'
+    town: 'HOSTALETS D''EN BAS, ELS'
+    State: State_2
+    country: SPAIN
+  Town_722:
+    zip: '17178'
+    town: BELLAIRE
+    State: State_2
+    country: SPAIN
+  Town_723:
+    zip: '17178'
+    town: BOSCDETOSCA
+    State: State_2
+    country: SPAIN
+  Town_724:
+    zip: '17178'
+    town: 'MALLOLL, EL'
+    State: State_2
+    country: SPAIN
+  Town_725:
+    zip: '17178'
+    town: 'PLADEVALL (AYTO LES PRESES)'
+    State: State_2
+    country: SPAIN
+  Town_726:
+    zip: '17178'
+    town: POCAFARINA
+    State: State_2
+    country: SPAIN
+  Town_727:
+    zip: '17178'
+    town: 'PRESES, LES'
+    State: State_2
+    country: SPAIN
+  Town_728:
+    zip: '17178'
+    town: PUIGPARDINES
+    State: State_2
+    country: SPAIN
+  Town_729:
+    zip: '17178'
+    town: 'SANT MIQUEL DE CORB'
+    State: State_2
+    country: SPAIN
+  Town_730:
+    zip: '17178'
+    town: 'SANT PRIVAT D''EN BAS'
+    State: State_2
+    country: SPAIN
+  Town_731:
+    zip: '17179'
+    town: 'BAC D''EN DEU, EL'
+    State: State_2
+    country: SPAIN
+  Town_732:
+    zip: '17179'
+    town: 'CLOT DE LA PLANA, EL'
+    State: State_2
+    country: SPAIN
+  Town_733:
+    zip: '17179'
+    town: 'FAJULA, LA'
+    State: State_2
+    country: SPAIN
+  Town_734:
+    zip: '17179'
+    town: 'PINYA, LA'
+    State: State_2
+    country: SPAIN
+  Town_735:
+    zip: '17179'
+    town: RIUDAURA
+    State: State_2
+    country: SPAIN
+  Town_736:
+    zip: '17180'
+    town: 'PERELLO, EL'
+    State: State_2
+    country: SPAIN
+  Town_737:
+    zip: '17180'
+    town: VILABLAREIX
+    State: State_2
+    country: SPAIN
+  Town_738:
+    zip: '17181'
+    town: AIGUAVIVA
+    State: State_2
+    country: SPAIN
+  Town_739:
+    zip: '17181'
+    town: GUELL
+    State: State_2
+    country: SPAIN
+  Town_740:
+    zip: '17181'
+    town: MARROCS
+    State: State_2
+    country: SPAIN
+  Town_741:
+    zip: '17181'
+    town: MIGDIA
+    State: State_2
+    country: SPAIN
+  Town_742:
+    zip: '17181'
+    town: PUIGTORRAT
+    State: State_2
+    country: SPAIN
+  Town_743:
+    zip: '17181'
+    town: 'RAJOLERIES, LES'
+    State: State_2
+    country: SPAIN
+  Town_744:
+    zip: '17182'
+    town: ESTANYOL
+    State: State_2
+    country: SPAIN
+  Town_745:
+    zip: '17183'
+    town: 'SANT DALMAI'
+    State: State_2
+    country: SPAIN
+  Town_746:
+    zip: '17184'
+    town: SALITJA
+    State: State_2
+    country: SPAIN
+  Town_747:
+    zip: '17185'
+    town: 'VILOBI D''ONYAR'
+    State: State_2
+    country: SPAIN
+  Town_748:
+    zip: '17190'
+    town: GIRONA
+    State: State_2
+    country: SPAIN
+  Town_749:
+    zip: '17190'
+    town: SALT
+    State: State_2
+    country: SPAIN
+  Town_750:
+    zip: '17199'
+    town: ADRI
+    State: State_2
+    country: SPAIN
+  Town_751:
+    zip: '17199'
+    town: BIERT
+    State: State_2
+    country: SPAIN
+  Town_752:
+    zip: '17199'
+    town: 'CANET D''ADRI'
+    State: State_2
+    country: SPAIN
+  Town_753:
+    zip: '17199'
+    town: CARTELLA
+    State: State_2
+    country: SPAIN
+  Town_754:
+    zip: '17199'
+    town: MONTBO
+    State: State_2
+    country: SPAIN
+  Town_755:
+    zip: '17199'
+    town: MONTCAL
+    State: State_2
+    country: SPAIN
+  Town_756:
+    zip: '17199'
+    town: ROCACORBA
+    State: State_2
+    country: SPAIN
+  Town_757:
+    zip: '17199'
+    town: 'SANT MEDIR'
+    State: State_2
+    country: SPAIN
+  Town_758:
+    zip: '17199'
+    town: TAIALA
+    State: State_2
+    country: SPAIN
+  Town_759:
+    zip: '17200'
+    town: 'BRUGUEROL, EL'
+    State: State_2
+    country: SPAIN
+  Town_760:
+    zip: '17200'
+    town: ERMEDAS
+    State: State_2
+    country: SPAIN
+  Town_761:
+    zip: '17200'
+    town: PALAFRUGELL
+    State: State_2
+    country: SPAIN
+  Town_762:
+    zip: '17200'
+    town: 'SANT PONS (AJUNTAMENT PALAFRUGELL)'
+    State: State_2
+    country: SPAIN
+  Town_763:
+    zip: '17200'
+    town: 'SANTA MARGARIDA'
+    State: State_2
+    country: SPAIN
+  Town_764:
+    zip: '17200'
+    town: 'VILA-SECA (AYUNTAMIENTO PALAFRUGELL)'
+    State: State_2
+    country: SPAIN
+  Town_765:
+    zip: '17210'
+    town: 'CALELLA DE PALAFRUGELL'
+    State: State_2
+    country: SPAIN
+  Town_766:
+    zip: '17211'
+    town: LLAFRANC
+    State: State_2
+    country: SPAIN
+  Town_767:
+    zip: '17212'
+    town: TAMARIU
+    State: State_2
+    country: SPAIN
+  Town_768:
+    zip: '17213'
+    town: ESCLANYA
+    State: State_2
+    country: SPAIN
+  Town_769:
+    zip: '17214'
+    town: REGENCOS
+    State: State_2
+    country: SPAIN
+  Town_770:
+    zip: '17220'
+    town: 'SANT FELIU DE GUIXOLS'
+    State: State_2
+    country: SPAIN
+  Town_771:
+    zip: '17220'
+    town: 'SANT POL (AJUNTAMENT SANT FELIU DE GUIXOLS)'
+    State: State_2
+    country: SPAIN
+  Town_772:
+    zip: '17230'
+    town: 'CALA MARGARIDA'
+    State: State_2
+    country: SPAIN
+  Town_773:
+    zip: '17230'
+    town: 'FIGUERAR, EL'
+    State: State_2
+    country: SPAIN
+  Town_774:
+    zip: '17230'
+    town: 'FOSCA, LA'
+    State: State_2
+    country: SPAIN
+  Town_775:
+    zip: '17230'
+    town: PALAMOS
+    State: State_2
+    country: SPAIN
+  Town_776:
+    zip: '17230'
+    town: 'S''ALGUER'
+    State: State_2
+    country: SPAIN
+  Town_777:
+    zip: '17230'
+    town: 'SANT JOAN DE PALAMOS'
+    State: State_2
+    country: SPAIN
+  Town_778:
+    zip: '17230'
+    town: VILARROMA
+    State: State_2
+    country: SPAIN
+  Town_779:
+    zip: '17240'
+    town: 'CANYERA, LA'
+    State: State_2
+    country: SPAIN
+  Town_780:
+    zip: '17240'
+    town: LLAGOSTERA
+    State: State_2
+    country: SPAIN
+  Town_781:
+    zip: '17240'
+    town: 'MATA, LA (AJUNTAMENT LLAGOSTERA)'
+    State: State_2
+    country: SPAIN
+  Town_782:
+    zip: '17240'
+    town: 'ROMANYA DE LA SELVA'
+    State: State_2
+    country: SPAIN
+  Town_783:
+    zip: '17240'
+    town: 'SANTA SECLINA'
+    State: State_2
+    country: SPAIN
+  Town_784:
+    zip: '17240'
+    town: 'VEINAT DE BRUGUERA'
+    State: State_2
+    country: SPAIN
+  Town_785:
+    zip: '17240'
+    town: 'VEINAT DE CANTALLOPS'
+    State: State_2
+    country: SPAIN
+  Town_786:
+    zip: '17240'
+    town: 'VEINAT DE CREU DE SERRA'
+    State: State_2
+    country: SPAIN
+  Town_787:
+    zip: '17240'
+    town: 'VEINAT DE GAIA'
+    State: State_2
+    country: SPAIN
+  Town_788:
+    zip: '17240'
+    town: 'VEINAT DE GANIX'
+    State: State_2
+    country: SPAIN
+  Town_789:
+    zip: '17240'
+    town: 'VEINAT DE LLOBATERA'
+    State: State_2
+    country: SPAIN
+  Town_790:
+    zip: '17240'
+    town: 'VEINAT DE MATA'
+    State: State_2
+    country: SPAIN
+  Town_791:
+    zip: '17240'
+    town: 'VEINAT DE PENEDES'
+    State: State_2
+    country: SPAIN
+  Town_792:
+    zip: '17240'
+    town: 'VEINAT DE SANT LLORENC'
+    State: State_2
+    country: SPAIN
+  Town_793:
+    zip: '17240'
+    town: 'VEINAT POCAFARINA (AY LLAGOSTE)'
+    State: State_2
+    country: SPAIN
+  Town_794:
+    zip: '17241'
+    town: 'CREUETA, LA'
+    State: State_2
+    country: SPAIN
+  Town_795:
+    zip: '17241'
+    town: 'PALOL D''ONYAR'
+    State: State_2
+    country: SPAIN
+  Town_796:
+    zip: '17242'
+    town: 'CASTELLAR DE LA SELVA'
+    State: State_2
+    country: SPAIN
+  Town_797:
+    zip: '17242'
+    town: MONTNEGRE
+    State: State_2
+    country: SPAIN
+  Town_798:
+    zip: '17242'
+    town: QUART
+    State: State_2
+    country: SPAIN
+  Town_799:
+    zip: '17242'
+    town: 'SANT MATEU DE MONTNEGRE'
+    State: State_2
+    country: SPAIN
+  Town_800:
+    zip: '17243'
+    town: EROLS
+    State: State_2
+    country: SPAIN
+  Town_801:
+    zip: '17243'
+    town: LLAMBILLES
+    State: State_2
+    country: SPAIN
+  Town_802:
+    zip: '17243'
+    town: 'SANT CRISTOFOL DEL BOSC'
+    State: State_2
+    country: SPAIN
+  Town_803:
+    zip: '17244'
+    town: 'CASSA DE LA SELVA'
+    State: State_2
+    country: SPAIN
+  Town_804:
+    zip: '17244'
+    town: 'SANTA PELLAIA'
+    State: State_2
+    country: SPAIN
+  Town_805:
+    zip: '17244'
+    town: 'VEINAT DE LES SERRES'
+    State: State_2
+    country: SPAIN
+  Town_806:
+    zip: '17244'
+    town: 'VEINAT DE MATAMALA'
+    State: State_2
+    country: SPAIN
+  Town_807:
+    zip: '17244'
+    town: 'VEINAT DE MOSQUEROLES'
+    State: State_2
+    country: SPAIN
+  Town_808:
+    zip: '17244'
+    town: 'VEINAT DE SANGOSTA'
+    State: State_2
+    country: SPAIN
+  Town_809:
+    zip: '17244'
+    town: 'VEINAT DE SERINYA'
+    State: State_2
+    country: SPAIN
+  Town_810:
+    zip: '17244'
+    town: 'VEINAT DE VERNEDA'
+    State: State_2
+    country: SPAIN
+  Town_811:
+    zip: '17244'
+    town: 'VEINAT D''ESCLET'
+    State: State_2
+    country: SPAIN
+  Town_812:
+    zip: '17244'
+    town: 'VEINAT MONTROIG (AYTO CASSA S)'
+    State: State_2
+    country: SPAIN
+  Town_813:
+    zip: '17244'
+    town: 'VINAT DE LLEBRERS'
+    State: State_2
+    country: SPAIN
+  Town_814:
+    zip: '17245'
+    town: BELL-LLOC
+    State: State_2
+    country: SPAIN
+  Town_815:
+    zip: '17246'
+    town: BUFAGANYES
+    State: State_2
+    country: SPAIN
+  Town_816:
+    zip: '17246'
+    town: 'CANYET DE MAR'
+    State: State_2
+    country: SPAIN
+  Town_817:
+    zip: '17246'
+    town: SALOM
+    State: State_2
+    country: SPAIN
+  Town_818:
+    zip: '17246'
+    town: 'SANTA CRISTINA D''ARO'
+    State: State_2
+    country: SPAIN
+  Town_819:
+    zip: '17246'
+    town: SOLIUS
+    State: State_2
+    country: SPAIN
+  Town_820:
+    zip: '17246'
+    town: 'VILAR, EL'
+    State: State_2
+    country: SPAIN
+  Town_821:
+    zip: '17248'
+    town: 'S''AGARO'
+    State: State_2
+    country: SPAIN
+  Town_822:
+    zip: '17249'
+    town: CANYET
+    State: State_2
+    country: SPAIN
+  Town_823:
+    zip: '17249'
+    town: 'CASTELL-PLATJA D''ARO'
+    State: State_2
+    country: SPAIN
+  Town_824:
+    zip: '17249'
+    town: 'COMA, LA (AYTO CASTELL ARO)'
+    State: State_2
+    country: SPAIN
+  Town_825:
+    zip: '17249'
+    town: 'CROTA, LA'
+    State: State_2
+    country: SPAIN
+  Town_826:
+    zip: '17250'
+    town: 'PLATJA D''ARO'
+    State: State_2
+    country: SPAIN
+  Town_827:
+    zip: '17251'
+    town: CALONGE
+    State: State_2
+    country: SPAIN
+  Town_828:
+    zip: '17252'
+    town: 'SANT ANTONI DE CALONGE'
+    State: State_2
+    country: SPAIN
+  Town_829:
+    zip: '17252'
+    town: 'SANT DANIEL DE CALONGE'
+    State: State_2
+    country: SPAIN
+  Town_830:
+    zip: '17252'
+    town: TREUMAL
+    State: State_2
+    country: SPAIN
+  Town_831:
+    zip: '17253'
+    town: MOLINES
+    State: State_2
+    country: SPAIN
+  Town_832:
+    zip: '17253'
+    town: MONT-RAS
+    State: State_2
+    country: SPAIN
+  Town_833:
+    zip: '17253'
+    town: VALL-LLOBREGA
+    State: State_2
+    country: SPAIN
+  Town_834:
+    zip: '17255'
+    town: 'AIGUABLAVA, D'''
+    State: State_2
+    country: SPAIN
+  Town_835:
+    zip: '17255'
+    town: 'AIGUAFREDA, D'''
+    State: State_2
+    country: SPAIN
+  Town_836:
+    zip: '17255'
+    town: BEGUR
+    State: State_2
+    country: SPAIN
+  Town_837:
+    zip: '17255'
+    town: 'FORNELLS, DE'
+    State: State_2
+    country: SPAIN
+  Town_838:
+    zip: '17255'
+    town: 'RACO, DEL'
+    State: State_2
+    country: SPAIN
+  Town_839:
+    zip: '17255'
+    town: 'SA RIERA, DE'
+    State: State_2
+    country: SPAIN
+  Town_840:
+    zip: '17255'
+    town: 'SA TUNA, DE'
+    State: State_2
+    country: SPAIN
+  Town_841:
+    zip: '17256'
+    town: FONTCLARA
+    State: State_2
+    country: SPAIN
+  Town_842:
+    zip: '17256'
+    town: 'MASOS DE PALS, ELS'
+    State: State_2
+    country: SPAIN
+  Town_843:
+    zip: '17256'
+    town: PALAU-SATOR
+    State: State_2
+    country: SPAIN
+  Town_844:
+    zip: '17256'
+    town: PALS
+    State: State_2
+    country: SPAIN
+  Town_845:
+    zip: '17256'
+    town: 'SANT FELIU DE BOADA'
+    State: State_2
+    country: SPAIN
+  Town_846:
+    zip: '17257'
+    town: FONTANILLES
+    State: State_2
+    country: SPAIN
+  Town_847:
+    zip: '17257'
+    town: GUALTA
+    State: State_2
+    country: SPAIN
+  Town_848:
+    zip: '17257'
+    town: LLABIA
+    State: State_2
+    country: SPAIN
+  Town_849:
+    zip: '17257'
+    town: 'TORROELLA DE MONTGRI'
+    State: State_2
+    country: SPAIN
+  Town_850:
+    zip: '17258'
+    town: 'ESTARTIT, L'''
+    State: State_2
+    country: SPAIN
+  Town_851:
+    zip: '17300'
+    town: BLANES
+    State: State_2
+    country: SPAIN
+  Town_852:
+    zip: '17310'
+    town: 'ALEGRIES, LES'
+    State: State_2
+    country: SPAIN
+  Town_853:
+    zip: '17310'
+    town: 'CANYELLES (AYTO LLORET MAR)'
+    State: State_2
+    country: SPAIN
+  Town_854:
+    zip: '17310'
+    town: 'LLORET DE MAR'
+    State: State_2
+    country: SPAIN
+  Town_855:
+    zip: '17310'
+    town: ROCAGROSSA
+    State: State_2
+    country: SPAIN
+  Town_856:
+    zip: '17310'
+    town: 'SANTA CRISTINA'
+    State: State_2
+    country: SPAIN
+  Town_857:
+    zip: '17320'
+    town: 'CANYELLES (AYTO TOSSA)'
+    State: State_2
+    country: SPAIN
+  Town_858:
+    zip: '17320'
+    town: 'POLA GIVEROLA'
+    State: State_2
+    country: SPAIN
+  Town_859:
+    zip: '17320'
+    town: SALIONÃ‡
+    State: State_2
+    country: SPAIN
+  Town_860:
+    zip: '17320'
+    town: 'SANT GRAU'
+    State: State_2
+    country: SPAIN
+  Town_861:
+    zip: '17320'
+    town: 'SANTA MARIA DE LLORELL'
+    State: State_2
+    country: SPAIN
+  Town_862:
+    zip: '17320'
+    town: 'TOSSA DE MAR'
+    State: State_2
+    country: SPAIN
+  Town_863:
+    zip: '17400'
+    town: BREDA
+    State: State_2
+    country: SPAIN
+  Town_864:
+    zip: '17401'
+    town: ARBUCIES
+    State: State_2
+    country: SPAIN
+  Town_865:
+    zip: '17401'
+    town: 'VEINAT DE LA JANETA'
+    State: State_2
+    country: SPAIN
+  Town_866:
+    zip: '17401'
+    town: 'VEINAT DE LLIORS'
+    State: State_2
+    country: SPAIN
+  Town_867:
+    zip: '17401'
+    town: 'VEINAT DEL RIERAL'
+    State: State_2
+    country: SPAIN
+  Town_868:
+    zip: '17401'
+    town: 'VEINAT DEL VIDAL'
+    State: State_2
+    country: SPAIN
+  Town_869:
+    zip: '17402'
+    town: JOANET
+    State: State_2
+    country: SPAIN
+  Town_870:
+    zip: '17403'
+    town: 'FOGUERES DE MONTSORIU'
+    State: State_2
+    country: SPAIN
+  Town_871:
+    zip: '17403'
+    town: 'SANT HILARI SACALM'
+    State: State_2
+    country: SPAIN
+  Town_872:
+    zip: '17403'
+    town: 'SANTA MARGARIDA DE BALLORS'
+    State: State_2
+    country: SPAIN
+  Town_873:
+    zip: '17404'
+    town: 'COMTE D''ALBA DE LISTE'
+    State: State_2
+    country: SPAIN
+  Town_874:
+    zip: '17404'
+    town: 'RIELLS (town)'
+    State: State_2
+    country: SPAIN
+  Town_875:
+    zip: '17404'
+    town: VIABREA
+    State: State_2
+    country: SPAIN
+  Town_876:
+    zip: '17405'
+    town: ESPINELVES
+    State: State_2
+    country: SPAIN
+  Town_877:
+    zip: '17406'
+    town: VILADRAU
+    State: State_2
+    country: SPAIN
+  Town_878:
+    zip: '17406'
+    town: VILARNAU
+    State: State_2
+    country: SPAIN
+  Town_879:
+    zip: '17410'
+    town: 'MALLORQUINES, LES'
+    State: State_2
+    country: SPAIN
+  Town_880:
+    zip: '17410'
+    town: SILS
+    State: State_2
+    country: SPAIN
+  Town_881:
+    zip: '17410'
+    town: VALLCANERA
+    State: State_2
+    country: SPAIN
+  Town_882:
+    zip: '17410'
+    town: 'VEINAT BARCELONETA (AYTO SILS)'
+    State: State_2
+    country: SPAIN
+  Town_883:
+    zip: '17410'
+    town: 'VEINAT DE LA GRANOTA'
+    State: State_2
+    country: SPAIN
+  Town_884:
+    zip: '17410'
+    town: 'VEINAT DE MASSABE'
+    State: State_2
+    country: SPAIN
+  Town_885:
+    zip: '17411'
+    town: 'BORIES, LES'
+    State: State_2
+    country: SPAIN
+  Town_886:
+    zip: '17411'
+    town: CARTALLA
+    State: State_2
+    country: SPAIN
+  Town_887:
+    zip: '17411'
+    town: CAULES
+    State: State_2
+    country: SPAIN
+  Town_888:
+    zip: '17411'
+    town: VIDRERES
+    State: State_2
+    country: SPAIN
+  Town_889:
+    zip: '17412'
+    town: COMAJULIANA
+    State: State_2
+    country: SPAIN
+  Town_890:
+    zip: '17412'
+    town: 'ESTANY, L'''
+    State: State_2
+    country: SPAIN
+  Town_891:
+    zip: '17412'
+    town: 'MAÃ‡ANET DE LA SELVA'
+    State: State_2
+    country: SPAIN
+  Town_892:
+    zip: '17412'
+    town: MARATA
+    State: State_2
+    country: SPAIN
+  Town_893:
+    zip: '17412'
+    town: 'MIQUEL FARRE'
+    State: State_2
+    country: SPAIN
+  Town_894:
+    zip: '17412'
+    town: 'PIBITLLER, EL'
+    State: State_2
+    country: SPAIN
+  Town_895:
+    zip: '17412'
+    town: PUIGMARI
+    State: State_2
+    country: SPAIN
+  Town_896:
+    zip: '17412'
+    town: 'PUJOL, EL (MACANET SELVA)'
+    State: State_2
+    country: SPAIN
+  Town_897:
+    zip: '17412'
+    town: SOLIVA
+    State: State_2
+    country: SPAIN
+  Town_898:
+    zip: '17420'
+    town: MALLORQUINES
+    State: State_2
+    country: SPAIN
+  Town_899:
+    zip: '17421'
+    town: 'ESPARRA, L'''
+    State: State_2
+    country: SPAIN
+  Town_900:
+    zip: '17421'
+    town: 'RAVAL DE L''ESPARRA, EL'
+    State: State_2
+    country: SPAIN
+  Town_901:
+    zip: '17421'
+    town: 'RIERA, LA (AYTO RIUDARENES)'
+    State: State_2
+    country: SPAIN
+  Town_902:
+    zip: '17421'
+    town: RIUDARENES
+    State: State_2
+    country: SPAIN
+  Town_903:
+    zip: '17421'
+    town: 'SANTA COLOMA'
+    State: State_2
+    country: SPAIN
+  Town_904:
+    zip: '17421'
+    town: SERRAMAGRA
+    State: State_2
+    country: SPAIN
+  Town_905:
+    zip: '17430'
+    town: 'SANTA COLOMA DE FARNERS'
+    State: State_2
+    country: SPAIN
+  Town_906:
+    zip: '17430'
+    town: 'VEINAT DE LA VALL'
+    State: State_2
+    country: SPAIN
+  Town_907:
+    zip: '17430'
+    town: 'VEINAT DE VALLORS'
+    State: State_2
+    country: SPAIN
+  Town_908:
+    zip: '17441'
+    town: BRUNYOLA
+    State: State_2
+    country: SPAIN
+  Town_909:
+    zip: '17441'
+    town: 'SANT MARTI SAPRESA'
+    State: State_2
+    country: SPAIN
+  Town_910:
+    zip: '17442'
+    town: 'SANTA CREU D''HORTA'
+    State: State_2
+    country: SPAIN
+  Town_911:
+    zip: '17443'
+    town: CASTANYET
+    State: State_2
+    country: SPAIN
+  Town_912:
+    zip: '17444'
+    town: CLADELLS
+    State: State_2
+    country: SPAIN
+  Town_913:
+    zip: '17445'
+    town: 'SANT PERE CERCADA'
+    State: State_2
+    country: SPAIN
+  Town_914:
+    zip: '17450'
+    town: HOSTALRIC
+    State: State_2
+    country: SPAIN
+  Town_915:
+    zip: '17451'
+    town: GASERANS
+    State: State_2
+    country: SPAIN
+  Town_916:
+    zip: '17451'
+    town: GRIONS
+    State: State_2
+    country: SPAIN
+  Town_917:
+    zip: '17451'
+    town: 'SANT FELIU DE BUIXALLEU'
+    State: State_2
+    country: SPAIN
+  Town_918:
+    zip: '17452'
+    town: MASSANES
+    State: State_2
+    country: SPAIN
+  Town_919:
+    zip: '17453'
+    town: 'MARTORELL DE LA SELVA'
+    State: State_2
+    country: SPAIN
+  Town_920:
+    zip: '17455'
+    town: 'CALDES DE MALAVELLA'
+    State: State_2
+    country: SPAIN
+  Town_921:
+    zip: '17455'
+    town: 'SANT ANDREU SALOU'
+    State: State_2
+    country: SPAIN
+  Town_922:
+    zip: '17455'
+    town: 'VEINAT DE BAIX (AJUNTAMENT CALDES DE MALAVELLA)'
+    State: State_2
+    country: SPAIN
+  Town_923:
+    zip: '17455'
+    town: 'VEINAT DE ISRAEL'
+    State: State_2
+    country: SPAIN
+  Town_924:
+    zip: '17455'
+    town: 'VEINAT DE LES MATEUES, EL'
+    State: State_2
+    country: SPAIN
+  Town_925:
+    zip: '17456'
+    town: FRANCIACH
+    State: State_2
+    country: SPAIN
+  Town_926:
+    zip: '17456'
+    town: 'VEINAT BAIX'
+    State: State_2
+    country: SPAIN
+  Town_927:
+    zip: '17456'
+    town: 'VEINAT DALT'
+    State: State_2
+    country: SPAIN
+  Town_928:
+    zip: '17456'
+    town: 'VEINAT DE CAN BOSC'
+    State: State_2
+    country: SPAIN
+  Town_929:
+    zip: '17457'
+    town: CAMPLLONG
+    State: State_2
+    country: SPAIN
+  Town_930:
+    zip: '17457'
+    town: 'RIUDELLOTS DE LA SELVA'
+    State: State_2
+    country: SPAIN
+  Town_931:
+    zip: '17457'
+    town: 'VEINAT DE CAN BOIXO'
+    State: State_2
+    country: SPAIN
+  Town_932:
+    zip: '17457'
+    town: 'VEINAT DE CAN CALDERO'
+    State: State_2
+    country: SPAIN
+  Town_933:
+    zip: '17457'
+    town: 'VEINAT DE CAN CANYET'
+    State: State_2
+    country: SPAIN
+  Town_934:
+    zip: '17457'
+    town: 'VEINAT DE CAN DIONIS'
+    State: State_2
+    country: SPAIN
+  Town_935:
+    zip: '17457'
+    town: 'VEINAT DE CAN FALGUERES'
+    State: State_2
+    country: SPAIN
+  Town_936:
+    zip: '17457'
+    town: 'VEINAT DE CAN POU'
+    State: State_2
+    country: SPAIN
+  Town_937:
+    zip: '17457'
+    town: 'VEINAT DE DALT (AJUNTAMENT SANT ANDREU SALOU)'
+    State: State_2
+    country: SPAIN
+  Town_938:
+    zip: '17457'
+    town: 'VEINAT DE LA BRUGUERA'
+    State: State_2
+    country: SPAIN
+  Town_939:
+    zip: '17457'
+    town: 'VEINAT DE LA PEQUENYA'
+    State: State_2
+    country: SPAIN
+  Town_940:
+    zip: '17457'
+    town: 'VEINAT DE LA TORREPONSA'
+    State: State_2
+    country: SPAIN
+  Town_941:
+    zip: '17457'
+    town: 'VEINAT DE LES BOSQUES'
+    State: State_2
+    country: SPAIN
+  Town_942:
+    zip: '17457'
+    town: 'VEINAT DE LES FERRERIES'
+    State: State_2
+    country: SPAIN
+  Town_943:
+    zip: '17457'
+    town: 'VEINAT DE L''ESTACIO'
+    State: State_2
+    country: SPAIN
+  Town_944:
+    zip: '17457'
+    town: 'VEINAT DE L''HOSTAL NOU'
+    State: State_2
+    country: SPAIN
+  Town_945:
+    zip: '17458'
+    town: 'VEINAT BARCELONETA (AY FORNELL'
+    State: State_2
+    country: SPAIN
+  Town_946:
+    zip: '17458'
+    town: 'VEINAT DE LA SELVA'
+    State: State_2
+    country: SPAIN
+  Town_947:
+    zip: '17458'
+    town: 'VEINAT DE MAS CASES'
+    State: State_2
+    country: SPAIN
+  Town_948:
+    zip: '17458'
+    town: 'VEINAT DE MAS SERRA'
+    State: State_2
+    country: SPAIN
+  Town_949:
+    zip: '17460'
+    town: CELRA
+    State: State_2
+    country: SPAIN
+  Town_950:
+    zip: '17460'
+    town: 'MANSO BLANC'
+    State: State_2
+    country: SPAIN
+  Town_951:
+    zip: '17460'
+    town: 'MAS SERRA, EL'
+    State: State_2
+    country: SPAIN
+  Town_952:
+    zip: '17460'
+    town: 'MAS VERAI, EL'
+    State: State_2
+    country: SPAIN
+  Town_953:
+    zip: '17460'
+    town: PALAGRET
+    State: State_2
+    country: SPAIN
+  Town_954:
+    zip: '17461'
+    town: CAMPDORA
+    State: State_2
+    country: SPAIN
+  Town_955:
+    zip: '17462'
+    town: 'BARRI DE L''ESTACIO, EL'
+    State: State_2
+    country: SPAIN
+  Town_956:
+    zip: '17462'
+    town: 'BARRI DEL MERCADAL'
+    State: State_2
+    country: SPAIN
+  Town_957:
+    zip: '17462'
+    town: 'BARRI DEL PUIG (AJUNTAMENT SAN MARTI VELL)'
+    State: State_2
+    country: SPAIN
+  Town_958:
+    zip: '17462'
+    town: 'BARRI DELS ANGELS'
+    State: State_2
+    country: SPAIN
+  Town_959:
+    zip: '17462'
+    town: 'BARRI VILOSA'
+    State: State_2
+    country: SPAIN
+  Town_960:
+    zip: '17462'
+    town: BORDILS
+    State: State_2
+    country: SPAIN
+  Town_961:
+    zip: '17462'
+    town: 'COSTA, LA'
+    State: State_2
+    country: SPAIN
+  Town_962:
+    zip: '17462'
+    town: JUIA
+    State: State_2
+    country: SPAIN
+  Town_963:
+    zip: '17462'
+    town: MADREMANYA
+    State: State_2
+    country: SPAIN
+  Town_964:
+    zip: '17462'
+    town: 'MAS RIPOLL, EL'
+    State: State_2
+    country: SPAIN
+  Town_965:
+    zip: '17462'
+    town: 'MAS SEGUER, EL'
+    State: State_2
+    country: SPAIN
+  Town_966:
+    zip: '17462'
+    town: 'MAS TORRENT'
+    State: State_2
+    country: SPAIN
+  Town_967:
+    zip: '17462'
+    town: MILLARS
+    State: State_2
+    country: SPAIN
+  Town_968:
+    zip: '17462'
+    town: 'SANT MARTI VELL'
+    State: State_2
+    country: SPAIN
+  Town_969:
+    zip: '17462'
+    town: 'VEINAT DE MAS NADAL'
+    State: State_2
+    country: SPAIN
+  Town_970:
+    zip: '17462'
+    town: VILERS
+    State: State_2
+    country: SPAIN
+  Town_971:
+    zip: '17463'
+    town: FLAÃ‡A
+    State: State_2
+    country: SPAIN
+  Town_972:
+    zip: '17463'
+    town: 'SANT JOAN DE MOLLET'
+    State: State_2
+    country: SPAIN
+  Town_973:
+    zip: '17463'
+    town: 'SANT LLORENÃ‡ DE LES ARENES'
+    State: State_2
+    country: SPAIN
+  Town_974:
+    zip: '17463'
+    town: 'VEINAT DE FARRERES'
+    State: State_2
+    country: SPAIN
+  Town_975:
+    zip: '17464'
+    town: 'CERVIA DE TER'
+    State: State_2
+    country: SPAIN
+  Town_976:
+    zip: '17464'
+    town: FELLINES
+    State: State_2
+    country: SPAIN
+  Town_977:
+    zip: '17464'
+    town: 'MAS NICOLAU'
+    State: State_2
+    country: SPAIN
+  Town_978:
+    zip: '17464'
+    town: 'MATA, LA (AJUNTAMENT VILADESENS)'
+    State: State_2
+    country: SPAIN
+  Town_979:
+    zip: '17464'
+    town: 'MORA, LA (AYTO VILADESENS)'
+    State: State_2
+    country: SPAIN
+  Town_980:
+    zip: '17464'
+    town: RASET
+    State: State_2
+    country: SPAIN
+  Town_981:
+    zip: '17464'
+    town: 'SANT JORDI'
+    State: State_2
+    country: SPAIN
+  Town_982:
+    zip: '17464'
+    town: 'SANT JORDI DESVALLS'
+    State: State_2
+    country: SPAIN
+  Town_983:
+    zip: '17464'
+    town: SOBRANIGUES
+    State: State_2
+    country: SPAIN
+  Town_984:
+    zip: '17464'
+    town: 'VEINAT DE DIANA'
+    State: State_2
+    country: SPAIN
+  Town_985:
+    zip: '17464'
+    town: 'VEINAT DE MAS MASO'
+    State: State_2
+    country: SPAIN
+  Town_986:
+    zip: '17464'
+    town: 'VEINAT NOU (AYTO S JORDI DESV)'
+    State: State_2
+    country: SPAIN
+  Town_987:
+    zip: '17464'
+    town: VILADASENS
+    State: State_2
+    country: SPAIN
+  Town_988:
+    zip: '17465'
+    town: CAMALLERA
+    State: State_2
+    country: SPAIN
+  Town_989:
+    zip: '17465'
+    town: LLAMPAIES
+    State: State_2
+    country: SPAIN
+  Town_990:
+    zip: '17466'
+    town: GARRIGOLES
+    State: State_2
+    country: SPAIN
+  Town_991:
+    zip: '17466'
+    town: GAUSES
+    State: State_2
+    country: SPAIN
+  Town_992:
+    zip: '17466'
+    town: 'OLIVES, LES'
+    State: State_2
+    country: SPAIN
+  Town_993:
+    zip: '17466'
+    town: PINS
+    State: State_2
+    country: SPAIN
+  Town_994:
+    zip: '17466'
+    town: VALLDAVIA
+    State: State_2
+    country: SPAIN
+  Town_995:
+    zip: '17466'
+    town: VILOPRIU
+    State: State_2
+    country: SPAIN
+  Town_996:
+    zip: '17467'
+    town: 'SANT MORI'
+    State: State_2
+    country: SPAIN
+  Town_997:
+    zip: '17467'
+    town: SAUS
+    State: State_2
+    country: SPAIN
+  Town_998:
+    zip: '17468'
+    town: GALLINERS
+    State: State_2
+    country: SPAIN
+  Town_999:
+    zip: '17468'
+    town: 'OLIVES (AYTO VILADEMULS)'
+    State: State_2
+    country: SPAIN
+  Town_1000:
+    zip: '17468'
+    town: ORFES
+    State: State_2
+    country: SPAIN
+  Town_1001:
+    zip: '17468'
+    town: ORRIOLS
+    State: State_2
+    country: SPAIN
+  Town_1002:
+    zip: '17468'
+    town: 'PARETS D''EMPORDA'
+    State: State_2
+    country: SPAIN
+  Town_1003:
+    zip: '17468'
+    town: 'SANT ESTEVE DE GUIALBES'
+    State: State_2
+    country: SPAIN
+  Town_1004:
+    zip: '17468'
+    town: 'SANT MARÃ‡AL DE QUARANTELLA'
+    State: State_2
+    country: SPAIN
+  Town_1005:
+    zip: '17468'
+    town: TERRADELLES
+    State: State_2
+    country: SPAIN
+  Town_1006:
+    zip: '17468'
+    town: VILADEMULS
+    State: State_2
+    country: SPAIN
+  Town_1007:
+    zip: '17468'
+    town: VILAFRESER
+    State: State_2
+    country: SPAIN
+  Town_1008:
+    zip: '17468'
+    town: VILAMARI
+    State: State_2
+    country: SPAIN
+  Town_1009:
+    zip: '17469'
+    town: 'FAR D''EMPORDA, EL'
+    State: State_2
+    country: SPAIN
+  Town_1010:
+    zip: '17469'
+    town: FORTIA
+    State: State_2
+    country: SPAIN
+  Town_1011:
+    zip: '17469'
+    town: 'PONT DEL PRINCEP'
+    State: State_2
+    country: SPAIN
+  Town_1012:
+    zip: '17469'
+    town: RIUMORS
+    State: State_2
+    country: SPAIN
+  Town_1013:
+    zip: '17469'
+    town: SIURANA
+    State: State_2
+    country: SPAIN
+  Town_1014:
+    zip: '17469'
+    town: 'VEINAT DE L''OLIVA'
+    State: State_2
+    country: SPAIN
+  Town_1015:
+    zip: '17469'
+    town: VILAMALLA
+    State: State_2
+    country: SPAIN
+  Town_1016:
+    zip: '17470'
+    town: 'MASOS, ELS'
+    State: State_2
+    country: SPAIN
+  Town_1017:
+    zip: '17470'
+    town: 'SANT PERE PESCADOR'
+    State: State_2
+    country: SPAIN
+  Town_1018:
+    zip: '17472'
+    town: 'ARMENTERA, L'''
+    State: State_2
+    country: SPAIN
+  Town_1019:
+    zip: '17472'
+    town: MONTIRO
+    State: State_2
+    country: SPAIN
+  Town_1020:
+    zip: '17473'
+    town: SALDET
+    State: State_2
+    country: SPAIN
+  Town_1021:
+    zip: '17473'
+    town: VALVERALLA
+    State: State_2
+    country: SPAIN
+  Town_1022:
+    zip: '17473'
+    town: VENTALLO
+    State: State_2
+    country: SPAIN
+  Town_1023:
+    zip: '17474'
+    town: 'BOMBA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1024:
+    zip: '17474'
+    town: 'SANT TOMAS DE FLUVIA'
+    State: State_2
+    country: SPAIN
+  Town_1025:
+    zip: '17474'
+    town: 'TORROELLA DE FLUVIA'
+    State: State_2
+    country: SPAIN
+  Town_1026:
+    zip: '17474'
+    town: VILACOLUM
+    State: State_2
+    country: SPAIN
+  Town_1027:
+    zip: '17474'
+    town: VILAMACOLUM
+    State: State_2
+    country: SPAIN
+  Town_1028:
+    zip: '17475'
+    town: 'SANT MIQUEL DE FLUVIA'
+    State: State_2
+    country: SPAIN
+  Town_1029:
+    zip: '17475'
+    town: VILA-ROBAU
+    State: State_2
+    country: SPAIN
+  Town_1030:
+    zip: '17476'
+    town: 'ARENYS D''EMPORDA'
+    State: State_2
+    country: SPAIN
+  Town_1031:
+    zip: '17476'
+    town: 'ERMEDAS (AYTO GARRIGAS)'
+    State: State_2
+    country: SPAIN
+  Town_1032:
+    zip: '17476'
+    town: GARRIGAS
+    State: State_2
+    country: SPAIN
+  Town_1033:
+    zip: '17476'
+    town: 'PALAU DE SANTA EULALIA'
+    State: State_2
+    country: SPAIN
+  Town_1034:
+    zip: '17476'
+    town: 'SANTA EULALIA'
+    State: State_2
+    country: SPAIN
+  Town_1035:
+    zip: '17476'
+    town: TONYA
+    State: State_2
+    country: SPAIN
+  Town_1036:
+    zip: '17480'
+    town: 'CANYELLES ALMADRABA (AJUNTAMENT ROSES)'
+    State: State_2
+    country: SPAIN
+  Town_1037:
+    zip: '17480'
+    town: 'GARRIGA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1038:
+    zip: '17480'
+    town: 'GRECS, ELS'
+    State: State_2
+    country: SPAIN
+  Town_1039:
+    zip: '17480'
+    town: 'MAS FUMATS, EL'
+    State: State_2
+    country: SPAIN
+  Town_1040:
+    zip: '17480'
+    town: 'MAS OLIVA, EL'
+    State: State_2
+    country: SPAIN
+  Town_1041:
+    zip: '17480'
+    town: MONTJOI
+    State: State_2
+    country: SPAIN
+  Town_1042:
+    zip: '17480'
+    town: ROSES
+    State: State_2
+    country: SPAIN
+  Town_1043:
+    zip: '17481'
+    town: 'MONTAGUT (AJUNTAMENT SAN JULIA RAM)'
+    State: State_2
+    country: SPAIN
+  Town_1044:
+    zip: '17481'
+    town: 'SANT JULIA DE RAMIS'
+    State: State_2
+    country: SPAIN
+  Town_1045:
+    zip: '17481'
+    town: 'SANTA FE'
+    State: State_2
+    country: SPAIN
+  Town_1046:
+    zip: '17482'
+    town: MEDINYA
+    State: State_2
+    country: SPAIN
+  Town_1047:
+    zip: '17482'
+    town: 'TOMET, EL'
+    State: State_2
+    country: SPAIN
+  Town_1048:
+    zip: '17483'
+    town: 'BARRI DE CAMALLERA'
+    State: State_2
+    country: SPAIN
+  Town_1049:
+    zip: '17483'
+    town: BASCARA
+    State: State_2
+    country: SPAIN
+  Town_1050:
+    zip: '17483'
+    town: CALABUIG
+    State: State_2
+    country: SPAIN
+  Town_1051:
+    zip: '17483'
+    town: VILAUR
+    State: State_2
+    country: SPAIN
+  Town_1052:
+    zip: '17484'
+    town: VILATENIM
+    State: State_2
+    country: SPAIN
+  Town_1053:
+    zip: '17485'
+    town: VILA-SACRA
+    State: State_2
+    country: SPAIN
+  Town_1054:
+    zip: '17486'
+    town: 'CASTELLO D''EMPURIES'
+    State: State_2
+    country: SPAIN
+  Town_1055:
+    zip: '17487'
+    town: EMPURIABRAVA
+    State: State_2
+    country: SPAIN
+  Town_1056:
+    zip: '17488'
+    town: CADAQUES
+    State: State_2
+    country: SPAIN
+  Town_1057:
+    zip: '17488'
+    town: 'CAP DE CREUS'
+    State: State_2
+    country: SPAIN
+  Town_1058:
+    zip: '17488'
+    town: PORTLLIGAT
+    State: State_2
+    country: SPAIN
+  Town_1059:
+    zip: '17489'
+    town: EROLA
+    State: State_2
+    country: SPAIN
+  Town_1060:
+    zip: '17489'
+    town: 'MORA, LA (AYTO PORT SELVA)'
+    State: State_2
+    country: SPAIN
+  Town_1061:
+    zip: '17489'
+    town: PANORAMAR
+    State: State_2
+    country: SPAIN
+  Town_1062:
+    zip: '17489'
+    town: 'PORT DE LA SELVA, EL'
+    State: State_2
+    country: SPAIN
+  Town_1063:
+    zip: '17489'
+    town: 'PORT DE LA VALL'
+    State: State_2
+    country: SPAIN
+  Town_1064:
+    zip: '17489'
+    town: 'SELVA DE MAR, LA'
+    State: State_2
+    country: SPAIN
+  Town_1065:
+    zip: '17489'
+    town: 'VALL DE SANTA CREU, LA'
+    State: State_2
+    country: SPAIN
+  Town_1066:
+    zip: '17490'
+    town: FANE
+    State: State_2
+    country: SPAIN
+  Town_1067:
+    zip: '17490'
+    town: 'FARELLA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1068:
+    zip: '17490'
+    town: GARBET
+    State: State_2
+    country: SPAIN
+  Town_1069:
+    zip: '17490'
+    town: GRIFEU
+    State: State_2
+    country: SPAIN
+  Town_1070:
+    zip: '17490'
+    town: LLANÃ‡A
+    State: State_2
+    country: SPAIN
+  Town_1071:
+    zip: '17490'
+    town: 'PORT, EL'
+    State: State_2
+    country: SPAIN
+  Town_1072:
+    zip: '17490'
+    town: 'SETCASES (AYTO LLANSA)'
+    State: State_2
+    country: SPAIN
+  Town_1073:
+    zip: '17490'
+    town: 'VALLETA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1074:
+    zip: '17491'
+    town: PERALADA
+    State: State_2
+    country: SPAIN
+  Town_1075:
+    zip: '17492'
+    town: 'VILANOVA DE LA MUGA'
+    State: State_2
+    country: SPAIN
+  Town_1076:
+    zip: '17493'
+    town: MARZA
+    State: State_2
+    country: SPAIN
+  Town_1077:
+    zip: '17493'
+    town: 'MONT PERDUT'
+    State: State_2
+    country: SPAIN
+  Town_1078:
+    zip: '17493'
+    town: 'PEDRET I MARZA'
+    State: State_2
+    country: SPAIN
+  Town_1079:
+    zip: '17493'
+    town: PUJOLAR
+    State: State_2
+    country: SPAIN
+  Town_1080:
+    zip: '17493'
+    town: SATLLE
+    State: State_2
+    country: SPAIN
+  Town_1081:
+    zip: '17493'
+    town: VILAJUIGA
+    State: State_2
+    country: SPAIN
+  Town_1082:
+    zip: '17494'
+    town: PAU
+    State: State_2
+    country: SPAIN
+  Town_1083:
+    zip: '17494'
+    town: VILAUT
+    State: State_2
+    country: SPAIN
+  Town_1084:
+    zip: '17495'
+    town: PALAU-SAVERDERA
+    State: State_2
+    country: SPAIN
+  Town_1085:
+    zip: '17496'
+    town: COLERA
+    State: State_2
+    country: SPAIN
+  Town_1086:
+    zip: '17496'
+    town: 'ROVELLADA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1087:
+    zip: '17497'
+    town: PORTBOU
+    State: State_2
+    country: SPAIN
+  Town_1088:
+    zip: '17497'
+    town: 'RIERA, LA (AYTO PORTBOU)'
+    State: State_2
+    country: SPAIN
+  Town_1089:
+    zip: '17500'
+    town: 'COLONIA ROCAFIGUERA'
+    State: State_2
+    country: SPAIN
+  Town_1090:
+    zip: '17500'
+    town: ORDINA
+    State: State_2
+    country: SPAIN
+  Town_1091:
+    zip: '17500'
+    town: RAMA
+    State: State_2
+    country: SPAIN
+  Town_1092:
+    zip: '17500'
+    town: RIPOLL
+    State: State_2
+    country: SPAIN
+  Town_1093:
+    zip: '17500'
+    town: 'SANT BARTOMEU (AYTO RIPOLL)'
+    State: State_2
+    country: SPAIN
+  Town_1094:
+    zip: '17500'
+    town: 'SANT ROC (AYTO RIPOLL)'
+    State: State_2
+    country: SPAIN
+  Town_1095:
+    zip: '17510'
+    town: BRUCS
+    State: State_2
+    country: SPAIN
+  Town_1096:
+    zip: '17510'
+    town: LLAES
+    State: State_2
+    country: SPAIN
+  Town_1097:
+    zip: '17512'
+    town: 'LLOSSES, LES (town)'
+    State: State_2
+    country: SPAIN
+  Town_1098:
+    zip: '17512'
+    town: 'SANT ESTEVE DE VALLESPIRANS'
+    State: State_2
+    country: SPAIN
+  Town_1099:
+    zip: '17512'
+    town: 'SANTA MARIA DE MATAMALA'
+    State: State_2
+    country: SPAIN
+  Town_1100:
+    zip: '17513'
+    town: 'SANT MARTI DE VINYOLES'
+    State: State_2
+    country: SPAIN
+  Town_1101:
+    zip: '17513'
+    town: 'SANT SADURNI DE SOVELLES'
+    State: State_2
+    country: SPAIN
+  Town_1102:
+    zip: '17513'
+    town: VILADONJA
+    State: State_2
+    country: SPAIN
+  Town_1103:
+    zip: '17514'
+    town: PALMEROLA
+    State: State_2
+    country: SPAIN
+  Town_1104:
+    zip: '17515'
+    town: CIURET
+    State: State_2
+    country: SPAIN
+  Town_1105:
+    zip: '17515'
+    town: 'CREU DE L''ARÃ‡, LA'
+    State: State_2
+    country: SPAIN
+  Town_1106:
+    zip: '17515'
+    town: 'LLOSSES, LES'
+    State: State_2
+    country: SPAIN
+  Town_1107:
+    zip: '17515'
+    town: VIDRA
+    State: State_2
+    country: SPAIN
+  Town_1108:
+    zip: '17520'
+    town: 'BARRI LA GIMGUETA'
+    State: State_2
+    country: SPAIN
+  Town_1109:
+    zip: '17520'
+    town: 'GUINGUETA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1110:
+    zip: '17520'
+    town: PUIGCERDA
+    State: State_2
+    country: SPAIN
+  Town_1111:
+    zip: '17520'
+    town: RIGOLISA
+    State: State_2
+    country: SPAIN
+  Town_1112:
+    zip: '17520'
+    town: 'SANT MARTI (AYTO PUIGCERDA)'
+    State: State_2
+    country: SPAIN
+  Town_1113:
+    zip: '17520'
+    town: VENTAJOLA
+    State: State_2
+    country: SPAIN
+  Town_1114:
+    zip: '17527'
+    town: CEREJA
+    State: State_2
+    country: SPAIN
+  Town_1115:
+    zip: '17527'
+    town: GORGUJA
+    State: State_2
+    country: SPAIN
+  Town_1116:
+    zip: '17527'
+    town: LLIVIA
+    State: State_2
+    country: SPAIN
+  Town_1117:
+    zip: '17528'
+    town: 'GUILS DE CERDANYA'
+    State: State_2
+    country: SPAIN
+  Town_1118:
+    zip: '17528'
+    town: SANEJA
+    State: State_2
+    country: SPAIN
+  Town_1119:
+    zip: '17528'
+    town: 'SANT MARTI D''ARAVO'
+    State: State_2
+    country: SPAIN
+  Town_1120:
+    zip: '17528'
+    town: 'SANT MARTI DE CERDANYA'
+    State: State_2
+    country: SPAIN
+  Town_1121:
+    zip: '17529'
+    town: AGE
+    State: State_2
+    country: SPAIN
+  Town_1122:
+    zip: '17529'
+    town: VILALLOBENT
+    State: State_2
+    country: SPAIN
+  Town_1123:
+    zip: '17530'
+    town: CAMPDEVANOL
+    State: State_2
+    country: SPAIN
+  Town_1124:
+    zip: '17530'
+    town: 'COLONIA PERNAU, LA'
+    State: State_2
+    country: SPAIN
+  Town_1125:
+    zip: '17530'
+    town: 'CREU, LA'
+    State: State_2
+    country: SPAIN
+  Town_1126:
+    zip: '17530'
+    town: 'HERAND, L'''
+    State: State_2
+    country: SPAIN
+  Town_1127:
+    zip: '17530'
+    town: MOLINOU
+    State: State_2
+    country: SPAIN
+  Town_1128:
+    zip: '17530'
+    town: 'SANT CRISTOFOL (AJUNTAMENT CAMPDEVANOL)'
+    State: State_2
+    country: SPAIN
+  Town_1129:
+    zip: '17530'
+    town: 'SANT PERE D''AUIRA'
+    State: State_2
+    country: SPAIN
+  Town_1130:
+    zip: '17530'
+    town: 'SANT QUINTI DE PUIG-RODON'
+    State: State_2
+    country: SPAIN
+  Town_1131:
+    zip: '17530'
+    town: VISTALEGRE
+    State: State_2
+    country: SPAIN
+  Town_1132:
+    zip: '17531'
+    town: ARANYONET
+    State: State_2
+    country: SPAIN
+  Town_1133:
+    zip: '17531'
+    town: 'CORTAL, EL'
+    State: State_2
+    country: SPAIN
+  Town_1134:
+    zip: '17531'
+    town: GOMBREN
+    State: State_2
+    country: SPAIN
+  Town_1135:
+    zip: '17531'
+    town: MONTGRONY
+    State: State_2
+    country: SPAIN
+  Town_1136:
+    zip: '17531'
+    town: 'SANT LLORENÃ‡'
+    State: State_2
+    country: SPAIN
+  Town_1137:
+    zip: '17532'
+    town: 'FARGA DE BEBIE, LA'
+    State: State_2
+    country: SPAIN
+  Town_1138:
+    zip: '17533'
+    town: 'BRUGUERA (AYTO RIBES FRESE)'
+    State: State_2
+    country: SPAIN
+  Town_1139:
+    zip: '17534'
+    town: ARMANCIES
+    State: State_2
+    country: SPAIN
+  Town_1140:
+    zip: '17534'
+    town: 'BAELL, EL'
+    State: State_2
+    country: SPAIN
+  Town_1141:
+    zip: '17534'
+    town: 'BATET (AYTO RIBES FRESER)'
+    State: State_2
+    country: SPAIN
+  Town_1142:
+    zip: '17534'
+    town: CAMPELLES
+    State: State_2
+    country: SPAIN
+  Town_1143:
+    zip: '17534'
+    town: 'LLAVANERA (AYTO PARDINES)'
+    State: State_2
+    country: SPAIN
+  Town_1144:
+    zip: '17534'
+    town: NURIA
+    State: State_2
+    country: SPAIN
+  Town_1145:
+    zip: '17534'
+    town: 'ORRI, L'''
+    State: State_2
+    country: SPAIN
+  Town_1146:
+    zip: '17534'
+    town: PARDINES
+    State: State_2
+    country: SPAIN
+  Town_1147:
+    zip: '17534'
+    town: PUIGSAC
+    State: State_2
+    country: SPAIN
+  Town_1148:
+    zip: '17534'
+    town: PUJALT
+    State: State_2
+    country: SPAIN
+  Town_1149:
+    zip: '17534'
+    town: QUERALBS
+    State: State_2
+    country: SPAIN
+  Town_1150:
+    zip: '17534'
+    town: RIALB
+    State: State_2
+    country: SPAIN
+  Town_1151:
+    zip: '17534'
+    town: 'RIBES DE FRESER'
+    State: State_2
+    country: SPAIN
+  Town_1152:
+    zip: '17534'
+    town: RIBESALTES
+    State: State_2
+    country: SPAIN
+  Town_1153:
+    zip: '17534'
+    town: SERRAT
+    State: State_2
+    country: SPAIN
+  Town_1154:
+    zip: '17534'
+    town: 'SOLA VENTOLA'
+    State: State_2
+    country: SPAIN
+  Town_1155:
+    zip: '17534'
+    town: VENTOLA
+    State: State_2
+    country: SPAIN
+  Town_1156:
+    zip: '17534'
+    town: VILAMANYA
+    State: State_2
+    country: SPAIN
+  Town_1157:
+    zip: '17534'
+    town: VILARO
+    State: State_2
+    country: SPAIN
+  Town_1158:
+    zip: '17535'
+    town: ASPRE
+    State: State_2
+    country: SPAIN
+  Town_1159:
+    zip: '17535'
+    town: 'CASETES, LES'
+    State: State_2
+    country: SPAIN
+  Town_1160:
+    zip: '17535'
+    town: 'CROELLS I SERRAT'
+    State: State_2
+    country: SPAIN
+  Town_1161:
+    zip: '17535'
+    town: FOSSES
+    State: State_2
+    country: SPAIN
+  Town_1162:
+    zip: '17535'
+    town: 'MOLI, EL (AYTO PLANOLES)'
+    State: State_2
+    country: SPAIN
+  Town_1163:
+    zip: '17535'
+    town: PLANES
+    State: State_2
+    country: SPAIN
+  Town_1164:
+    zip: '17535'
+    town: PLANOLES
+    State: State_2
+    country: SPAIN
+  Town_1165:
+    zip: '17536'
+    town: DORRIA
+    State: State_2
+    country: SPAIN
+  Town_1166:
+    zip: '17536'
+    town: ESPINOSA
+    State: State_2
+    country: SPAIN
+  Town_1167:
+    zip: '17536'
+    town: 'FORNELLS DE LA MUNTANYA'
+    State: State_2
+    country: SPAIN
+  Town_1168:
+    zip: '17536'
+    town: NEVA
+    State: State_2
+    country: SPAIN
+  Town_1169:
+    zip: '17536'
+    town: TOSES
+    State: State_2
+    country: SPAIN
+  Town_1170:
+    zip: '17537'
+    town: 'MOLINA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1171:
+    zip: '17538'
+    town: ALP
+    State: State_2
+    country: SPAIN
+  Town_1172:
+    zip: '17538'
+    town: DAS
+    State: State_2
+    country: SPAIN
+  Town_1173:
+    zip: '17538'
+    town: ESCADARCS
+    State: State_2
+    country: SPAIN
+  Town_1174:
+    zip: '17538'
+    town: ESTOLL
+    State: State_2
+    country: SPAIN
+  Town_1175:
+    zip: '17538'
+    town: 'FONTANALS DE CERDANYA'
+    State: State_2
+    country: SPAIN
+  Town_1176:
+    zip: '17538'
+    town: MASELLA
+    State: State_2
+    country: SPAIN
+  Town_1177:
+    zip: '17538'
+    town: MOSOLL
+    State: State_2
+    country: SPAIN
+  Town_1178:
+    zip: '17538'
+    town: QUEIXANS
+    State: State_2
+    country: SPAIN
+  Town_1179:
+    zip: '17538'
+    town: SANAVASTRE
+    State: State_2
+    country: SPAIN
+  Town_1180:
+    zip: '17538'
+    town: SORIGUEROLA
+    State: State_2
+    country: SPAIN
+  Town_1181:
+    zip: '17538'
+    town: TARTERA
+    State: State_2
+    country: SPAIN
+  Town_1182:
+    zip: '17538'
+    town: URTX
+    State: State_2
+    country: SPAIN
+  Town_1183:
+    zip: '17538'
+    town: URUS
+    State: State_2
+    country: SPAIN
+  Town_1184:
+    zip: '17538'
+    town: 'VILAR D''URTX, EL'
+    State: State_2
+    country: SPAIN
+  Town_1185:
+    zip: '17539'
+    town: ALL
+    State: State_2
+    country: SPAIN
+  Town_1186:
+    zip: '17539'
+    town: BOLVIR
+    State: State_2
+    country: SPAIN
+  Town_1187:
+    zip: '17539'
+    town: 'DEVESA DE SAGA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1188:
+    zip: '17539'
+    town: GER
+    State: State_2
+    country: SPAIN
+  Town_1189:
+    zip: '17539'
+    town: GIRUL
+    State: State_2
+    country: SPAIN
+  Town_1190:
+    zip: '17539'
+    town: GREIXA
+    State: State_2
+    country: SPAIN
+  Town_1191:
+    zip: '17539'
+    town: ISOVOL
+    State: State_2
+    country: SPAIN
+  Town_1192:
+    zip: '17539'
+    town: MERANGES
+    State: State_2
+    country: SPAIN
+  Town_1193:
+    zip: '17539'
+    town: 'MOLI DE GER, EL'
+    State: State_2
+    country: SPAIN
+  Town_1194:
+    zip: '17539'
+    town: 'MOLI, EL (AJUNTAMENT MERANGES)'
+    State: State_2
+    country: SPAIN
+  Town_1195:
+    zip: '17539'
+    town: OLOPTE
+    State: State_2
+    country: SPAIN
+  Town_1196:
+    zip: '17539'
+    town: 'RAVAL (AJUNTAMENT MERANGES)'
+    State: State_2
+    country: SPAIN
+  Town_1197:
+    zip: '17539'
+    town: 'RAVAL DEL CASTELL'
+    State: State_2
+    country: SPAIN
+  Town_1198:
+    zip: '17539'
+    town: TALLTORTA
+    State: State_2
+    country: SPAIN
+  Town_1199:
+    zip: '17583'
+    town: VINYOT
+    State: State_2
+    country: SPAIN
+  Town_1200:
+    zip: '17600'
+    town: FIGUERES
+    State: State_2
+    country: SPAIN
+  Town_1201:
+    zip: '17700'
+    town: 'JONQUERA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1202:
+    zip: '17706'
+    town: 'PONT DE MOLINS'
+    State: State_2
+    country: SPAIN
+  Town_1203:
+    zip: '17706'
+    town: 'RICARDELL (AYTO PONTMOLINS)'
+    State: State_2
+    country: SPAIN
+  Town_1204:
+    zip: '17707'
+    town: AGULLANA
+    State: State_2
+    country: SPAIN
+  Town_1205:
+    zip: '17707'
+    town: 'ESTRADA, L'''
+    State: State_2
+    country: SPAIN
+  Town_1206:
+    zip: '17707'
+    town: 'VAJOL, LA'
+    State: State_2
+    country: SPAIN
+  Town_1207:
+    zip: '17708'
+    town: CANTALLOPS
+    State: State_2
+    country: SPAIN
+  Town_1208:
+    zip: '17708'
+    town: REQUESENS
+    State: State_2
+    country: SPAIN
+  Town_1209:
+    zip: '17709'
+    town: CANADAL
+    State: State_2
+    country: SPAIN
+  Town_1210:
+    zip: '17709'
+    town: 'LIMITS, ELS'
+    State: State_2
+    country: SPAIN
+  Town_1211:
+    zip: '17709'
+    town: 'SANTA JULIA DE TORS'
+    State: State_2
+    country: SPAIN
+  Town_1212:
+    zip: '17710'
+    town: 'CENTRO MILITAR SANT CLIMENT SESCEBES'
+    State: State_2
+    country: SPAIN
+  Town_1213:
+    zip: '17720'
+    town: 'MAÃ‡ANET DE CABRENYS'
+    State: State_2
+    country: SPAIN
+  Town_1214:
+    zip: '17720'
+    town: 'MINES, LES'
+    State: State_2
+    country: SPAIN
+  Town_1215:
+    zip: '17720'
+    town: OLIVEDA
+    State: State_2
+    country: SPAIN
+  Town_1216:
+    zip: '17720'
+    town: 'RAVAL LES CREUS'
+    State: State_2
+    country: SPAIN
+  Town_1217:
+    zip: '17720'
+    town: 'SALINES, LES'
+    State: State_2
+    country: SPAIN
+  Town_1218:
+    zip: '17721'
+    town: TAPIS
+    State: State_2
+    country: SPAIN
+  Town_1219:
+    zip: '17721'
+    town: 'VILARS, ELS (AJUNTAMENT MASANET)'
+    State: State_2
+    country: SPAIN
+  Town_1220:
+    zip: '17722'
+    town: 'ARNERA (MAÃ‡ANET)'
+    State: State_2
+    country: SPAIN
+  Town_1221:
+    zip: '17722'
+    town: 'BARRI DE L''ARNERA (DARNIUS)'
+    State: State_2
+    country: SPAIN
+  Town_1222:
+    zip: '17722'
+    town: 'BARRI DE RICARDELL'
+    State: State_2
+    country: SPAIN
+  Town_1223:
+    zip: '17722'
+    town: 'BARRI DEL PANTA, EL'
+    State: State_2
+    country: SPAIN
+  Town_1224:
+    zip: '17722'
+    town: DARNIUS
+    State: State_2
+    country: SPAIN
+  Town_1225:
+    zip: '17722'
+    town: 'VEINAT D''AMUNT, EL'
+    State: State_2
+    country: SPAIN
+  Town_1226:
+    zip: '17722'
+    town: 'VEINAT MONTROIG (AYTO DARNIUS)'
+    State: State_2
+    country: SPAIN
+  Town_1227:
+    zip: '17723'
+    town: BIURE
+    State: State_2
+    country: SPAIN
+  Town_1228:
+    zip: '17723'
+    town: 'BOADELLA D''EMPORDA'
+    State: State_2
+    country: SPAIN
+  Town_1229:
+    zip: '17723'
+    town: 'ESCAULES, LES'
+    State: State_2
+    country: SPAIN
+  Town_1230:
+    zip: '17730'
+    town: 'HOSTALETS, ELS'
+    State: State_2
+    country: SPAIN
+  Town_1231:
+    zip: '17730'
+    town: LLERS
+    State: State_2
+    country: SPAIN
+  Town_1232:
+    zip: '17730'
+    town: 'POBLE NOU DE LLERS'
+    State: State_2
+    country: SPAIN
+  Town_1233:
+    zip: '17730'
+    town: 'VALL, LA (AYTO LLERS)'
+    State: State_2
+    country: SPAIN
+  Town_1234:
+    zip: '17731'
+    town: 'PALAU SURROCA'
+    State: State_2
+    country: SPAIN
+  Town_1235:
+    zip: '17731'
+    town: TERRADES
+    State: State_2
+    country: SPAIN
+  Town_1236:
+    zip: '17732'
+    town: 'GUARDIA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1237:
+    zip: '17732'
+    town: 'RIBERADA D''AMUNT'
+    State: State_2
+    country: SPAIN
+  Town_1238:
+    zip: '17732'
+    town: 'SANT LLORENÃ‡ DE LA MUGA'
+    State: State_2
+    country: SPAIN
+  Town_1239:
+    zip: '17733'
+    town: ALBANYA
+    State: State_2
+    country: SPAIN
+  Town_1240:
+    zip: '17733'
+    town: 'MOLI DE BAIX'
+    State: State_2
+    country: SPAIN
+  Town_1241:
+    zip: '17733'
+    town: 'MOLI DE DALT'
+    State: State_2
+    country: SPAIN
+  Town_1242:
+    zip: '17734'
+    town: CURSUVELL
+    State: State_2
+    country: SPAIN
+  Town_1243:
+    zip: '17734'
+    town: LLORONA
+    State: State_2
+    country: SPAIN
+  Town_1244:
+    zip: '17740'
+    town: 'ARENGADA, L'''
+    State: State_2
+    country: SPAIN
+  Town_1245:
+    zip: '17740'
+    town: 'PALOL SABALDORIA'
+    State: State_2
+    country: SPAIN
+  Town_1246:
+    zip: '17740'
+    town: VILAFANT
+    State: State_2
+    country: SPAIN
+  Town_1247:
+    zip: '17741'
+    town: CISTELLA
+    State: State_2
+    country: SPAIN
+  Town_1248:
+    zip: '17741'
+    town: 'NOSTRA SENYORA DE LA VIDA'
+    State: State_2
+    country: SPAIN
+  Town_1249:
+    zip: '17741'
+    town: 'RIBERA DE LES PLANES, LA'
+    State: State_2
+    country: SPAIN
+  Town_1250:
+    zip: '17741'
+    town: TARAVAUS
+    State: State_2
+    country: SPAIN
+  Town_1251:
+    zip: '17741'
+    town: VILARIG
+    State: State_2
+    country: SPAIN
+  Town_1252:
+    zip: '17742'
+    town: 'AVINYONET DE PUIGVENTOS'
+    State: State_2
+    country: SPAIN
+  Town_1253:
+    zip: '17742'
+    town: 'TRESCASES, LES'
+    State: State_2
+    country: SPAIN
+  Town_1254:
+    zip: '17742'
+    town: 'VEINAT DE SANTA EUGENIA'
+    State: State_2
+    country: SPAIN
+  Town_1255:
+    zip: '17743'
+    town: VILANANT
+    State: State_2
+    country: SPAIN
+  Town_1256:
+    zip: '17744'
+    town: CANELLES
+    State: State_2
+    country: SPAIN
+  Town_1257:
+    zip: '17744'
+    town: NAVATA
+    State: State_2
+    country: SPAIN
+  Town_1258:
+    zip: '17745'
+    town: 'ESTELA, L'''
+    State: State_2
+    country: SPAIN
+  Town_1259:
+    zip: '17745'
+    town: LLADO
+    State: State_2
+    country: SPAIN
+  Town_1260:
+    zip: '17745'
+    town: 'LLAVANERA (AYTO LLADO)'
+    State: State_2
+    country: SPAIN
+  Town_1261:
+    zip: '17745'
+    town: 'MANOL, EL'
+    State: State_2
+    country: SPAIN
+  Town_1262:
+    zip: '17745'
+    town: 'PUJOL, EL (LLADO)'
+    State: State_2
+    country: SPAIN
+  Town_1263:
+    zip: '17746'
+    town: CABANELLES
+    State: State_2
+    country: SPAIN
+  Town_1264:
+    zip: '17746'
+    town: QUEIXAS
+    State: State_2
+    country: SPAIN
+  Town_1265:
+    zip: '17746'
+    town: 'SANT MARTI SESSERRES'
+    State: State_2
+    country: SPAIN
+  Town_1266:
+    zip: '17746'
+    town: VILADEMIRES
+    State: State_2
+    country: SPAIN
+  Town_1267:
+    zip: '17747'
+    town: ESPINAVESSA
+    State: State_2
+    country: SPAIN
+  Town_1268:
+    zip: '17750'
+    town: CAPMANY
+    State: State_2
+    country: SPAIN
+  Town_1269:
+    zip: '17750'
+    town: 'VALL, LA (AYTO CAPMANY)'
+    State: State_2
+    country: SPAIN
+  Town_1270:
+    zip: '17751'
+    town: 'SANT CLIMENT SESCEBES'
+    State: State_2
+    country: SPAIN
+  Town_1271:
+    zip: '17751'
+    town: VILARTOLI
+    State: State_2
+    country: SPAIN
+  Town_1272:
+    zip: '17752'
+    town: 'COSTES, LES (AJUNTAMENT MOLLET DE PERALADA)'
+    State: State_2
+    country: SPAIN
+  Town_1273:
+    zip: '17752'
+    town: 'MOLLET DE PERALADA'
+    State: State_2
+    country: SPAIN
+  Town_1274:
+    zip: '17753'
+    town: ESPOLLA
+    State: State_2
+    country: SPAIN
+  Town_1275:
+    zip: '17754'
+    town: 'RAVOS D''EMPORDA'
+    State: State_2
+    country: SPAIN
+  Town_1276:
+    zip: '17755'
+    town: DELFIA
+    State: State_2
+    country: SPAIN
+  Town_1277:
+    zip: '17760'
+    town: VILABERTRAN
+    State: State_2
+    country: SPAIN
+  Town_1278:
+    zip: '17761'
+    town: AIGUETA
+    State: State_2
+    country: SPAIN
+  Town_1279:
+    zip: '17761'
+    town: CABANES
+    State: State_2
+    country: SPAIN
+  Town_1280:
+    zip: '17761'
+    town: 'FORN D''EN GELTI, EL'
+    State: State_2
+    country: SPAIN
+  Town_1281:
+    zip: '17761'
+    town: 'MASIES DE DALT, LES'
+    State: State_2
+    country: SPAIN
+  Town_1282:
+    zip: '17762'
+    town: VILARNADAL
+    State: State_2
+    country: SPAIN
+  Town_1283:
+    zip: '17763'
+    town: MASARAC
+    State: State_2
+    country: SPAIN
+  Town_1284:
+    zip: '17763'
+    town: 'PRIORAT, EL'
+    State: State_2
+    country: SPAIN
+  Town_1285:
+    zip: '17770'
+    town: BORRASSA
+    State: State_2
+    country: SPAIN
+  Town_1286:
+    zip: '17770'
+    town: GREIXER
+    State: State_2
+    country: SPAIN
+  Town_1287:
+    zip: '17770'
+    town: VILAMORELL
+    State: State_2
+    country: SPAIN
+  Town_1288:
+    zip: '17771'
+    town: 'SANTA LLOGAIA D''ALGUEMA'
+    State: State_2
+    country: SPAIN
+  Town_1289:
+    zip: '17772'
+    town: ORDIS
+    State: State_2
+    country: SPAIN
+  Town_1290:
+    zip: '17772'
+    town: 'VEINAT DE POLS'
+    State: State_2
+    country: SPAIN
+  Town_1291:
+    zip: '17773'
+    town: PONTOS
+    State: State_2
+    country: SPAIN
+  Town_1292:
+    zip: '17773'
+    town: 'ROMANYA D''EMPORDA'
+    State: State_2
+    country: SPAIN
+  Town_1293:
+    zip: '17773'
+    town: VILAJOAN
+    State: State_2
+    country: SPAIN
+  Town_1294:
+    zip: '17780'
+    town: GARRIGUELLA
+    State: State_2
+    country: SPAIN
+  Town_1295:
+    zip: '17781'
+    town: VILAMANISCLE
+    State: State_2
+    country: SPAIN
+  Town_1296:
+    zip: '17800'
+    town: OLOT
+    State: State_2
+    country: SPAIN
+  Town_1297:
+    zip: '17810'
+    town: 'SANT CRISTOFOL LES FONTS'
+    State: State_2
+    country: SPAIN
+  Town_1298:
+    zip: '17811'
+    town: 'ARCS, ELS'
+    State: State_2
+    country: SPAIN
+  Town_1299:
+    zip: '17811'
+    town: 'CAN BLANC'
+    State: State_2
+    country: SPAIN
+  Town_1300:
+    zip: '17811'
+    town: 'CAN FONT'
+    State: State_2
+    country: SPAIN
+  Town_1301:
+    zip: '17811'
+    town: 'CAN XEL'
+    State: State_2
+    country: SPAIN
+  Town_1302:
+    zip: '17811'
+    town: 'FAGES, LES'
+    State: State_2
+    country: SPAIN
+  Town_1303:
+    zip: '17811'
+    town: PUJOLARS
+    State: State_2
+    country: SPAIN
+  Town_1304:
+    zip: '17811'
+    town: SACOT
+    State: State_2
+    country: SPAIN
+  Town_1305:
+    zip: '17811'
+    town: 'SALLENT, EL'
+    State: State_2
+    country: SPAIN
+  Town_1306:
+    zip: '17811'
+    town: 'SANT MARTI D''ARMANCIES'
+    State: State_2
+    country: SPAIN
+  Town_1307:
+    zip: '17811'
+    town: 'SANT MIQUEL DE SACOT'
+    State: State_2
+    country: SPAIN
+  Town_1308:
+    zip: '17811'
+    town: 'SANTA LLUCIA DE TRENTERES'
+    State: State_2
+    country: SPAIN
+  Town_1309:
+    zip: '17811'
+    town: 'SANTA PAU'
+    State: State_2
+    country: SPAIN
+  Town_1310:
+    zip: '17812'
+    town: 'BATET DE LA SERRA'
+    State: State_2
+    country: SPAIN
+  Town_1311:
+    zip: '17813'
+    town: 'SANT MARTI DEL CLOT'
+    State: State_2
+    country: SPAIN
+  Town_1312:
+    zip: '17813'
+    town: 'SANT PERE DESPUIG'
+    State: State_2
+    country: SPAIN
+  Town_1313:
+    zip: '17813'
+    town: 'SANT SALVADOR DE BIANYA'
+    State: State_2
+    country: SPAIN
+  Town_1314:
+    zip: '17813'
+    town: 'SANTA MARGARIDA DE BIANYA'
+    State: State_2
+    country: SPAIN
+  Town_1315:
+    zip: '17813'
+    town: 'VALL DE BIANYA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1316:
+    zip: '17814'
+    town: 'SOLEI, EL'
+    State: State_2
+    country: SPAIN
+  Town_1317:
+    zip: '17820'
+    town: BANYOLES
+    State: State_2
+    country: SPAIN
+  Town_1318:
+    zip: '17820'
+    town: LIO
+    State: State_2
+    country: SPAIN
+  Town_1319:
+    zip: '17820'
+    town: PUIGPALTER
+    State: State_2
+    country: SPAIN
+  Town_1320:
+    zip: '17830'
+    town: BRUGAROLES
+    State: State_2
+    country: SPAIN
+  Town_1321:
+    zip: '17830'
+    town: 'COLLELL, EL'
+    State: State_2
+    country: SPAIN
+  Town_1322:
+    zip: '17830'
+    town: MIERES
+    State: State_2
+    country: SPAIN
+  Town_1323:
+    zip: '17830'
+    town: RUÂ¤TLLES
+    State: State_2
+    country: SPAIN
+  Town_1324:
+    zip: '17830'
+    town: 'SAMUNTA DE BAIX, EL'
+    State: State_2
+    country: SPAIN
+  Town_1325:
+    zip: '17830'
+    town: 'SAMUNTA DE DALT, EL'
+    State: State_2
+    country: SPAIN
+  Town_1326:
+    zip: '17830'
+    town: 'TORN, EL'
+    State: State_2
+    country: SPAIN
+  Town_1327:
+    zip: '17830'
+    town: VENTAJOL
+    State: State_2
+    country: SPAIN
+  Town_1328:
+    zip: '17831'
+    town: BRIOLF
+    State: State_2
+    country: SPAIN
+  Town_1329:
+    zip: '17831'
+    town: FALGONS
+    State: State_2
+    country: SPAIN
+  Town_1330:
+    zip: '17831'
+    town: 'SANT MARTI DE CAMPMAJOR'
+    State: State_2
+    country: SPAIN
+  Town_1331:
+    zip: '17831'
+    town: 'SANT MIQUEL DE CAMPMAJOR'
+    State: State_2
+    country: SPAIN
+  Town_1332:
+    zip: '17832'
+    town: 'ANGLADES, LES'
+    State: State_2
+    country: SPAIN
+  Town_1333:
+    zip: '17832'
+    town: BATLLORI
+    State: State_2
+    country: SPAIN
+  Town_1334:
+    zip: '17832'
+    town: BORRELL
+    State: State_2
+    country: SPAIN
+  Town_1335:
+    zip: '17832'
+    town: BRUNSO
+    State: State_2
+    country: SPAIN
+  Town_1336:
+    zip: '17832'
+    town: 'CASELLES, LES'
+    State: State_2
+    country: SPAIN
+  Town_1337:
+    zip: '17832'
+    town: CRESPIA
+    State: State_2
+    country: SPAIN
+  Town_1338:
+    zip: '17832'
+    town: ESPONELLA
+    State: State_2
+    country: SPAIN
+  Town_1339:
+    zip: '17832'
+    town: 'LLAVANERA (AYTO CRESPIA)'
+    State: State_2
+    country: SPAIN
+  Town_1340:
+    zip: '17832'
+    town: MARTIS
+    State: State_2
+    country: SPAIN
+  Town_1341:
+    zip: '17832'
+    town: POMPIA
+    State: State_2
+    country: SPAIN
+  Town_1342:
+    zip: '17832'
+    town: PORTELL
+    State: State_2
+    country: SPAIN
+  Town_1343:
+    zip: '17832'
+    town: SANTENYS
+    State: State_2
+    country: SPAIN
+  Town_1344:
+    zip: '17832'
+    town: VILERT
+    State: State_2
+    country: SPAIN
+  Town_1345:
+    zip: '17833'
+    town: 'FARRES, LA'
+    State: State_2
+    country: SPAIN
+  Town_1346:
+    zip: '17833'
+    town: FIGUEROLES
+    State: State_2
+    country: SPAIN
+  Town_1347:
+    zip: '17833'
+    town: FONTCOBERTA
+    State: State_2
+    country: SPAIN
+  Town_1348:
+    zip: '17833'
+    town: MELIANTA
+    State: State_2
+    country: SPAIN
+  Town_1349:
+    zip: '17833'
+    town: OLLERS
+    State: State_2
+    country: SPAIN
+  Town_1350:
+    zip: '17833'
+    town: 'VEINAT D''EN DERI'
+    State: State_2
+    country: SPAIN
+  Town_1351:
+    zip: '17833'
+    town: 'VEINAT D''EN FARAS'
+    State: State_2
+    country: SPAIN
+  Town_1352:
+    zip: '17833'
+    town: VILADEMI
+    State: State_2
+    country: SPAIN
+  Town_1353:
+    zip: '17833'
+    town: VILAVENUT
+    State: State_2
+    country: SPAIN
+  Town_1354:
+    zip: '17834'
+    town: CAMOS
+    State: State_2
+    country: SPAIN
+  Town_1355:
+    zip: '17834'
+    town: 'MAS USALL, EL'
+    State: State_2
+    country: SPAIN
+  Town_1356:
+    zip: '17834'
+    town: MIANEGUES
+    State: State_2
+    country: SPAIN
+  Town_1357:
+    zip: '17834'
+    town: PORQUERES
+    State: State_2
+    country: SPAIN
+  Town_1358:
+    zip: '17834'
+    town: PUJARNOL
+    State: State_2
+    country: SPAIN
+  Town_1359:
+    zip: '17834'
+    town: 'SANT VICENÃ‡ DE CAMOS'
+    State: State_2
+    country: SPAIN
+  Town_1360:
+    zip: '17834'
+    town: 'SANTA MARIA DE CAMOS'
+    State: State_2
+    country: SPAIN
+  Town_1361:
+    zip: '17834'
+    town: 'USALL (AYTO PORQUERES)'
+    State: State_2
+    country: SPAIN
+  Town_1362:
+    zip: '17840'
+    town: 'SARRIA DE DALT'
+    State: State_2
+    country: SPAIN
+  Town_1363:
+    zip: '17840'
+    town: 'SARRIA DE TER'
+    State: State_2
+    country: SPAIN
+  Town_1364:
+    zip: '17843'
+    town: 'MOTA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1365:
+    zip: '17843'
+    town: 'PALOL DE REVARDIT'
+    State: State_2
+    country: SPAIN
+  Town_1366:
+    zip: '17843'
+    town: 'RIUDELLOTS DE LA CREU'
+    State: State_2
+    country: SPAIN
+  Town_1367:
+    zip: '17844'
+    town: BORGONYA
+    State: State_2
+    country: SPAIN
+  Town_1368:
+    zip: '17844'
+    town: 'CORNELLA DEL TERRI'
+    State: State_2
+    country: SPAIN
+  Town_1369:
+    zip: '17844'
+    town: CORTS
+    State: State_2
+    country: SPAIN
+  Town_1370:
+    zip: '17844'
+    town: PUIGENMA
+    State: State_2
+    country: SPAIN
+  Town_1371:
+    zip: '17844'
+    town: 'PUJALS DELS CAVALLERS'
+    State: State_2
+    country: SPAIN
+  Town_1372:
+    zip: '17844'
+    town: 'PUJALS DELS PAGESOS'
+    State: State_2
+    country: SPAIN
+  Town_1373:
+    zip: '17844'
+    town: SORDS
+    State: State_2
+    country: SPAIN
+  Town_1374:
+    zip: '17845'
+    town: 'RAVOS DEL TERRI'
+    State: State_2
+    country: SPAIN
+  Town_1375:
+    zip: '17845'
+    town: 'SANT ANDREU DEL TERRI'
+    State: State_2
+    country: SPAIN
+  Town_1376:
+    zip: '17845'
+    town: 'SANTA LLOGAIA DEL TERRI'
+    State: State_2
+    country: SPAIN
+  Town_1377:
+    zip: '17846'
+    town: MATA
+    State: State_2
+    country: SPAIN
+  Town_1378:
+    zip: '17850'
+    town: AUSSINYA
+    State: State_2
+    country: SPAIN
+  Town_1379:
+    zip: '17850'
+    town: BESALU
+    State: State_2
+    country: SPAIN
+  Town_1380:
+    zip: '17850'
+    town: BEUDA
+    State: State_2
+    country: SPAIN
+  Town_1381:
+    zip: '17850'
+    town: FARES
+    State: State_2
+    country: SPAIN
+  Town_1382:
+    zip: '17850'
+    town: JUÂ¤NYA
+    State: State_2
+    country: SPAIN
+  Town_1383:
+    zip: '17850'
+    town: LLIGORDA
+    State: State_2
+    country: SPAIN
+  Town_1384:
+    zip: '17850'
+    town: 'MIANA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1385:
+    zip: '17850'
+    town: PALERA
+    State: State_2
+    country: SPAIN
+  Town_1386:
+    zip: '17850'
+    town: 'SANT FERRIOL'
+    State: State_2
+    country: SPAIN
+  Town_1387:
+    zip: '17851'
+    town: BRUGUERS
+    State: State_2
+    country: SPAIN
+  Town_1388:
+    zip: '17851'
+    town: 'CARRERES, LES'
+    State: State_2
+    country: SPAIN
+  Town_1389:
+    zip: '17851'
+    town: DOSQUERS
+    State: State_2
+    country: SPAIN
+  Town_1390:
+    zip: '17851'
+    town: JONQUERES
+    State: State_2
+    country: SPAIN
+  Town_1391:
+    zip: '17851'
+    town: LLORENS
+    State: State_2
+    country: SPAIN
+  Town_1392:
+    zip: '17851'
+    town: 'MAIA DE MONTCAL'
+    State: State_2
+    country: SPAIN
+  Town_1393:
+    zip: '17851'
+    town: 'PLA DE BAIX, EL'
+    State: State_2
+    country: SPAIN
+  Town_1394:
+    zip: '17851'
+    town: 'PLA DE DALT, EL'
+    State: State_2
+    country: SPAIN
+  Town_1395:
+    zip: '17851'
+    town: 'RIERA, LA (AYTO MAIA MONCAL)'
+    State: State_2
+    country: SPAIN
+  Town_1396:
+    zip: '17851'
+    town: SEGUERO
+    State: State_2
+    country: SPAIN
+  Town_1397:
+    zip: '17851'
+    town: 'USALL (AYTO MAIA)'
+    State: State_2
+    country: SPAIN
+  Town_1398:
+    zip: '17851'
+    town: VILARRODONA
+    State: State_2
+    country: SPAIN
+  Town_1399:
+    zip: '17852'
+    town: BAIO
+    State: State_2
+    country: SPAIN
+  Town_1400:
+    zip: '17852'
+    town: 'BUSCAROS (AYTO SERINYA)'
+    State: State_2
+    country: SPAIN
+  Town_1401:
+    zip: '17852'
+    town: CASALS
+    State: State_2
+    country: SPAIN
+  Town_1402:
+    zip: '17852'
+    town: 'SELLERA DE MONT, LA'
+    State: State_2
+    country: SPAIN
+  Town_1403:
+    zip: '17852'
+    town: SERINYA
+    State: State_2
+    country: SPAIN
+  Town_1404:
+    zip: '17853'
+    town: ARGELAGUER
+    State: State_2
+    country: SPAIN
+  Town_1405:
+    zip: '17853'
+    town: 'GUILAR, EL'
+    State: State_2
+    country: SPAIN
+  Town_1406:
+    zip: '17853'
+    town: 'HOSTAL NOU DE LLIERCA, L'''
+    State: State_2
+    country: SPAIN
+  Town_1407:
+    zip: '17853'
+    town: 'SALES DE LLIERCA'
+    State: State_2
+    country: SPAIN
+  Town_1408:
+    zip: '17853'
+    town: 'SANT ANTONI (TORTELLA)'
+    State: State_2
+    country: SPAIN
+  Town_1409:
+    zip: '17853'
+    town: 'SANT MIQUEL DE MONTEIA'
+    State: State_2
+    country: SPAIN
+  Town_1410:
+    zip: '17853'
+    town: 'SANT SEBASTIA'
+    State: State_2
+    country: SPAIN
+  Town_1411:
+    zip: '17853'
+    town: 'SANTA MAGDALENA'
+    State: State_2
+    country: SPAIN
+  Town_1412:
+    zip: '17853'
+    town: TAPIOLES
+    State: State_2
+    country: SPAIN
+  Town_1413:
+    zip: '17853'
+    town: TORTELLA
+    State: State_2
+    country: SPAIN
+  Town_1414:
+    zip: '17854'
+    town: 'CAN COMA'
+    State: State_2
+    country: SPAIN
+  Town_1415:
+    zip: '17854'
+    town: 'HOSTALNOU, L'''
+    State: State_2
+    country: SPAIN
+  Town_1416:
+    zip: '17854'
+    town: 'SANT JAUME DE LLIERCA'
+    State: State_2
+    country: SPAIN
+  Town_1417:
+    zip: '17855'
+    town: MONTAGUT
+    State: State_2
+    country: SPAIN
+  Town_1418:
+    zip: '17855'
+    town: SADERNES
+    State: State_2
+    country: SPAIN
+  Town_1419:
+    zip: '17855'
+    town: 'VEINAT D''ANGLES'
+    State: State_2
+    country: SPAIN
+  Town_1420:
+    zip: '17855'
+    town: 'VEINAT DE CARRERA'
+    State: State_2
+    country: SPAIN
+  Town_1421:
+    zip: '17855'
+    town: 'VEINAT DE COS'
+    State: State_2
+    country: SPAIN
+  Town_1422:
+    zip: '17855'
+    town: 'VEINAT DE FLUVIA'
+    State: State_2
+    country: SPAIN
+  Town_1423:
+    zip: '17855'
+    town: 'VEINAT DE LLIERCA'
+    State: State_2
+    country: SPAIN
+  Town_1424:
+    zip: '17855'
+    town: 'VEINAT DE SANT EUDALD'
+    State: State_2
+    country: SPAIN
+  Town_1425:
+    zip: '17855'
+    town: 'VEINAT DE TORRALLES'
+    State: State_2
+    country: SPAIN
+  Town_1426:
+    zip: '17855'
+    town: 'VEINAT DE VILARS'
+    State: State_2
+    country: SPAIN
+  Town_1427:
+    zip: '17856'
+    town: 'CASTELLFOLLIT DE LA ROCA'
+    State: State_2
+    country: SPAIN
+  Town_1428:
+    zip: '17856'
+    town: MONARS
+    State: State_2
+    country: SPAIN
+  Town_1429:
+    zip: '17856'
+    town: OIX
+    State: State_2
+    country: SPAIN
+  Town_1430:
+    zip: '17856'
+    town: 'SANT MIQUEL DE PERA'
+    State: State_2
+    country: SPAIN
+  Town_1431:
+    zip: '17856'
+    town: 'SANTA BARBARA DE PRUNERES'
+    State: State_2
+    country: SPAIN
+  Town_1432:
+    zip: '17856'
+    town: TALAIXA
+    State: State_2
+    country: SPAIN
+  Town_1433:
+    zip: '17857'
+    town: AIGUANEGRA
+    State: State_2
+    country: SPAIN
+  Town_1434:
+    zip: '17857'
+    town: BEGUDA
+    State: State_2
+    country: SPAIN
+  Town_1435:
+    zip: '17857'
+    town: 'CANYA, LA (AJUNTAMENT DE SANT JOAN LES FONTS)'
+    State: State_2
+    country: SPAIN
+  Town_1436:
+    zip: '17857'
+    town: 'COSTA CAU I VIVES'
+    State: State_2
+    country: SPAIN
+  Town_1437:
+    zip: '17857'
+    town: 'PLA DE BAIX'
+    State: State_2
+    country: SPAIN
+  Town_1438:
+    zip: '17857'
+    town: 'PLA DE DALT'
+    State: State_2
+    country: SPAIN
+  Town_1439:
+    zip: '17857'
+    town: 'PLA MAGRE'
+    State: State_2
+    country: SPAIN
+  Town_1440:
+    zip: '17857'
+    town: RECO
+    State: State_2
+    country: SPAIN
+  Town_1441:
+    zip: '17857'
+    town: RUSINYOL
+    State: State_2
+    country: SPAIN
+  Town_1442:
+    zip: '17857'
+    town: 'SANT ABDON'
+    State: State_2
+    country: SPAIN
+  Town_1443:
+    zip: '17857'
+    town: 'SANT COSME'
+    State: State_2
+    country: SPAIN
+  Town_1444:
+    zip: '17857'
+    town: 'SANT JOAN LES FONTS'
+    State: State_2
+    country: SPAIN
+  Town_1445:
+    zip: '17858'
+    town: 'CANYA, LA (AYTO VALL BIANYA)'
+    State: State_2
+    country: SPAIN
+  Town_1446:
+    zip: '17858'
+    town: CAPSEC
+    State: State_2
+    country: SPAIN
+  Town_1447:
+    zip: '17858'
+    town: 'CASTELLAR DE LA MONTANYA'
+    State: State_2
+    country: SPAIN
+  Town_1448:
+    zip: '17858'
+    town: LLOCALOU
+    State: State_2
+    country: SPAIN
+  Town_1449:
+    zip: '17858'
+    town: 'SANT ANDREU DE SOCARRATS'
+    State: State_2
+    country: SPAIN
+  Town_1450:
+    zip: '17858'
+    town: 'VALL DEL BAC'
+    State: State_2
+    country: SPAIN
+  Town_1451:
+    zip: '17860'
+    town: 'BAGA AMUNT'
+    State: State_2
+    country: SPAIN
+  Town_1452:
+    zip: '17860'
+    town: 'BAGA AVALL'
+    State: State_2
+    country: SPAIN
+  Town_1453:
+    zip: '17860'
+    town: 'COLONIA JORDANA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1454:
+    zip: '17860'
+    town: 'COLONIA LLAUDET, LA'
+    State: State_2
+    country: SPAIN
+  Town_1455:
+    zip: '17860'
+    town: COMAFREDA
+    State: State_2
+    country: SPAIN
+  Town_1456:
+    zip: '17860'
+    town: 'SANT JOAN DE LES ABADESSES'
+    State: State_2
+    country: SPAIN
+  Town_1457:
+    zip: '17860'
+    town: 'SOLEI AMUNT'
+    State: State_2
+    country: SPAIN
+  Town_1458:
+    zip: '17860'
+    town: 'SOLEI AVALL'
+    State: State_2
+    country: SPAIN
+  Town_1459:
+    zip: '17861'
+    town: OGASSA
+    State: State_2
+    country: SPAIN
+  Town_1460:
+    zip: '17861'
+    town: 'SANT JULIA DE SALTOR'
+    State: State_2
+    country: SPAIN
+  Town_1461:
+    zip: '17861'
+    town: 'SANT MARTI DE SURROCA'
+    State: State_2
+    country: SPAIN
+  Town_1462:
+    zip: '17861'
+    town: 'SANT MARTI D''OGASSA'
+    State: State_2
+    country: SPAIN
+  Town_1463:
+    zip: '17862'
+    town: 'BAGA AMUNT, LA (O DE DALT)'
+    State: State_2
+    country: SPAIN
+  Town_1464:
+    zip: '17862'
+    town: 'BAGA AVALL, LA (O DE BAIX)'
+    State: State_2
+    country: SPAIN
+  Town_1465:
+    zip: '17862'
+    town: 'DOMES, LES'
+    State: State_2
+    country: SPAIN
+  Town_1466:
+    zip: '17862'
+    town: PUIGSEC
+    State: State_2
+    country: SPAIN
+  Town_1467:
+    zip: '17862'
+    town: 'SOLANA AMUNT'
+    State: State_2
+    country: SPAIN
+  Town_1468:
+    zip: '17862'
+    town: 'SOLANA AVALL'
+    State: State_2
+    country: SPAIN
+  Town_1469:
+    zip: '17862'
+    town: 'TAVERNA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1470:
+    zip: '17862'
+    town: 'VALLFOGONA DE RIPOLLES'
+    State: State_2
+    country: SPAIN
+  Town_1471:
+    zip: '17863'
+    town: 'SANT BERNABE DE LES TENES'
+    State: State_2
+    country: SPAIN
+  Town_1472:
+    zip: '17864'
+    town: 'SANT PAU DE SEGURIES'
+    State: State_2
+    country: SPAIN
+  Town_1473:
+    zip: '17865'
+    town: 'RAL, LA'
+    State: State_2
+    country: SPAIN
+  Town_1474:
+    zip: '17866'
+    town: 'COLONIA ESTEVENELL, LA'
+    State: State_2
+    country: SPAIN
+  Town_1475:
+    zip: '17867'
+    town: BEGET
+    State: State_2
+    country: SPAIN
+  Town_1476:
+    zip: '17867'
+    town: BESTRACA
+    State: State_2
+    country: SPAIN
+  Town_1477:
+    zip: '17867'
+    town: BOLOS
+    State: State_2
+    country: SPAIN
+  Town_1478:
+    zip: '17867'
+    town: CAMPRODON
+    State: State_2
+    country: SPAIN
+  Town_1479:
+    zip: '17867'
+    town: CAVALLERA
+    State: State_2
+    country: SPAIN
+  Town_1480:
+    zip: '17867'
+    town: CREIXENTURRI
+    State: State_2
+    country: SPAIN
+  Town_1481:
+    zip: '17867'
+    town: 'FREIXENET DE DALT'
+    State: State_2
+    country: SPAIN
+  Town_1482:
+    zip: '17867'
+    town: LLIERCA
+    State: State_2
+    country: SPAIN
+  Town_1483:
+    zip: '17867'
+    town: ROCABRUNA
+    State: State_2
+    country: SPAIN
+  Town_1484:
+    zip: '17867'
+    town: SALARSA
+    State: State_2
+    country: SPAIN
+  Town_1485:
+    zip: '17868'
+    town: 'CAN SOLA'
+    State: State_2
+    country: SPAIN
+  Town_1486:
+    zip: '17868'
+    town: ESPINAVELL
+    State: State_2
+    country: SPAIN
+  Town_1487:
+    zip: '17868'
+    town: FABERT
+    State: State_2
+    country: SPAIN
+  Town_1488:
+    zip: '17868'
+    town: FAVARS
+    State: State_2
+    country: SPAIN
+  Town_1489:
+    zip: '17868'
+    town: 'GINESTOSA, LA'
+    State: State_2
+    country: SPAIN
+  Town_1490:
+    zip: '17868'
+    town: GRAELLS
+    State: State_2
+    country: SPAIN
+  Town_1491:
+    zip: '17868'
+    town: MOIXONS
+    State: State_2
+    country: SPAIN
+  Town_1492:
+    zip: '17868'
+    town: MOLLO
+    State: State_2
+    country: SPAIN
+  Town_1493:
+    zip: '17868'
+    town: RIBERAL
+    State: State_2
+    country: SPAIN
+  Town_1494:
+    zip: '17869'
+    town: ABELLA
+    State: State_2
+    country: SPAIN
+  Town_1495:
+    zip: '17869'
+    town: CATLLAR
+    State: State_2
+    country: SPAIN
+  Town_1496:
+    zip: '17869'
+    town: 'CROS, EL'
+    State: State_2
+    country: SPAIN
+  Town_1497:
+    zip: '17869'
+    town: ESPINALBA
+    State: State_2
+    country: SPAIN
+  Town_1498:
+    zip: '17869'
+    town: 'FEITUS DE DALT'
+    State: State_2
+    country: SPAIN
+  Town_1499:
+    zip: '17869'
+    town: 'LLANARES, EL'
+    State: State_2
+    country: SPAIN
+  Town_1500:
+    zip: '17869'
+    town: LLANARS
+    State: State_2
+    country: SPAIN
+  Town_1501:
+    zip: '17869'
+    town: LLEBRO
+    State: State_2
+    country: SPAIN
+  Town_1502:
+    zip: '17869'
+    town: 'RIBERAL DE FAITUS, EL'
+    State: State_2
+    country: SPAIN
+  Town_1503:
+    zip: '17869'
+    town: 'ROCA, LA (AYTO VILALLONGA)'
+    State: State_2
+    country: SPAIN
+  Town_1504:
+    zip: '17869'
+    town: 'SETCASES (town)'
+    State: State_2
+    country: SPAIN
+  Town_1505:
+    zip: '17869'
+    town: 'TREGURA DE BAIX'
+    State: State_2
+    country: SPAIN
+  Town_1506:
+    zip: '17869'
+    town: 'TREGURA DE DALT'
+    State: State_2
+    country: SPAIN
+  Town_1507:
+    zip: '17869'
+    town: 'VEINAT DE COMALETS'
+    State: State_2
+    country: SPAIN
+  Town_1508:
+    zip: '17869'
+    town: 'VEINAT DE VALLVIGIL'
+    State: State_2
+    country: SPAIN
+  Town_1509:
+    zip: '17869'
+    town: 'VILALLONGA DE TER'
+    State: State_2
+    country: SPAIN
+State:
+  State_1:
+    state: BARCELONA
+  State_2:
+    state: GIRONA
