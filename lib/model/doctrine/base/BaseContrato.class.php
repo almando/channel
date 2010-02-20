@@ -30,7 +30,6 @@ Doctrine_Manager::getInstance()->bindComponent('Contrato', 'doctrine');
  * @property timestamp $datacorte
  * @property timestamp $dataligacao
  * @property string $numerocc
- * @property Cliente $Cliente
  * 
  * @method string    getNumerocontrato()      Returns the current record's "numerocontrato" value
  * @method string    getCodigocliente()       Returns the current record's "codigocliente" value
@@ -55,7 +54,6 @@ Doctrine_Manager::getInstance()->bindComponent('Contrato', 'doctrine');
  * @method timestamp getDatacorte()           Returns the current record's "datacorte" value
  * @method timestamp getDataligacao()         Returns the current record's "dataligacao" value
  * @method string    getNumerocc()            Returns the current record's "numerocc" value
- * @method Cliente   getCliente()             Returns the current record's "Cliente" value
  * @method Contrato  setNumerocontrato()      Sets the current record's "numerocontrato" value
  * @method Contrato  setCodigocliente()       Sets the current record's "codigocliente" value
  * @method Contrato  setDatacontrato()        Sets the current record's "datacontrato" value
@@ -79,7 +77,6 @@ Doctrine_Manager::getInstance()->bindComponent('Contrato', 'doctrine');
  * @method Contrato  setDatacorte()           Sets the current record's "datacorte" value
  * @method Contrato  setDataligacao()         Sets the current record's "dataligacao" value
  * @method Contrato  setNumerocc()            Sets the current record's "numerocc" value
- * @method Contrato  setCliente()             Sets the current record's "Cliente" value
  * 
  * @package    test_laiguAdminTheme
  * @subpackage model
@@ -95,8 +92,7 @@ abstract class BaseContrato extends sfDoctrineRecord
              'type' => 'string',
              'fixed' => 0,
              'unsigned' => false,
-             'primary' => false,
-             'notnull' => true,
+             'primary' => true,
              'autoincrement' => true,
              'length' => '15',
              ));
@@ -306,8 +302,6 @@ abstract class BaseContrato extends sfDoctrineRecord
     public function setUp()
     {
         parent::setUp();
-        $this->hasOne('Cliente', array(
-             'local' => 'codigocliente',
-             'foreign' => 'codigo'));
+        
     }
 }

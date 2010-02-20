@@ -13,7 +13,8 @@ generator:
 
     config:
       actions: ~
-      fields:  ~
+      fields:
+        label: [Pessoafisica: "Pessoa Fisica"]
       list:
         display: [Codigo, Nome, Cgc, Telefone]
       filter:  ~

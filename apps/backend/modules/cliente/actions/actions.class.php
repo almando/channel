@@ -13,6 +13,4 @@ require_once dirname(__FILE__).'/../lib/clienteGeneratorHelper.class.php';
  */
 class clienteActions extends autoClienteActions
 {
-
-
 }

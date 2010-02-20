@@ -15,9 +15,8 @@ abstract class BaseContratoForm extends BaseFormDoctrine
   public function setup()
   {
     $this->setWidgets(array(
-      'id'                  => new sfWidgetFormInputHidden(),
-      'numerocontrato'      => new sfWidgetFormInputText(),
-      'codigocliente'       => new sfWidgetFormDoctrineChoice(array('model' => $this->getRelatedModelName('Cliente'), 'add_empty' => false)),
+      'numerocontrato'      => new sfWidgetFormInputHidden(),
+      'codigocliente'       => new sfWidgetFormInputText(),
       'datacontrato'        => new sfWidgetFormDateTime(),
       'tipocontrato'        => new sfWidgetFormInputText(),
       'categoria'           => new sfWidgetFormInputText(),
@@ -42,9 +41,8 @@ abstract class BaseContratoForm extends BaseFormDoctrine
     ));
 
     $this->setValidators(array(
-      'id'                  => new sfValidatorDoctrineChoice(array('model' => $this->getModelName(), 'column' => 'id', 'required' => false)),
-      'numerocontrato'      => new sfValidatorString(array('max_length' => 15)),
-      'codigocliente'       => new sfValidatorDoctrineChoice(array('model' => $this->getRelatedModelName('Cliente'))),
+      'numerocontrato'      => new sfValidatorDoctrineChoice(array('model' => $this->getModelName(), 'column' => 'numerocontrato', 'required' => false)),
+      'codigocliente'       => new sfValidatorString(array('max_length' => 15)),
       'datacontrato'        => new sfValidatorDateTime(array('required' => false)),
       'tipocontrato'        => new sfValidatorString(array('max_length' => 60)),
       'categoria'           => new sfValidatorString(array('max_length' => 60)),

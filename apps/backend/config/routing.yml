@@ -1,10 +1,28 @@
+contaspagar:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Contaspagar
+    module:               contaspagar
+    prefix_path:          /contaspagar
+    column:               registro
+    with_wildcard_routes: true
+
+contasreceber:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                contasreceber
+    module:               contasreceber
+    prefix_path:          /contasreceber
+    column:               numerodocumento
+    with_wildcard_routes: true
+
 contrato:
   class: sfDoctrineRouteCollection
   options:
     model:                contrato
     module:               contrato
     prefix_path:          /contrato
-    column:               id
+    column:               numerocontrato
     with_wildcard_routes: true
 
 cliente:
@@ -49,7 +67,7 @@ town:
 # default rules
 homepage:
   url:   /
-  param: { module: state, action: index }
+  param: { module: cliente, action: index }
 
 # generic rules
 # please, remove them by adding more specific rules

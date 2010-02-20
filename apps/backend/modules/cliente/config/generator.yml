@@ -13,15 +13,8 @@ generator:
 
     config:
       actions: ~
-      fields:
-        Transversalinicial: {label: "Transversal Inicial"}
-        Transversalfinal: {label: "Transversal Final"}
-        Datanascimento: {label: "Data Nascimento"}
-        Rg: {label: "Número do RG"}
-        Pessoafisica: {label: "Pessoa Fisica"}
-      list:
-        display:   [Codigo, =Nome, Telefone, Transversalinicial, Transversalfinal]
-        sort:      [Nome]
+      fields:  ~
+      list:    ~
       filter:  ~
       form:    ~
       edit:    ~

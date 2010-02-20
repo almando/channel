@@ -17,5 +17,9 @@ generator:
       list:    ~
       filter:  ~
       form:    ~
-      edit:    ~
+      edit:
+        detail:
+          contrato:
+            module: contrato
+            params: { numerocontrato: getNumerocontrato }
       new:     ~

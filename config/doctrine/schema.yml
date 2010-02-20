@@ -431,12 +431,6 @@ Cliente:
       primary: false
       notnull: true
       autoincrement: false
-  relations:
-    Contrato:
-      type: many
-      class: Contrato
-      local: codigo
-      foreign: codigocliente
 Contacorrente:
   connection: doctrine
   tableName: contacorrente
@@ -775,6 +769,11 @@ Contasreceber:
       primary: false
       notnull: true
       autoincrement: false
+#  relations:
+#    Contrato:
+#      class: Contrato
+#      local: numerocontrato
+#      foreign: numerocontrato
 Contrato:
   connection: doctrine
   tableName: contrato
@@ -783,7 +782,7 @@ Contrato:
       type: string(15)
       fixed: false
       unsigned: false
-      primary: false
+      primary: true
       notnull: true
       autoincrement: true
     codigocliente:
@@ -940,11 +939,11 @@ Contrato:
       primary: false
       notnull: true
       autoincrement: false
-  relations:
-    Cliente:
-      local: codigocliente
-      foreign: codigo
-      type: one
+#  relations:
+#    Cliente:
+#      class: Cliente
+#      local: codigocliente
+#      foreign: codigo
 Custo:
   connection: doctrine
   tableName: custo
