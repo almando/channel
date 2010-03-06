@@ -12,8 +12,8 @@ Doctrine_Manager::getInstance()->bindComponent('Contacorrente', 'doctrine');
  * @property string $tipomovbanco
  * @property string $numero
  * @property string $nomefavorecido
- * @property timestamp $dataemissao
- * @property timestamp $predatado
+ * @property Date $dataemissao
+ * @property Date $predatado
  * @property string $historico
  * @property integer $conferido
  * @property string $usuario
@@ -24,8 +24,8 @@ Doctrine_Manager::getInstance()->bindComponent('Contacorrente', 'doctrine');
  * @method string        getTipomovbanco()   Returns the current record's "tipomovbanco" value
  * @method string        getNumero()         Returns the current record's "numero" value
  * @method string        getNomefavorecido() Returns the current record's "nomefavorecido" value
- * @method timestamp     getDataemissao()    Returns the current record's "dataemissao" value
- * @method timestamp     getPredatado()      Returns the current record's "predatado" value
+ * @method Date          getDataemissao()    Returns the current record's "dataemissao" value
+ * @method Date          getPredatado()      Returns the current record's "predatado" value
  * @method string        getHistorico()      Returns the current record's "historico" value
  * @method integer       getConferido()      Returns the current record's "conferido" value
  * @method string        getUsuario()        Returns the current record's "usuario" value
@@ -96,23 +96,21 @@ abstract class BaseContacorrente extends sfDoctrineRecord
              'autoincrement' => false,
              'length' => '120',
              ));
-        $this->hasColumn('dataemissao', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('dataemissao', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => true,
              'autoincrement' => false,
-             'length' => '25',
              ));
-        $this->hasColumn('predatado', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('predatado', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
         $this->hasColumn('historico', 'string', 240, array(
              'type' => 'string',

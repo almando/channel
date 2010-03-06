@@ -10,43 +10,43 @@ Doctrine_Manager::getInstance()->bindComponent('Os', 'doctrine');
  * @property integer $id
  * @property string $numeroos
  * @property string $numerocontrato
- * @property timestamp $dataos
+ * @property Date $dataos
  * @property string $horaos
  * @property string $observacao
  * @property integer $canalalto
  * @property integer $canalbaixo
  * @property string $tecnico
- * @property timestamp $conclusaodata
+ * @property Date $conclusaodata
  * @property string $conclusaohora
  * @property decimal $valoros
  * @property string $tiporecebimento
  * 
- * @method integer   getId()              Returns the current record's "id" value
- * @method string    getNumeroos()        Returns the current record's "numeroos" value
- * @method string    getNumerocontrato()  Returns the current record's "numerocontrato" value
- * @method timestamp getDataos()          Returns the current record's "dataos" value
- * @method string    getHoraos()          Returns the current record's "horaos" value
- * @method string    getObservacao()      Returns the current record's "observacao" value
- * @method integer   getCanalalto()       Returns the current record's "canalalto" value
- * @method integer   getCanalbaixo()      Returns the current record's "canalbaixo" value
- * @method string    getTecnico()         Returns the current record's "tecnico" value
- * @method timestamp getConclusaodata()   Returns the current record's "conclusaodata" value
- * @method string    getConclusaohora()   Returns the current record's "conclusaohora" value
- * @method decimal   getValoros()         Returns the current record's "valoros" value
- * @method string    getTiporecebimento() Returns the current record's "tiporecebimento" value
- * @method Os        setId()              Sets the current record's "id" value
- * @method Os        setNumeroos()        Sets the current record's "numeroos" value
- * @method Os        setNumerocontrato()  Sets the current record's "numerocontrato" value
- * @method Os        setDataos()          Sets the current record's "dataos" value
- * @method Os        setHoraos()          Sets the current record's "horaos" value
- * @method Os        setObservacao()      Sets the current record's "observacao" value
- * @method Os        setCanalalto()       Sets the current record's "canalalto" value
- * @method Os        setCanalbaixo()      Sets the current record's "canalbaixo" value
- * @method Os        setTecnico()         Sets the current record's "tecnico" value
- * @method Os        setConclusaodata()   Sets the current record's "conclusaodata" value
- * @method Os        setConclusaohora()   Sets the current record's "conclusaohora" value
- * @method Os        setValoros()         Sets the current record's "valoros" value
- * @method Os        setTiporecebimento() Sets the current record's "tiporecebimento" value
+ * @method integer getId()              Returns the current record's "id" value
+ * @method string  getNumeroos()        Returns the current record's "numeroos" value
+ * @method string  getNumerocontrato()  Returns the current record's "numerocontrato" value
+ * @method Date    getDataos()          Returns the current record's "dataos" value
+ * @method string  getHoraos()          Returns the current record's "horaos" value
+ * @method string  getObservacao()      Returns the current record's "observacao" value
+ * @method integer getCanalalto()       Returns the current record's "canalalto" value
+ * @method integer getCanalbaixo()      Returns the current record's "canalbaixo" value
+ * @method string  getTecnico()         Returns the current record's "tecnico" value
+ * @method Date    getConclusaodata()   Returns the current record's "conclusaodata" value
+ * @method string  getConclusaohora()   Returns the current record's "conclusaohora" value
+ * @method decimal getValoros()         Returns the current record's "valoros" value
+ * @method string  getTiporecebimento() Returns the current record's "tiporecebimento" value
+ * @method Os      setId()              Sets the current record's "id" value
+ * @method Os      setNumeroos()        Sets the current record's "numeroos" value
+ * @method Os      setNumerocontrato()  Sets the current record's "numerocontrato" value
+ * @method Os      setDataos()          Sets the current record's "dataos" value
+ * @method Os      setHoraos()          Sets the current record's "horaos" value
+ * @method Os      setObservacao()      Sets the current record's "observacao" value
+ * @method Os      setCanalalto()       Sets the current record's "canalalto" value
+ * @method Os      setCanalbaixo()      Sets the current record's "canalbaixo" value
+ * @method Os      setTecnico()         Sets the current record's "tecnico" value
+ * @method Os      setConclusaodata()   Sets the current record's "conclusaodata" value
+ * @method Os      setConclusaohora()   Sets the current record's "conclusaohora" value
+ * @method Os      setValoros()         Sets the current record's "valoros" value
+ * @method Os      setTiporecebimento() Sets the current record's "tiporecebimento" value
  * 
  * @package    test_laiguAdminTheme
  * @subpackage model
@@ -84,14 +84,13 @@ abstract class BaseOs extends sfDoctrineRecord
              'autoincrement' => false,
              'length' => '15',
              ));
-        $this->hasColumn('dataos', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('dataos', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
         $this->hasColumn('horaos', 'string', 15, array(
              'type' => 'string',
@@ -138,14 +137,13 @@ abstract class BaseOs extends sfDoctrineRecord
              'autoincrement' => false,
              'length' => '105',
              ));
-        $this->hasColumn('conclusaodata', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('conclusaodata', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
         $this->hasColumn('conclusaohora', 'string', 15, array(
              'type' => 'string',

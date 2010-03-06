@@ -12,5 +12,10 @@ class ClienteForm extends BaseClienteForm
 {
   public function configure()
   {
+         $this->setWidgets(array(
+              'nome'           => new sfWidgetFormInput(array(), array('maxlength' => 50)),
+//              ''            => new sfWidgetFormInput(array(), array('maxlength' => 50)),
+              'Cep'                => new sfWidgetFormInput(array(), array('maxlength' => 128))
+            ));
   }
 }

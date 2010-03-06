@@ -30,7 +30,7 @@ abstract class BaseClienteFormFilter extends BaseFormFilterDoctrine
       'ie'                 => new sfWidgetFormFilterInput(array('with_empty' => false)),
       'cpf'                => new sfWidgetFormFilterInput(array('with_empty' => false)),
       'profissao'          => new sfWidgetFormFilterInput(array('with_empty' => false)),
-      'datanascimento'     => new sfWidgetFormFilterDate(array('from_date' => new sfWidgetFormDate(), 'to_date' => new sfWidgetFormDate())),
+      'datanascimento'     => new sfWidgetFormFilterInput(),
       'rg'                 => new sfWidgetFormFilterInput(array('with_empty' => false)),
     ));
 
@@ -52,7 +52,7 @@ abstract class BaseClienteFormFilter extends BaseFormFilterDoctrine
       'ie'                 => new sfValidatorPass(array('required' => false)),
       'cpf'                => new sfValidatorPass(array('required' => false)),
       'profissao'          => new sfValidatorPass(array('required' => false)),
-      'datanascimento'     => new sfValidatorDateRange(array('required' => false, 'from_date' => new sfValidatorDateTime(array('required' => false, 'datetime_output' => 'Y-m-d 00:00:00')), 'to_date' => new sfValidatorDateTime(array('required' => false, 'datetime_output' => 'Y-m-d 23:59:59')))),
+      'datanascimento'     => new sfValidatorPass(array('required' => false)),
       'rg'                 => new sfValidatorPass(array('required' => false)),
     ));
 
@@ -91,7 +91,7 @@ abstract class BaseClienteFormFilter extends BaseFormFilterDoctrine
       'ie'                 => 'Text',
       'cpf'                => 'Text',
       'profissao'          => 'Text',
-      'datanascimento'     => 'Date',
+      'datanascimento'     => 'Text',
       'rg'                 => 'Text',
     );
   }

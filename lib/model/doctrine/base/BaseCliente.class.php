@@ -25,49 +25,49 @@ Doctrine_Manager::getInstance()->bindComponent('Cliente', 'doctrine');
  * @property string $ie
  * @property string $cpf
  * @property string $profissao
- * @property timestamp $datanascimento
+ * @property Date $datanascimento
  * @property string $rg
  * 
- * @method string    getCodigo()             Returns the current record's "codigo" value
- * @method string    getNome()               Returns the current record's "nome" value
- * @method string    getEndereco()           Returns the current record's "endereco" value
- * @method string    getBairro()             Returns the current record's "bairro" value
- * @method string    getCidade()             Returns the current record's "cidade" value
- * @method string    getEstado()             Returns the current record's "estado" value
- * @method string    getCep()                Returns the current record's "cep" value
- * @method string    getTransversalinicial() Returns the current record's "transversalinicial" value
- * @method string    getTransversalfinal()   Returns the current record's "transversalfinal" value
- * @method string    getTelefone()           Returns the current record's "telefone" value
- * @method string    getContato()            Returns the current record's "contato" value
- * @method string    getFax()                Returns the current record's "fax" value
- * @method string    getEmail()              Returns the current record's "email" value
- * @method integer   getPessoafisica()       Returns the current record's "pessoafisica" value
- * @method string    getCgc()                Returns the current record's "cgc" value
- * @method string    getIe()                 Returns the current record's "ie" value
- * @method string    getCpf()                Returns the current record's "cpf" value
- * @method string    getProfissao()          Returns the current record's "profissao" value
- * @method timestamp getDatanascimento()     Returns the current record's "datanascimento" value
- * @method string    getRg()                 Returns the current record's "rg" value
- * @method Cliente   setCodigo()             Sets the current record's "codigo" value
- * @method Cliente   setNome()               Sets the current record's "nome" value
- * @method Cliente   setEndereco()           Sets the current record's "endereco" value
- * @method Cliente   setBairro()             Sets the current record's "bairro" value
- * @method Cliente   setCidade()             Sets the current record's "cidade" value
- * @method Cliente   setEstado()             Sets the current record's "estado" value
- * @method Cliente   setCep()                Sets the current record's "cep" value
- * @method Cliente   setTransversalinicial() Sets the current record's "transversalinicial" value
- * @method Cliente   setTransversalfinal()   Sets the current record's "transversalfinal" value
- * @method Cliente   setTelefone()           Sets the current record's "telefone" value
- * @method Cliente   setContato()            Sets the current record's "contato" value
- * @method Cliente   setFax()                Sets the current record's "fax" value
- * @method Cliente   setEmail()              Sets the current record's "email" value
- * @method Cliente   setPessoafisica()       Sets the current record's "pessoafisica" value
- * @method Cliente   setCgc()                Sets the current record's "cgc" value
- * @method Cliente   setIe()                 Sets the current record's "ie" value
- * @method Cliente   setCpf()                Sets the current record's "cpf" value
- * @method Cliente   setProfissao()          Sets the current record's "profissao" value
- * @method Cliente   setDatanascimento()     Sets the current record's "datanascimento" value
- * @method Cliente   setRg()                 Sets the current record's "rg" value
+ * @method string  getCodigo()             Returns the current record's "codigo" value
+ * @method string  getNome()               Returns the current record's "nome" value
+ * @method string  getEndereco()           Returns the current record's "endereco" value
+ * @method string  getBairro()             Returns the current record's "bairro" value
+ * @method string  getCidade()             Returns the current record's "cidade" value
+ * @method string  getEstado()             Returns the current record's "estado" value
+ * @method string  getCep()                Returns the current record's "cep" value
+ * @method string  getTransversalinicial() Returns the current record's "transversalinicial" value
+ * @method string  getTransversalfinal()   Returns the current record's "transversalfinal" value
+ * @method string  getTelefone()           Returns the current record's "telefone" value
+ * @method string  getContato()            Returns the current record's "contato" value
+ * @method string  getFax()                Returns the current record's "fax" value
+ * @method string  getEmail()              Returns the current record's "email" value
+ * @method integer getPessoafisica()       Returns the current record's "pessoafisica" value
+ * @method string  getCgc()                Returns the current record's "cgc" value
+ * @method string  getIe()                 Returns the current record's "ie" value
+ * @method string  getCpf()                Returns the current record's "cpf" value
+ * @method string  getProfissao()          Returns the current record's "profissao" value
+ * @method Date    getDatanascimento()     Returns the current record's "datanascimento" value
+ * @method string  getRg()                 Returns the current record's "rg" value
+ * @method Cliente setCodigo()             Sets the current record's "codigo" value
+ * @method Cliente setNome()               Sets the current record's "nome" value
+ * @method Cliente setEndereco()           Sets the current record's "endereco" value
+ * @method Cliente setBairro()             Sets the current record's "bairro" value
+ * @method Cliente setCidade()             Sets the current record's "cidade" value
+ * @method Cliente setEstado()             Sets the current record's "estado" value
+ * @method Cliente setCep()                Sets the current record's "cep" value
+ * @method Cliente setTransversalinicial() Sets the current record's "transversalinicial" value
+ * @method Cliente setTransversalfinal()   Sets the current record's "transversalfinal" value
+ * @method Cliente setTelefone()           Sets the current record's "telefone" value
+ * @method Cliente setContato()            Sets the current record's "contato" value
+ * @method Cliente setFax()                Sets the current record's "fax" value
+ * @method Cliente setEmail()              Sets the current record's "email" value
+ * @method Cliente setPessoafisica()       Sets the current record's "pessoafisica" value
+ * @method Cliente setCgc()                Sets the current record's "cgc" value
+ * @method Cliente setIe()                 Sets the current record's "ie" value
+ * @method Cliente setCpf()                Sets the current record's "cpf" value
+ * @method Cliente setProfissao()          Sets the current record's "profissao" value
+ * @method Cliente setDatanascimento()     Sets the current record's "datanascimento" value
+ * @method Cliente setRg()                 Sets the current record's "rg" value
  * 
  * @package    test_laiguAdminTheme
  * @subpackage model
@@ -240,14 +240,13 @@ abstract class BaseCliente extends sfDoctrineRecord
              'autoincrement' => false,
              'length' => '75',
              ));
-        $this->hasColumn('datanascimento', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('datanascimento', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
         $this->hasColumn('rg', 'string', 75, array(
              'type' => 'string',

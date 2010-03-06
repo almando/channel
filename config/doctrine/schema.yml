@@ -233,7 +233,7 @@ Caixa:
       notnull: true
       autoincrement: false
     data:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
@@ -282,7 +282,7 @@ Caixa:
       notnull: false
       autoincrement: false
     bompara:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
@@ -418,7 +418,7 @@ Cliente:
       notnull: true
       autoincrement: false
     datanascimento:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
@@ -470,14 +470,14 @@ Contacorrente:
       notnull: true
       autoincrement: false
     dataemissao:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
       notnull: true
       autoincrement: false
     predatado:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
@@ -543,14 +543,14 @@ Contaspagar:
       notnull: true
       autoincrement: false
     dataemissao:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
       notnull: false
       autoincrement: false
     datavencimento:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
@@ -578,7 +578,7 @@ Contaspagar:
       notnull: true
       autoincrement: false
     datapagamento:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
@@ -634,7 +634,7 @@ Contaspagar:
       notnull: false
       autoincrement: false
     predatado:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
@@ -672,14 +672,14 @@ Contasreceber:
       notnull: true
       autoincrement: false
     dataemissao:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
       notnull: true
       autoincrement: false
     datavencimento:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
@@ -707,7 +707,7 @@ Contasreceber:
       notnull: true
       autoincrement: false
     datapagamento:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
@@ -793,7 +793,7 @@ Contrato:
       notnull: true
       autoincrement: false
     datacontrato:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
@@ -870,7 +870,7 @@ Contrato:
       notnull: true
       autoincrement: false
     datapagamentoadesao:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
@@ -905,28 +905,28 @@ Contrato:
       notnull: false
       autoincrement: false
     aviso1:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
       notnull: false
       autoincrement: false
     aviso2:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
       notnull: false
       autoincrement: false
     datacorte:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
       notnull: false
       autoincrement: false
     dataligacao:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
@@ -1201,7 +1201,7 @@ Os:
       notnull: true
       autoincrement: false
     dataos:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false
@@ -1243,7 +1243,7 @@ Os:
       notnull: true
       autoincrement: false
     conclusaodata:
-      type: timestamp(25)
+      type: Date
       fixed: false
       unsigned: false
       primary: false

@@ -9,12 +9,12 @@ Doctrine_Manager::getInstance()->bindComponent('Contasreceber', 'doctrine');
  * 
  * @property string $numerodocumento
  * @property string $numerocontrato
- * @property timestamp $dataemissao
- * @property timestamp $datavencimento
+ * @property Date $dataemissao
+ * @property Date $datavencimento
  * @property decimal $valor
  * @property string $controlecusto
  * @property string $historico
- * @property timestamp $datapagamento
+ * @property Date $datapagamento
  * @property decimal $desconto
  * @property decimal $juros
  * @property decimal $multa
@@ -26,12 +26,12 @@ Doctrine_Manager::getInstance()->bindComponent('Contasreceber', 'doctrine');
  * 
  * @method string        getNumerodocumento() Returns the current record's "numerodocumento" value
  * @method string        getNumerocontrato()  Returns the current record's "numerocontrato" value
- * @method timestamp     getDataemissao()     Returns the current record's "dataemissao" value
- * @method timestamp     getDatavencimento()  Returns the current record's "datavencimento" value
+ * @method Date          getDataemissao()     Returns the current record's "dataemissao" value
+ * @method Date          getDatavencimento()  Returns the current record's "datavencimento" value
  * @method decimal       getValor()           Returns the current record's "valor" value
  * @method string        getControlecusto()   Returns the current record's "controlecusto" value
  * @method string        getHistorico()       Returns the current record's "historico" value
- * @method timestamp     getDatapagamento()   Returns the current record's "datapagamento" value
+ * @method Date          getDatapagamento()   Returns the current record's "datapagamento" value
  * @method decimal       getDesconto()        Returns the current record's "desconto" value
  * @method decimal       getJuros()           Returns the current record's "juros" value
  * @method decimal       getMulta()           Returns the current record's "multa" value
@@ -84,23 +84,21 @@ abstract class BaseContasreceber extends sfDoctrineRecord
              'autoincrement' => false,
              'length' => '15',
              ));
-        $this->hasColumn('dataemissao', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('dataemissao', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => true,
              'autoincrement' => false,
-             'length' => '25',
              ));
-        $this->hasColumn('datavencimento', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('datavencimento', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => true,
              'autoincrement' => false,
-             'length' => '25',
              ));
         $this->hasColumn('valor', 'decimal', 21, array(
              'type' => 'decimal',
@@ -130,14 +128,13 @@ abstract class BaseContasreceber extends sfDoctrineRecord
              'autoincrement' => false,
              'length' => '240',
              ));
-        $this->hasColumn('datapagamento', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('datapagamento', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
         $this->hasColumn('desconto', 'decimal', 21, array(
              'type' => 'decimal',

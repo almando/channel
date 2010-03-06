@@ -11,39 +11,39 @@ Doctrine_Manager::getInstance()->bindComponent('Caixa', 'doctrine');
  * @property string $custo
  * @property string $numerodocumento
  * @property decimal $valor
- * @property timestamp $data
+ * @property Date $data
  * @property string $historico
  * @property string $usuario
  * @property string $contrato
  * @property string $contacorrente
  * @property integer $registrocontacorrente
  * @property integer $cheque
- * @property timestamp $bompara
+ * @property Date $bompara
  * 
- * @method string    getLancamento()            Returns the current record's "lancamento" value
- * @method string    getCusto()                 Returns the current record's "custo" value
- * @method string    getNumerodocumento()       Returns the current record's "numerodocumento" value
- * @method decimal   getValor()                 Returns the current record's "valor" value
- * @method timestamp getData()                  Returns the current record's "data" value
- * @method string    getHistorico()             Returns the current record's "historico" value
- * @method string    getUsuario()               Returns the current record's "usuario" value
- * @method string    getContrato()              Returns the current record's "contrato" value
- * @method string    getContacorrente()         Returns the current record's "contacorrente" value
- * @method integer   getRegistrocontacorrente() Returns the current record's "registrocontacorrente" value
- * @method integer   getCheque()                Returns the current record's "cheque" value
- * @method timestamp getBompara()               Returns the current record's "bompara" value
- * @method Caixa     setLancamento()            Sets the current record's "lancamento" value
- * @method Caixa     setCusto()                 Sets the current record's "custo" value
- * @method Caixa     setNumerodocumento()       Sets the current record's "numerodocumento" value
- * @method Caixa     setValor()                 Sets the current record's "valor" value
- * @method Caixa     setData()                  Sets the current record's "data" value
- * @method Caixa     setHistorico()             Sets the current record's "historico" value
- * @method Caixa     setUsuario()               Sets the current record's "usuario" value
- * @method Caixa     setContrato()              Sets the current record's "contrato" value
- * @method Caixa     setContacorrente()         Sets the current record's "contacorrente" value
- * @method Caixa     setRegistrocontacorrente() Sets the current record's "registrocontacorrente" value
- * @method Caixa     setCheque()                Sets the current record's "cheque" value
- * @method Caixa     setBompara()               Sets the current record's "bompara" value
+ * @method string  getLancamento()            Returns the current record's "lancamento" value
+ * @method string  getCusto()                 Returns the current record's "custo" value
+ * @method string  getNumerodocumento()       Returns the current record's "numerodocumento" value
+ * @method decimal getValor()                 Returns the current record's "valor" value
+ * @method Date    getData()                  Returns the current record's "data" value
+ * @method string  getHistorico()             Returns the current record's "historico" value
+ * @method string  getUsuario()               Returns the current record's "usuario" value
+ * @method string  getContrato()              Returns the current record's "contrato" value
+ * @method string  getContacorrente()         Returns the current record's "contacorrente" value
+ * @method integer getRegistrocontacorrente() Returns the current record's "registrocontacorrente" value
+ * @method integer getCheque()                Returns the current record's "cheque" value
+ * @method Date    getBompara()               Returns the current record's "bompara" value
+ * @method Caixa   setLancamento()            Sets the current record's "lancamento" value
+ * @method Caixa   setCusto()                 Sets the current record's "custo" value
+ * @method Caixa   setNumerodocumento()       Sets the current record's "numerodocumento" value
+ * @method Caixa   setValor()                 Sets the current record's "valor" value
+ * @method Caixa   setData()                  Sets the current record's "data" value
+ * @method Caixa   setHistorico()             Sets the current record's "historico" value
+ * @method Caixa   setUsuario()               Sets the current record's "usuario" value
+ * @method Caixa   setContrato()              Sets the current record's "contrato" value
+ * @method Caixa   setContacorrente()         Sets the current record's "contacorrente" value
+ * @method Caixa   setRegistrocontacorrente() Sets the current record's "registrocontacorrente" value
+ * @method Caixa   setCheque()                Sets the current record's "cheque" value
+ * @method Caixa   setBompara()               Sets the current record's "bompara" value
  * 
  * @package    test_laiguAdminTheme
  * @subpackage model
@@ -91,14 +91,13 @@ abstract class BaseCaixa extends sfDoctrineRecord
              'length' => '21',
              'scale' => ' 4',
              ));
-        $this->hasColumn('data', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('data', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => true,
              'autoincrement' => false,
-             'length' => '25',
              ));
         $this->hasColumn('historico', 'string', 240, array(
              'type' => 'string',
@@ -154,14 +153,13 @@ abstract class BaseCaixa extends sfDoctrineRecord
              'autoincrement' => false,
              'length' => '4',
              ));
-        $this->hasColumn('bompara', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('bompara', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
     }
 

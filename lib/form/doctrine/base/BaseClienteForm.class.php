@@ -56,7 +56,7 @@ abstract class BaseClienteForm extends BaseFormDoctrine
       'ie'                 => new sfValidatorString(array('max_length' => 60)),
       'cpf'                => new sfValidatorString(array('max_length' => 42)),
       'profissao'          => new sfValidatorString(array('max_length' => 75)),
-      'datanascimento'     => new sfValidatorDateTime(array('required' => false)),
+      'datanascimento'     => new sfValidatorPass(array('required' => false)),
       'rg'                 => new sfValidatorString(array('max_length' => 75)),
     ));
 

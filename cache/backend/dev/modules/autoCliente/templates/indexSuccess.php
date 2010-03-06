@@ -1,7 +1,7 @@
 <?php use_helper('I18N', 'Date') ?>
 
 <?php if(!$sf_request->isXmlHttpRequest()): ?><div class="laigu" id="sf_admin_container"><?php endif ?>
-  <h1><?php echo __('Cliente List', array(), 'messages') ?></h1>
+  <h1><?php echo __('Pesquisa Clientes', array(), 'messages') ?></h1>
 
   <?php include_partial('cliente/flashes') ?>
 
@@ -9,9 +9,9 @@
     <?php include_partial('cliente/list_header', array('pager' => $pager)) ?>
   </div>
 
-<div id="filter_win4b7ff800051bd" class="x-container" style="visibility: hidden; float: right;">
+<div id="filter_win4b848fd124f6b" class="x-container" style="visibility: hidden; float: right;">
     <div class="x-panel-header"><?php echo __('Filters', array(), 'sf_admin') ?></div>
-    <div class="x-panel-body" id="filter_div4b7ff800051bd">
+    <div class="x-panel-body" id="filter_div4b848fd124f6b">
       <?php include_partial('cliente/filters', array('form' => $filters, 'configuration' => $configuration)) ?>
     </div>
 </div>
@@ -22,7 +22,7 @@ Ext.onReady(function(){
     panel = new Ext.Panel({
         title: 'Filters',
         collapsible: true,
-        applyTo:'filter_win4b7ff800051bd',
+        applyTo:'filter_win4b848fd124f6b',
         style: {visibility: 'visible'}
     });
     panel.show();

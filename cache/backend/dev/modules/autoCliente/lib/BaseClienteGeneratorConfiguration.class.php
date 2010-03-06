@@ -57,7 +57,7 @@ abstract class BaseClienteGeneratorConfiguration extends sfModelGeneratorConfigu
 
   public function getListParams()
   {
-    return '%%codigo%% - %%nome%% - %%endereco%% - %%bairro%% - %%cidade%% - %%estado%% - %%cep%% - %%transversalinicial%% - %%transversalfinal%% - %%telefone%% - %%contato%% - %%fax%% - %%email%% - %%pessoafisica%% - %%cgc%% - %%ie%% - %%cpf%% - %%profissao%% - %%datanascimento%% - %%rg%%';
+    return '%%Codigo%% - %%=Nome%% - %%Telefone%% - %%Transversalinicial%% - %%Transversalfinal%%';
   }
 
   public function getListLayout()
@@ -67,12 +67,12 @@ abstract class BaseClienteGeneratorConfiguration extends sfModelGeneratorConfigu
 
   public function getListTitle()
   {
-    return 'Cliente List';
+    return 'Pesquisa Clientes';
   }
 
   public function getEditTitle()
   {
-    return 'Edit Cliente';
+    return 'Editando: %%Nome%%';
   }
 
   public function getNewTitle()
@@ -102,13 +102,13 @@ abstract class BaseClienteGeneratorConfiguration extends sfModelGeneratorConfigu
 
   public function getListDisplay()
   {
-    return array(  0 => 'codigo',  1 => 'nome',  2 => 'endereco',  3 => 'bairro',  4 => 'cidade',  5 => 'estado',  6 => 'cep',  7 => 'transversalinicial',  8 => 'transversalfinal',  9 => 'telefone',  10 => 'contato',  11 => 'fax',  12 => 'email',  13 => 'pessoafisica',  14 => 'cgc',  15 => 'ie',  16 => 'cpf',  17 => 'profissao',  18 => 'datanascimento',  19 => 'rg',);
+    return array(  0 => 'Codigo',  1 => '=Nome',  2 => 'Telefone',  3 => 'Transversalinicial',  4 => 'Transversalfinal',);
   }
 
   // LAIGU Theme
   public function getEditDetail()
   {
-    return array();
+    return array(  'contrato' =>   array(    'module' => 'contrato',    'params' =>     array(      'codigocliente' => 'getCodigo',    ),  ),);
   }
 
 
@@ -133,8 +133,10 @@ abstract class BaseClienteGeneratorConfiguration extends sfModelGeneratorConfigu
       'ie' => array(  'is_link' => false,  'is_real' => true,  'is_partial' => false,  'is_component' => false,  'type' => 'Text',),
       'cpf' => array(  'is_link' => false,  'is_real' => true,  'is_partial' => false,  'is_component' => false,  'type' => 'Text',),
       'profissao' => array(  'is_link' => false,  'is_real' => true,  'is_partial' => false,  'is_component' => false,  'type' => 'Text',),
-      'datanascimento' => array(  'is_link' => false,  'is_real' => true,  'is_partial' => false,  'is_component' => false,  'type' => 'Date',),
+      'datanascimento' => array(  'is_link' => false,  'is_real' => true,  'is_partial' => false,  'is_component' => false,  'type' => 'Text',),
       'rg' => array(  'is_link' => false,  'is_real' => true,  'is_partial' => false,  'is_component' => false,  'type' => 'Text',),
+      'Nome' => array(  'is_link' => false,  'is_real' => false,  'is_partial' => false,  'is_component' => false,  'type' => 'Text',  'params' =>   array(    'size' => '260x5',  ),),
+      'Datanascimento' => array(  'is_link' => false,  'is_real' => false,  'is_partial' => false,  'is_component' => false,  'type' => 'plain',  'params' => 'date_format=\'dd/MM/yy\'',),
     );
   }
 
@@ -383,7 +385,7 @@ abstract class BaseClienteGeneratorConfiguration extends sfModelGeneratorConfigu
 
   public function getDefaultSort()
   {
-    return array(null, null);
+    return array('Nome', 'asc');
   }
 
   public function getTableMethod()

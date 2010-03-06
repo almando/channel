@@ -16,28 +16,28 @@ abstract class BaseCaixaFormFilter extends BaseFormFilterDoctrine
       'custo'                 => new sfWidgetFormFilterInput(array('with_empty' => false)),
       'numerodocumento'       => new sfWidgetFormFilterInput(array('with_empty' => false)),
       'valor'                 => new sfWidgetFormFilterInput(array('with_empty' => false)),
-      'data'                  => new sfWidgetFormFilterDate(array('from_date' => new sfWidgetFormDate(), 'to_date' => new sfWidgetFormDate(), 'with_empty' => false)),
+      'data'                  => new sfWidgetFormFilterInput(array('with_empty' => false)),
       'historico'             => new sfWidgetFormFilterInput(array('with_empty' => false)),
       'usuario'               => new sfWidgetFormFilterInput(array('with_empty' => false)),
       'contrato'              => new sfWidgetFormFilterInput(array('with_empty' => false)),
       'contacorrente'         => new sfWidgetFormFilterInput(array('with_empty' => false)),
       'registrocontacorrente' => new sfWidgetFormFilterInput(),
       'cheque'                => new sfWidgetFormFilterInput(),
-      'bompara'               => new sfWidgetFormFilterDate(array('from_date' => new sfWidgetFormDate(), 'to_date' => new sfWidgetFormDate())),
+      'bompara'               => new sfWidgetFormFilterInput(),
     ));
 
     $this->setValidators(array(
       'custo'                 => new sfValidatorPass(array('required' => false)),
       'numerodocumento'       => new sfValidatorPass(array('required' => false)),
       'valor'                 => new sfValidatorSchemaFilter('text', new sfValidatorNumber(array('required' => false))),
-      'data'                  => new sfValidatorDateRange(array('required' => false, 'from_date' => new sfValidatorDateTime(array('required' => false, 'datetime_output' => 'Y-m-d 00:00:00')), 'to_date' => new sfValidatorDateTime(array('required' => false, 'datetime_output' => 'Y-m-d 23:59:59')))),
+      'data'                  => new sfValidatorPass(array('required' => false)),
       'historico'             => new sfValidatorPass(array('required' => false)),
       'usuario'               => new sfValidatorPass(array('required' => false)),
       'contrato'              => new sfValidatorPass(array('required' => false)),
       'contacorrente'         => new sfValidatorPass(array('required' => false)),
       'registrocontacorrente' => new sfValidatorSchemaFilter('text', new sfValidatorInteger(array('required' => false))),
       'cheque'                => new sfValidatorSchemaFilter('text', new sfValidatorInteger(array('required' => false))),
-      'bompara'               => new sfValidatorDateRange(array('required' => false, 'from_date' => new sfValidatorDateTime(array('required' => false, 'datetime_output' => 'Y-m-d 00:00:00')), 'to_date' => new sfValidatorDateTime(array('required' => false, 'datetime_output' => 'Y-m-d 23:59:59')))),
+      'bompara'               => new sfValidatorPass(array('required' => false)),
     ));
 
     $this->widgetSchema->setNameFormat('caixa_filters[%s]');
@@ -61,14 +61,14 @@ abstract class BaseCaixaFormFilter extends BaseFormFilterDoctrine
       'custo'                 => 'Text',
       'numerodocumento'       => 'Text',
       'valor'                 => 'Number',
-      'data'                  => 'Date',
+      'data'                  => 'Text',
       'historico'             => 'Text',
       'usuario'               => 'Text',
       'contrato'              => 'Text',
       'contacorrente'         => 'Text',
       'registrocontacorrente' => 'Number',
       'cheque'                => 'Number',
-      'bompara'               => 'Date',
+      'bompara'               => 'Text',
     );
   }
 }

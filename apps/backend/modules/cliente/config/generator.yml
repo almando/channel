@@ -13,9 +13,21 @@ generator:
 
     config:
       actions: ~
-      fields:  ~
-      list:    ~
+      fields:
+        Nome:
+          params:
+            size: 260x5
+        Datanascimento: {type: plain, params: date_format='dd/MM/yy'}
+      list:
+        title: "Pesquisa Clientes"
+        display:   [Codigo, =Nome, Telefone, Transversalinicial, Transversalfinal]
+        sort:      [Nome]
       filter:  ~
       form:    ~
-      edit:    ~
+      edit:
+        title: "Editando: %%Nome%%"
+        detail:
+          contrato:
+            module: contrato
+            params: { codigocliente: getCodigo }
       new:     ~

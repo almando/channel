@@ -9,7 +9,7 @@ Doctrine_Manager::getInstance()->bindComponent('Contrato', 'doctrine');
  * 
  * @property string $numerocontrato
  * @property string $codigocliente
- * @property timestamp $datacontrato
+ * @property Date $datacontrato
  * @property string $tipocontrato
  * @property string $categoria
  * @property string $area
@@ -20,63 +20,63 @@ Doctrine_Manager::getInstance()->bindComponent('Contrato', 'doctrine');
  * @property decimal $valoradesao
  * @property decimal $valormanutencao
  * @property string $parcelasadesao
- * @property timestamp $datapagamentoadesao
+ * @property Date $datapagamentoadesao
  * @property string $pontosadicionais
  * @property decimal $valorpontoadcional
  * @property string $observacao
  * @property integer $suspenso
- * @property timestamp $aviso1
- * @property timestamp $aviso2
- * @property timestamp $datacorte
- * @property timestamp $dataligacao
+ * @property Date $aviso1
+ * @property Date $aviso2
+ * @property Date $datacorte
+ * @property Date $dataligacao
  * @property string $numerocc
  * 
- * @method string    getNumerocontrato()      Returns the current record's "numerocontrato" value
- * @method string    getCodigocliente()       Returns the current record's "codigocliente" value
- * @method timestamp getDatacontrato()        Returns the current record's "datacontrato" value
- * @method string    getTipocontrato()        Returns the current record's "tipocontrato" value
- * @method string    getCategoria()           Returns the current record's "categoria" value
- * @method string    getArea()                Returns the current record's "area" value
- * @method string    getNumeroaparelho()      Returns the current record's "numeroaparelho" value
- * @method string    getNumerocircuito()      Returns the current record's "numerocircuito" value
- * @method string    getTipopagamento()       Returns the current record's "tipopagamento" value
- * @method string    getDiapagamento()        Returns the current record's "diapagamento" value
- * @method decimal   getValoradesao()         Returns the current record's "valoradesao" value
- * @method decimal   getValormanutencao()     Returns the current record's "valormanutencao" value
- * @method string    getParcelasadesao()      Returns the current record's "parcelasadesao" value
- * @method timestamp getDatapagamentoadesao() Returns the current record's "datapagamentoadesao" value
- * @method string    getPontosadicionais()    Returns the current record's "pontosadicionais" value
- * @method decimal   getValorpontoadcional()  Returns the current record's "valorpontoadcional" value
- * @method string    getObservacao()          Returns the current record's "observacao" value
- * @method integer   getSuspenso()            Returns the current record's "suspenso" value
- * @method timestamp getAviso1()              Returns the current record's "aviso1" value
- * @method timestamp getAviso2()              Returns the current record's "aviso2" value
- * @method timestamp getDatacorte()           Returns the current record's "datacorte" value
- * @method timestamp getDataligacao()         Returns the current record's "dataligacao" value
- * @method string    getNumerocc()            Returns the current record's "numerocc" value
- * @method Contrato  setNumerocontrato()      Sets the current record's "numerocontrato" value
- * @method Contrato  setCodigocliente()       Sets the current record's "codigocliente" value
- * @method Contrato  setDatacontrato()        Sets the current record's "datacontrato" value
- * @method Contrato  setTipocontrato()        Sets the current record's "tipocontrato" value
- * @method Contrato  setCategoria()           Sets the current record's "categoria" value
- * @method Contrato  setArea()                Sets the current record's "area" value
- * @method Contrato  setNumeroaparelho()      Sets the current record's "numeroaparelho" value
- * @method Contrato  setNumerocircuito()      Sets the current record's "numerocircuito" value
- * @method Contrato  setTipopagamento()       Sets the current record's "tipopagamento" value
- * @method Contrato  setDiapagamento()        Sets the current record's "diapagamento" value
- * @method Contrato  setValoradesao()         Sets the current record's "valoradesao" value
- * @method Contrato  setValormanutencao()     Sets the current record's "valormanutencao" value
- * @method Contrato  setParcelasadesao()      Sets the current record's "parcelasadesao" value
- * @method Contrato  setDatapagamentoadesao() Sets the current record's "datapagamentoadesao" value
- * @method Contrato  setPontosadicionais()    Sets the current record's "pontosadicionais" value
- * @method Contrato  setValorpontoadcional()  Sets the current record's "valorpontoadcional" value
- * @method Contrato  setObservacao()          Sets the current record's "observacao" value
- * @method Contrato  setSuspenso()            Sets the current record's "suspenso" value
- * @method Contrato  setAviso1()              Sets the current record's "aviso1" value
- * @method Contrato  setAviso2()              Sets the current record's "aviso2" value
- * @method Contrato  setDatacorte()           Sets the current record's "datacorte" value
- * @method Contrato  setDataligacao()         Sets the current record's "dataligacao" value
- * @method Contrato  setNumerocc()            Sets the current record's "numerocc" value
+ * @method string   getNumerocontrato()      Returns the current record's "numerocontrato" value
+ * @method string   getCodigocliente()       Returns the current record's "codigocliente" value
+ * @method Date     getDatacontrato()        Returns the current record's "datacontrato" value
+ * @method string   getTipocontrato()        Returns the current record's "tipocontrato" value
+ * @method string   getCategoria()           Returns the current record's "categoria" value
+ * @method string   getArea()                Returns the current record's "area" value
+ * @method string   getNumeroaparelho()      Returns the current record's "numeroaparelho" value
+ * @method string   getNumerocircuito()      Returns the current record's "numerocircuito" value
+ * @method string   getTipopagamento()       Returns the current record's "tipopagamento" value
+ * @method string   getDiapagamento()        Returns the current record's "diapagamento" value
+ * @method decimal  getValoradesao()         Returns the current record's "valoradesao" value
+ * @method decimal  getValormanutencao()     Returns the current record's "valormanutencao" value
+ * @method string   getParcelasadesao()      Returns the current record's "parcelasadesao" value
+ * @method Date     getDatapagamentoadesao() Returns the current record's "datapagamentoadesao" value
+ * @method string   getPontosadicionais()    Returns the current record's "pontosadicionais" value
+ * @method decimal  getValorpontoadcional()  Returns the current record's "valorpontoadcional" value
+ * @method string   getObservacao()          Returns the current record's "observacao" value
+ * @method integer  getSuspenso()            Returns the current record's "suspenso" value
+ * @method Date     getAviso1()              Returns the current record's "aviso1" value
+ * @method Date     getAviso2()              Returns the current record's "aviso2" value
+ * @method Date     getDatacorte()           Returns the current record's "datacorte" value
+ * @method Date     getDataligacao()         Returns the current record's "dataligacao" value
+ * @method string   getNumerocc()            Returns the current record's "numerocc" value
+ * @method Contrato setNumerocontrato()      Sets the current record's "numerocontrato" value
+ * @method Contrato setCodigocliente()       Sets the current record's "codigocliente" value
+ * @method Contrato setDatacontrato()        Sets the current record's "datacontrato" value
+ * @method Contrato setTipocontrato()        Sets the current record's "tipocontrato" value
+ * @method Contrato setCategoria()           Sets the current record's "categoria" value
+ * @method Contrato setArea()                Sets the current record's "area" value
+ * @method Contrato setNumeroaparelho()      Sets the current record's "numeroaparelho" value
+ * @method Contrato setNumerocircuito()      Sets the current record's "numerocircuito" value
+ * @method Contrato setTipopagamento()       Sets the current record's "tipopagamento" value
+ * @method Contrato setDiapagamento()        Sets the current record's "diapagamento" value
+ * @method Contrato setValoradesao()         Sets the current record's "valoradesao" value
+ * @method Contrato setValormanutencao()     Sets the current record's "valormanutencao" value
+ * @method Contrato setParcelasadesao()      Sets the current record's "parcelasadesao" value
+ * @method Contrato setDatapagamentoadesao() Sets the current record's "datapagamentoadesao" value
+ * @method Contrato setPontosadicionais()    Sets the current record's "pontosadicionais" value
+ * @method Contrato setValorpontoadcional()  Sets the current record's "valorpontoadcional" value
+ * @method Contrato setObservacao()          Sets the current record's "observacao" value
+ * @method Contrato setSuspenso()            Sets the current record's "suspenso" value
+ * @method Contrato setAviso1()              Sets the current record's "aviso1" value
+ * @method Contrato setAviso2()              Sets the current record's "aviso2" value
+ * @method Contrato setDatacorte()           Sets the current record's "datacorte" value
+ * @method Contrato setDataligacao()         Sets the current record's "dataligacao" value
+ * @method Contrato setNumerocc()            Sets the current record's "numerocc" value
  * 
  * @package    test_laiguAdminTheme
  * @subpackage model
@@ -105,14 +105,13 @@ abstract class BaseContrato extends sfDoctrineRecord
              'autoincrement' => false,
              'length' => '15',
              ));
-        $this->hasColumn('datacontrato', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('datacontrato', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
         $this->hasColumn('tipocontrato', 'string', 60, array(
              'type' => 'string',
@@ -206,14 +205,13 @@ abstract class BaseContrato extends sfDoctrineRecord
              'autoincrement' => false,
              'length' => '6',
              ));
-        $this->hasColumn('datapagamentoadesao', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('datapagamentoadesao', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
         $this->hasColumn('pontosadicionais', 'string', 9, array(
              'type' => 'string',
@@ -252,41 +250,37 @@ abstract class BaseContrato extends sfDoctrineRecord
              'autoincrement' => false,
              'length' => '4',
              ));
-        $this->hasColumn('aviso1', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('aviso1', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
-        $this->hasColumn('aviso2', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('aviso2', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
-        $this->hasColumn('datacorte', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('datacorte', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
-        $this->hasColumn('dataligacao', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('dataligacao', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => true,
              'autoincrement' => false,
-             'length' => '25',
              ));
         $this->hasColumn('numerocc', 'string', 45, array(
              'type' => 'string',

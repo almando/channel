@@ -19,14 +19,14 @@ abstract class BaseCaixaForm extends BaseFormDoctrine
       'custo'                 => new sfWidgetFormInputText(),
       'numerodocumento'       => new sfWidgetFormInputText(),
       'valor'                 => new sfWidgetFormInputText(),
-      'data'                  => new sfWidgetFormDateTime(),
+      'data'                  => new sfWidgetFormInputText(),
       'historico'             => new sfWidgetFormInputText(),
       'usuario'               => new sfWidgetFormInputText(),
       'contrato'              => new sfWidgetFormInputText(),
       'contacorrente'         => new sfWidgetFormInputText(),
       'registrocontacorrente' => new sfWidgetFormInputText(),
       'cheque'                => new sfWidgetFormInputText(),
-      'bompara'               => new sfWidgetFormDateTime(),
+      'bompara'               => new sfWidgetFormInputText(),
     ));
 
     $this->setValidators(array(
@@ -34,14 +34,14 @@ abstract class BaseCaixaForm extends BaseFormDoctrine
       'custo'                 => new sfValidatorString(array('max_length' => 90)),
       'numerodocumento'       => new sfValidatorString(array('max_length' => 30)),
       'valor'                 => new sfValidatorNumber(),
-      'data'                  => new sfValidatorDateTime(),
+      'data'                  => new sfValidatorPass(),
       'historico'             => new sfValidatorString(array('max_length' => 240)),
       'usuario'               => new sfValidatorString(array('max_length' => 60)),
       'contrato'              => new sfValidatorString(array('max_length' => 15)),
       'contacorrente'         => new sfValidatorString(array('max_length' => 30)),
       'registrocontacorrente' => new sfValidatorInteger(array('required' => false)),
       'cheque'                => new sfValidatorInteger(array('required' => false)),
-      'bompara'               => new sfValidatorDateTime(array('required' => false)),
+      'bompara'               => new sfValidatorPass(array('required' => false)),
     ));
 
     $this->widgetSchema->setNameFormat('caixa[%s]');

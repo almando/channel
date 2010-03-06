@@ -11,12 +11,12 @@ Doctrine_Manager::getInstance()->bindComponent('Contaspagar', 'doctrine');
  * @property string $codigofornecedor
  * @property string $numerodocumento
  * @property string $tipodocumento
- * @property timestamp $dataemissao
- * @property timestamp $datavencimento
+ * @property Date $dataemissao
+ * @property Date $datavencimento
  * @property decimal $valor
  * @property string $controlecusto
  * @property string $historico
- * @property timestamp $datapagamento
+ * @property Date $datapagamento
  * @property decimal $desconto
  * @property decimal $juros
  * @property decimal $multa
@@ -24,7 +24,7 @@ Doctrine_Manager::getInstance()->bindComponent('Contaspagar', 'doctrine');
  * @property string $numeroconta
  * @property string $numerocheque
  * @property integer $codigocompra
- * @property timestamp $predatado
+ * @property Date $predatado
  * @property string $filial
  * @property string $lancamentocaixa
  * 
@@ -32,12 +32,12 @@ Doctrine_Manager::getInstance()->bindComponent('Contaspagar', 'doctrine');
  * @method string      getCodigofornecedor() Returns the current record's "codigofornecedor" value
  * @method string      getNumerodocumento()  Returns the current record's "numerodocumento" value
  * @method string      getTipodocumento()    Returns the current record's "tipodocumento" value
- * @method timestamp   getDataemissao()      Returns the current record's "dataemissao" value
- * @method timestamp   getDatavencimento()   Returns the current record's "datavencimento" value
+ * @method Date        getDataemissao()      Returns the current record's "dataemissao" value
+ * @method Date        getDatavencimento()   Returns the current record's "datavencimento" value
  * @method decimal     getValor()            Returns the current record's "valor" value
  * @method string      getControlecusto()    Returns the current record's "controlecusto" value
  * @method string      getHistorico()        Returns the current record's "historico" value
- * @method timestamp   getDatapagamento()    Returns the current record's "datapagamento" value
+ * @method Date        getDatapagamento()    Returns the current record's "datapagamento" value
  * @method decimal     getDesconto()         Returns the current record's "desconto" value
  * @method decimal     getJuros()            Returns the current record's "juros" value
  * @method decimal     getMulta()            Returns the current record's "multa" value
@@ -45,7 +45,7 @@ Doctrine_Manager::getInstance()->bindComponent('Contaspagar', 'doctrine');
  * @method string      getNumeroconta()      Returns the current record's "numeroconta" value
  * @method string      getNumerocheque()     Returns the current record's "numerocheque" value
  * @method integer     getCodigocompra()     Returns the current record's "codigocompra" value
- * @method timestamp   getPredatado()        Returns the current record's "predatado" value
+ * @method Date        getPredatado()        Returns the current record's "predatado" value
  * @method string      getFilial()           Returns the current record's "filial" value
  * @method string      getLancamentocaixa()  Returns the current record's "lancamentocaixa" value
  * @method Contaspagar setRegistro()         Sets the current record's "registro" value
@@ -114,23 +114,21 @@ abstract class BaseContaspagar extends sfDoctrineRecord
              'autoincrement' => false,
              'length' => '45',
              ));
-        $this->hasColumn('dataemissao', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('dataemissao', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
-        $this->hasColumn('datavencimento', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('datavencimento', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
         $this->hasColumn('valor', 'decimal', 21, array(
              'type' => 'decimal',
@@ -160,14 +158,13 @@ abstract class BaseContaspagar extends sfDoctrineRecord
              'autoincrement' => false,
              'length' => '240',
              ));
-        $this->hasColumn('datapagamento', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('datapagamento', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
         $this->hasColumn('desconto', 'decimal', 21, array(
              'type' => 'decimal',
@@ -235,14 +232,13 @@ abstract class BaseContaspagar extends sfDoctrineRecord
              'autoincrement' => false,
              'length' => '4',
              ));
-        $this->hasColumn('predatado', 'timestamp', 25, array(
-             'type' => 'timestamp',
+        $this->hasColumn('predatado', 'Date', null, array(
+             'type' => 'Date',
              'fixed' => 0,
              'unsigned' => false,
              'primary' => false,
              'notnull' => false,
              'autoincrement' => false,
-             'length' => '25',
              ));
         $this->hasColumn('filial', 'string', 6, array(
              'type' => 'string',
