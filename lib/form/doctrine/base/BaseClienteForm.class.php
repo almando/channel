@@ -33,7 +33,7 @@ abstract class BaseClienteForm extends BaseFormDoctrine
       'ie'                 => new sfWidgetFormInputText(),
       'cpf'                => new sfWidgetFormInputText(),
       'profissao'          => new sfWidgetFormInputText(),
-      'datanascimento'     => new sfWidgetFormDateTime(),
+      'datanascimento'     => new sfWidgetFormInputText(),
       'rg'                 => new sfWidgetFormInputText(),
     ));
 

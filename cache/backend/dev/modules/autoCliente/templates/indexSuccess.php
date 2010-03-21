@@ -9,9 +9,9 @@
     <?php include_partial('cliente/list_header', array('pager' => $pager)) ?>
   </div>
 
-<div id="filter_win4b848fd124f6b" class="x-container" style="visibility: hidden; float: right;">
+<div id="filter_win4ba646d095727" class="x-container" style="visibility: hidden; float: right;">
     <div class="x-panel-header"><?php echo __('Filters', array(), 'sf_admin') ?></div>
-    <div class="x-panel-body" id="filter_div4b848fd124f6b">
+    <div class="x-panel-body" id="filter_div4ba646d095727">
       <?php include_partial('cliente/filters', array('form' => $filters, 'configuration' => $configuration)) ?>
     </div>
 </div>
@@ -22,7 +22,7 @@ Ext.onReady(function(){
     panel = new Ext.Panel({
         title: 'Filters',
         collapsible: true,
-        applyTo:'filter_win4b848fd124f6b',
+        applyTo:'filter_win4ba646d095727',
         style: {visibility: 'visible'}
     });
     panel.show();
